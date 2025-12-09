@@ -1,0 +1,1001 @@
+Order id,order date,ship date,customer id,product id,product name,category,region,state,City,Quantity,Unit price,discount(%),Sales amount,cost price,profit,Payment Mode,Delivery status,Supplier name,Supplier email,stock left,Auto reorder,reorder quantity
+ord1000,2025-09-24,2025-09-27,Cust851,prod3399,Bed,Furniture,North,Minnesota,East Nicholas,1,3974,20,3179.2,2697.29,481.91,UPI,Delivered,Randall PLC,delacruzchristopher@willis-kelley.com,46,No,0
+ord1001,2025-07-19,2025-07-25,Cust578,prod2332,Laptop,Electronics,East,Iowa,Schmidtview,8,2414,0,19312.0,12536.56,6775.44,NB,Cancelled,Green-Parrish,qcarlson@williams-martinez.info,24,No,0
+ord1002,2025-11-07,2025-11-10,Cust316,prod2795,Study Table,Furniture,North,Alabama,Browntown,7,2782,10,17526.6,14132.39,3394.21,Cash,Returned,Vega-Parks,trevinocurtis@thompson.net,12,No,0
+ord1003,2025-05-28,2025-06-02,Cust783,prod4985,Keyboard,Electronics,West,South Carolina,New Mitchell,7,3039,5,20209.35,17616.51,2592.84,CC,Cancelled,Miranda Group,keith62@johnson.com,1,Yes,24
+ord1004,2025-01-09,2025-01-11,Cust534,prod4369,Calculator,Office supplies,South,Rhode Island,Deanmouth,8,3810,5,28956.0,21148.87,7807.13,UPI,Cancelled,Padilla and Sons,meghanperry@mendoza.net,24,No,0
+ord1005,2025-02-05,2025-02-09,Cust492,prod5468,Pen,Office supplies,East,Mississippi,Cohentown,2,4616,10,8308.8,5428.88,2879.92,CC,Pending,Spence-Ingram,bgreen@lewis.com,24,No,0
+ord1006,2025-07-03,2025-07-09,Cust594,prod8568,Calculator,Office supplies,West,North Dakota,East Matthewfort,8,273,15,1856.4,1263.37,593.03,CC,Delivered,"Daniels, Morris and Lawson",mcfarlandpaul@rojas-smith.biz,38,No,0
+ord1007,2025-10-07,2025-10-11,Cust901,prod1483,Study Table,Furniture,East,Minnesota,Lake Emmashire,2,4156,5,7896.4,7091.19,805.21,Cash,Pending,Payne-Little,carlossampson@wheeler-peterson.com,16,No,0
+ord1008,2025-11-27,2025-12-02,Cust888,prod7470,Pen,Office supplies,South,Idaho,Port Kevinfurt,7,3238,10,20399.4,13751.89,6647.51,CC,Returned,Brown-Vargas,jonestodd@moore.com,26,No,0
+ord1009,2025-01-24,2025-01-25,Cust670,prod6292,Study Table,Furniture,West,Nevada,New Leemouth,5,1375,15,5843.75,4107.17,1736.58,CC,Returned,Ford-Jacobs,garciajessica@johnson-walker.org,21,No,0
+ord1010,2025-11-24,2025-12-01,Cust761,prod8800,Pen,Office supplies,North,Washington,West Matthewchester,6,584,0,3504.0,2816.13,687.87,UPI,Cancelled,Joseph and Sons,edwardfox@porter.com,0,Yes,46
+ord1011,2025-06-13,2025-06-17,Cust286,prod1767,Study Table,Furniture,West,Pennsylvania,Port John,6,778,20,3734.4,2973.74,760.66,CC,Delivered,"Valenzuela, Harrell and Jackson",iwatson@williams.com,15,No,0
+ord1012,2025-07-30,2025-08-06,Cust657,prod6068,Sugar,Grocery,East,Arizona,Lake Oliviastad,9,3063,0,27567.0,22813.62,4753.38,Cash,Returned,Summers PLC,okelly@ho-jordan.info,28,No,0
+ord1013,2025-07-19,2025-07-21,Cust357,prod5428,Bookshelf,Furniture,West,Washington,Carterburgh,3,1516,5,4320.6,3627.53,693.07,UPI,Cancelled,Fuentes LLC,gonzalezjoseph@chang.com,23,No,0
+ord1014,2025-09-20,2025-09-27,Cust798,prod9703,Sofa,Furniture,East,Missouri,Lake Julia,3,4951,5,14110.35,9588.71,4521.64,NB,Returned,"Wilkins, Simon and Johnson",olsonjason@nunez.com,8,Yes,25
+ord1015,2025-11-13,2025-11-17,Cust107,prod7633,Bed,Furniture,East,Maryland,Lake Heatherland,5,546,10,2457.0,1810.74,646.26,NB,Pending,Barrera and Sons,erik54@williams.com,0,Yes,49
+ord1016,2024-12-14,2024-12-21,Cust824,prod9807,Biscuits,Grocery,South,Kentucky,Port Katherineville,3,4650,20,11160.0,7718.44,3441.56,UPI,Returned,Lopez Ltd,jonesalicia@munoz.org,42,No,0
+ord1017,2025-05-19,2025-05-20,Cust527,prod9301,Mouse,Electronics,West,West Virginia,Kristinaborough,2,4823,20,7716.8,5362.94,2353.86,CC,Cancelled,Lee-Johnson,george00@cruz.com,40,No,0
+ord1018,2025-07-12,2025-07-16,Cust482,prod7368,Laptop,Electronics,West,Alaska,Powersmouth,5,169,10,760.5,566.51,193.99,Cash,Cancelled,"Patterson, Smith and Morris",aguilarjillian@white-acevedo.com,17,No,0
+ord1019,2025-10-23,2025-10-28,Cust564,prod9084,Headphones,Electronics,North,Kentucky,East Gregoryfort,5,4446,15,18895.5,11818.5,7077.0,UPI,Returned,Gonzalez-Walsh,tateeric@taylor.com,37,No,0
+ord1020,2025-10-05,2025-10-07,Cust545,prod8142,Bookshelf,Furniture,North,Tennessee,Suemouth,3,731,5,2083.35,1577.97,505.38,Cash,Pending,"Lowe, Cole and Guerra",emilyrichardson@holmes.com,9,Yes,28
+ord1021,2025-05-20,2025-05-27,Cust895,prod8214,Headphones,Electronics,North,Ohio,Port Lynn,9,3639,10,29475.9,25096.4,4379.5,UPI,Returned,Brown LLC,mitchellmarc@woods.info,33,No,0
+ord1022,2025-02-07,2025-02-11,Cust207,prod7650,Wheat,Grocery,South,Virginia,East Mark,5,4997,20,19988.0,16628.1,3359.9,NB,Delivered,"Williams, Klein and Perez",shawn26@lindsey.com,49,No,0
+ord1023,2025-09-13,2025-09-17,Cust935,prod6327,Bookshelf,Furniture,South,Tennessee,New Bryan,1,644,10,579.6,481.92,97.68,Cash,Pending,"Turner, Anderson and Thompson",kristenlewis@pena-hall.org,37,No,0
+ord1024,2025-01-06,2025-01-08,Cust901,prod5747,Mouse,Electronics,East,North Carolina,West Melissa,6,1066,0,6396.0,4496.47,1899.53,NB,Pending,Santos-Jackson,ilane@johnson-jones.com,21,No,0
+ord1025,2025-05-17,2025-05-21,Cust218,prod4480,Laptop,Electronics,North,Florida,Sarahberg,10,1139,15,9681.5,6656.64,3024.86,Cash,Delivered,Page Ltd,hernandezyesenia@klein-henry.biz,38,No,0
+ord1026,2025-07-06,2025-07-08,Cust830,prod8738,Bookshelf,Furniture,East,Connecticut,Elizabethberg,1,566,5,537.7,384.75,152.95,NB,Returned,"Martinez, Murphy and Rodriguez",davidchang@smith-huber.com,19,No,0
+ord1027,2025-07-14,2025-07-19,Cust414,prod1052,Sofa,Furniture,West,New Hampshire,Briggsville,10,1615,20,12920.0,11397.34,1522.66,Cash,Pending,Smith-Hahn,timothy58@davis-estes.com,47,No,0
+ord1028,2025-11-10,2025-11-11,Cust134,prod4127,Rice bag,Grocery,North,Arkansas,Ellisshire,1,4965,10,4468.5,3203.66,1264.84,UPI,Pending,"Conner, Ruiz and Chapman",donald32@medina.com,15,No,0
+ord1029,2024-12-30,2025-01-03,Cust974,prod5087,Office chair,Furniture,North,Alabama,New Jennifer,4,2675,0,10700.0,9508.42,1191.58,NB,Pending,Butler Inc,jsullivan@anderson.com,39,No,0
+ord1030,2025-01-29,2025-02-05,Cust221,prod6741,Biscuits,Grocery,East,Alabama,Johnsonland,8,925,10,6660.0,5645.46,1014.54,Cash,Cancelled,Wilkerson Group,jhall@harrison.com,37,No,0
+ord1031,2024-12-22,2024-12-27,Cust303,prod1042,Mouse,Electronics,West,South Dakota,Bennettborough,7,4991,0,34937.0,30043.78,4893.22,NB,Returned,"Carter, Frank and Baker",johnwright@butler.info,37,No,0
+ord1032,2025-05-07,2025-05-11,Cust793,prod2456,Office chair,Furniture,West,Massachusetts,Whiteberg,1,3537,0,3537.0,2213.6,1323.4,UPI,Cancelled,"Taylor, Brown and Green",jameshart@sutton.org,1,Yes,33
+ord1033,2025-09-23,2025-09-28,Cust260,prod6397,Pen,Office supplies,South,New Jersey,Chavezfurt,7,2975,0,20825.0,17995.13,2829.87,CC,Cancelled,"Cordova, Bowman and Mendoza",shepardleon@dixon.com,7,Yes,25
+ord1034,2025-01-25,2025-01-27,Cust375,prod7775,Biscuits,Grocery,North,Kansas,Tammyhaven,3,723,0,2169.0,1580.52,588.48,UPI,Delivered,"Martinez, Walter and Patel",ricardo77@smith.biz,6,Yes,38
+ord1035,2025-10-02,2025-10-09,Cust263,prod1652,Headphones,Electronics,West,Maine,North Mary,5,4564,0,22820.0,15804.83,7015.17,CC,Returned,"Casey, Jones and Morris",porterholly@ward-oneill.org,45,No,0
+ord1036,2025-11-21,2025-11-25,Cust696,prod9925,Calculator,Office supplies,South,Missouri,Tylerview,7,1758,5,11690.7,8813.22,2877.48,CC,Delivered,Morris-Brown,kristinlowe@shannon.info,1,Yes,50
+ord1037,2025-11-17,2025-11-23,Cust555,prod5694,Monitor,Electronics,West,Maine,Martinezville,8,107,0,856.0,657.03,198.97,Cash,Returned,"Evans, House and Jones",joshuacoffey@reed-bell.com,6,Yes,28
+ord1038,2025-03-19,2025-03-24,Cust697,prod5097,Sugar,Grocery,North,Connecticut,New Davidfurt,4,1834,10,6602.4,5395.33,1207.07,CC,Pending,Hanson-Zimmerman,mariadelgado@schwartz.biz,21,No,0
+ord1039,2024-12-10,2024-12-14,Cust105,prod2219,Stapler,Office supplies,East,Nebraska,Sarahview,1,1288,0,1288.0,893.2,394.8,UPI,Returned,Turner-Wallace,stevencampbell@alexander.com,46,No,0
+ord1040,2025-03-22,2025-03-24,Cust108,prod2674,Stapler,Office supplies,East,New Mexico,Bergview,6,1426,15,7272.6,4400.15,2872.45,Cash,Pending,"Malone, Mitchell and Bennett",beth09@davis.com,27,No,0
+ord1041,2025-04-02,2025-04-04,Cust289,prod9550,Mouse,Electronics,West,South Dakota,Johnburgh,6,519,15,2646.9,1593.53,1053.37,CC,Cancelled,Reynolds LLC,kimcynthia@cabrera.org,41,No,0
+ord1042,2025-07-09,2025-07-13,Cust393,prod6065,Office chair,Furniture,West,Vermont,Wilsonton,7,1114,0,7798.0,5979.58,1818.42,Cash,Returned,"Perez, Lloyd and Mcdonald",luke93@duffy.com,11,No,0
+ord1043,2025-01-02,2025-01-05,Cust273,prod2967,Laptop,Electronics,West,Idaho,Shariland,5,4293,10,19318.5,13244.25,6074.25,Cash,Pending,Cherry PLC,andersonapril@webster.biz,15,No,0
+ord1044,2025-08-03,2025-08-05,Cust786,prod7546,Laptop,Electronics,North,South Carolina,Stacyfurt,5,1486,0,7430.0,5259.86,2170.14,Cash,Returned,"Sanchez, Gutierrez and Hughes",donna80@lynch.com,2,Yes,41
+ord1045,2025-03-06,2025-03-10,Cust569,prod4411,Headphones,Electronics,North,Massachusetts,Alexandermouth,3,3002,5,8555.7,7444.86,1110.84,UPI,Returned,Frazier Inc,jonanderson@thompson.biz,38,No,0
+ord1046,2025-04-21,2025-04-22,Cust663,prod8723,Notebook,Office supplies,North,Mississippi,Vincentbury,1,3860,5,3667.0,2926.66,740.34,UPI,Cancelled,Gonzalez-Klein,tracycarter@george.com,22,No,0
+ord1047,2025-01-10,2025-01-15,Cust376,prod2706,Pen,Office supplies,South,Arkansas,Ashleyhaven,8,1274,20,8153.6,6790.08,1363.52,UPI,Delivered,"Joseph, Garcia and Leblanc",smoore@sanchez.com,13,No,0
+ord1048,2025-03-17,2025-03-24,Cust313,prod3226,Mouse,Electronics,West,Maine,Deanville,2,2608,0,5216.0,4581.78,634.22,UPI,Pending,"Evans, Ballard and Carter",turnerchristine@smith-morton.info,39,No,0
+ord1049,2025-02-26,2025-03-02,Cust764,prod8629,Monitor,Electronics,East,Arizona,West Rachel,4,1868,20,5977.6,4757.0,1220.6,CC,Returned,Ayala and Sons,dorothy72@reese.org,35,No,0
+ord1050,2025-05-02,2025-05-05,Cust605,prod4158,Calculator,Office supplies,South,Arizona,Sanchezhaven,3,1523,5,4340.55,2925.74,1414.81,UPI,Delivered,Wall and Sons,williamsray@jones-goodman.com,45,No,0
+ord1051,2025-05-04,2025-05-06,Cust907,prod8355,Rice bag,Grocery,West,Missouri,Lindseyhaven,4,4277,5,16252.6,13451.33,2801.27,UPI,Pending,Tran PLC,hblackwell@smith.org,25,No,0
+ord1052,2025-06-08,2025-06-09,Cust596,prod8676,Stapler,Office supplies,North,Illinois,Henryport,1,3575,0,3575.0,2389.06,1185.94,NB,Delivered,Patrick Ltd,dtorres@atkins.com,19,No,0
+ord1053,2025-07-22,2025-07-24,Cust398,prod3680,Monitor,Electronics,West,Mississippi,West Harold,6,1420,0,8520.0,6649.33,1870.67,NB,Delivered,Thompson-Hughes,elizabethhill@alvarez.net,17,No,0
+ord1054,2025-09-17,2025-09-22,Cust307,prod5359,Wheat,Grocery,West,Iowa,Andresland,2,2360,15,4012.0,2921.52,1090.48,UPI,Pending,"Bradley, Ramirez and Young",stevenmarshall@ware.com,49,No,0
+ord1055,2025-04-13,2025-04-14,Cust348,prod6839,Headphones,Electronics,North,Florida,North Christophermouth,7,3509,15,20878.55,15069.65,5808.9,NB,Returned,Lowery and Sons,rebecca70@brown.com,12,No,0
+ord1056,2025-05-01,2025-05-07,Cust470,prod7369,Sugar,Grocery,West,North Carolina,Kristenland,1,523,20,418.4,257.46,160.94,UPI,Cancelled,Johnson PLC,danielbryant@price-gonzales.info,14,No,0
+ord1057,2025-10-24,2025-10-25,Cust277,prod3025,Rice bag,Grocery,South,Pennsylvania,Racheltown,2,3459,5,6572.1,5543.14,1028.96,Cash,Returned,Franco-Mueller,preston10@mcneil.info,19,No,0
+ord1058,2025-07-01,2025-07-03,Cust704,prod4634,Mouse,Electronics,South,Kansas,North Sarah,10,2502,0,25020.0,22148.25,2871.75,CC,Delivered,Hamilton and Sons,agarrison@maldonado-blair.com,29,No,0
+ord1059,2025-08-20,2025-08-22,Cust534,prod1727,Laptop,Electronics,East,Colorado,New Colin,4,118,15,401.2,298.03,103.17,Cash,Delivered,Caldwell-Mendez,williamsebony@lam-winters.com,24,No,0
+ord1060,2025-07-17,2025-07-21,Cust165,prod3597,Monitor,Electronics,South,Oregon,East Jerryhaven,7,3859,10,24311.7,19068.74,5242.96,CC,Cancelled,Miller-Hancock,sandrareyes@jones.info,3,Yes,46
+ord1061,2025-02-11,2025-02-18,Cust896,prod9820,Study Table,Furniture,West,Michigan,Davidstad,8,3881,15,26390.8,18368.26,8022.54,UPI,Delivered,Abbott LLC,gregghall@jacobs.info,12,No,0
+ord1062,2025-01-28,2025-02-04,Cust623,prod9552,Mouse,Electronics,East,Mississippi,East Robin,10,4035,15,34297.5,27311.72,6985.78,CC,Cancelled,Fleming and Sons,ashley56@barton.info,18,No,0
+ord1063,2025-09-04,2025-09-09,Cust987,prod3252,Monitor,Electronics,East,Connecticut,Port Ian,5,4869,10,21910.5,13497.59,8412.91,CC,Pending,"Rodriguez, Byrd and Evans",mcombs@allen.biz,39,No,0
+ord1064,2025-09-29,2025-09-30,Cust287,prod2176,Monitor,Electronics,East,Hawaii,Port Anna,9,4679,10,37899.9,28171.17,9728.73,Cash,Returned,Aguilar-Evans,caldwelldonna@hawkins.com,10,No,0
+ord1065,2025-11-28,2025-12-01,Cust489,prod6922,Cooking oil,Grocery,South,Pennsylvania,Melaniefurt,1,1518,20,1214.4,1018.26,196.14,UPI,Returned,Daniels-Ware,david15@garcia.info,6,Yes,24
+ord1066,2025-01-18,2025-01-20,Cust966,prod6449,Sugar,Grocery,West,West Virginia,Mooreborough,3,4455,20,10692.0,8639.19,2052.81,Cash,Cancelled,"Martinez, Daniels and Santiago",briancohen@richards.org,21,No,0
+ord1067,2024-12-10,2024-12-16,Cust132,prod7661,Keyboard,Electronics,West,Mississippi,Vazquezview,1,1710,5,1624.5,1024.12,600.38,Cash,Returned,May-Garcia,george98@parsons-johnson.com,37,No,0
+ord1068,2025-04-26,2025-05-01,Cust829,prod8111,Wheat,Grocery,West,Idaho,Bellshire,4,1645,15,5593.0,3389.05,2203.95,NB,Delivered,Newman Ltd,connie11@robinson.com,40,No,0
+ord1069,2025-02-07,2025-02-08,Cust789,prod8235,Stapler,Office supplies,East,New York,Tatefurt,5,2355,15,10008.75,8849.78,1158.97,UPI,Returned,"Johnson, Cooper and Douglas",jessicanunez@martin.biz,34,No,0
+ord1070,2025-06-12,2025-06-17,Cust479,prod5820,Sugar,Grocery,West,Montana,Port Stephanie,10,379,20,3032.0,2691.13,340.87,CC,Pending,"Perez, Collins and Malone",stoneamanda@lawson.com,36,No,0
+ord1071,2025-04-22,2025-04-26,Cust361,prod6479,Calculator,Office supplies,North,Utah,Ericport,7,4236,5,28169.4,18069.32,10100.08,UPI,Cancelled,Lopez PLC,higginsnancy@morales.com,34,No,0
+ord1072,2025-09-27,2025-10-03,Cust308,prod8901,Keyboard,Electronics,East,Alaska,East Roberthaven,5,346,15,1470.5,981.52,488.98,Cash,Delivered,Scott and Sons,jessica92@price.biz,4,Yes,38
+ord1073,2025-01-20,2025-01-26,Cust965,prod4690,Sugar,Grocery,South,Delaware,Ramirezton,9,1017,5,8695.35,7189.54,1505.81,Cash,Returned,Stevenson Ltd,tday@drake.net,20,No,0
+ord1074,2025-06-12,2025-06-15,Cust968,prod1876,Bed,Furniture,South,South Dakota,West Jamesshire,7,2210,0,15470.0,10663.98,4806.02,NB,Returned,Ellis LLC,burkeryan@marshall.net,29,No,0
+ord1075,2024-12-21,2024-12-24,Cust101,prod3458,Mouse,Electronics,East,Louisiana,Williamville,5,4842,10,21789.0,17233.67,4555.33,Cash,Cancelled,"Williams, Curtis and Brown",nwelch@colon-king.com,28,No,0
+ord1076,2025-10-30,2025-10-31,Cust112,prod7065,Sugar,Grocery,North,North Dakota,East Derekfurt,2,2787,0,5574.0,4286.72,1287.28,UPI,Pending,Walters-Grant,moralesalison@morgan-santos.net,2,Yes,29
+ord1077,2025-04-18,2025-04-23,Cust857,prod5129,Bookshelf,Furniture,South,Texas,North Tracychester,3,4301,20,10322.4,8331.66,1990.74,UPI,Returned,Robbins PLC,joelgrant@arnold.net,16,No,0
+ord1078,2025-04-23,2025-04-25,Cust544,prod1377,Bookshelf,Furniture,North,Pennsylvania,East Stephen,4,4284,10,15422.4,9277.62,6144.78,NB,Pending,Escobar PLC,shawnanderson@martin.org,2,Yes,32
+ord1079,2025-02-05,2025-02-11,Cust146,prod3984,Stapler,Office supplies,South,Connecticut,Lake Michaelfort,1,3122,0,3122.0,2380.96,741.04,NB,Pending,Davis-Hill,vfry@archer-gillespie.org,13,No,0
+ord1080,2025-09-29,2025-10-03,Cust151,prod8756,Monitor,Electronics,South,Utah,Lewisshire,2,3158,20,5052.8,4383.74,669.06,Cash,Cancelled,Moss-Chambers,austinlindsey@pugh.org,35,No,0
+ord1081,2025-06-28,2025-07-04,Cust316,prod1611,Cooking oil,Grocery,South,Nevada,Dustinhaven,10,3505,20,28040.0,24937.15,3102.85,CC,Returned,Miller-Bush,briandavis@simpson-hudson.info,18,No,0
+ord1082,2025-04-21,2025-04-24,Cust591,prod2410,Bed,Furniture,North,Minnesota,Dayburgh,6,3102,0,18612.0,15861.76,2750.24,Cash,Pending,Hernandez PLC,jmonroe@gray-hogan.com,14,No,0
+ord1083,2025-11-06,2025-11-09,Cust739,prod4165,Keyboard,Electronics,West,Utah,South Manuel,2,2788,15,4739.6,4001.52,738.08,NB,Delivered,Lozano Group,umueller@harrison-may.com,21,No,0
+ord1084,2025-03-20,2025-03-24,Cust756,prod7395,Wheat,Grocery,East,Florida,Woodsburgh,5,3662,20,14648.0,11029.72,3618.28,Cash,Cancelled,"Robbins, Rogers and Gomez",vjackson@jones-ochoa.com,30,No,0
+ord1085,2025-10-11,2025-10-14,Cust414,prod3984,Pen,Office supplies,West,South Carolina,Johnsonmouth,5,3415,20,13660.0,11365.41,2294.59,CC,Cancelled,"Davis, Rodriguez and Welch",nguyenmegan@owens.com,49,No,0
+ord1086,2025-11-03,2025-11-04,Cust862,prod2057,Sofa,Furniture,North,West Virginia,Rosemouth,3,142,5,404.7,255.4,149.3,Cash,Delivered,"Lamb, Murphy and Jackson",bcameron@young.net,9,Yes,32
+ord1087,2025-02-12,2025-02-15,Cust519,prod1919,Bookshelf,Furniture,South,Arkansas,New Dylanside,2,1233,15,2096.1,1595.62,500.48,Cash,Returned,"Campbell, Krueger and Roy",padillamonica@wyatt.com,48,No,0
+ord1088,2025-02-24,2025-02-26,Cust101,prod2599,Laptop,Electronics,West,Nevada,Darrellbury,7,3570,15,21241.5,17121.77,4119.73,CC,Pending,"Freeman, Burton and Griffith",stewartstephen@kramer.com,4,Yes,21
+ord1089,2025-01-22,2025-01-24,Cust378,prod7687,Biscuits,Grocery,West,Colorado,Ginamouth,5,1632,20,6528.0,4786.52,1741.48,UPI,Delivered,Foster and Sons,ehurley@clark.com,7,Yes,46
+ord1090,2025-08-20,2025-08-21,Cust648,prod5571,Laptop,Electronics,North,Arkansas,Clarkton,5,3197,0,15985.0,11172.14,4812.86,NB,Pending,Lang-Reynolds,elizabethgray@green.com,35,No,0
+ord1091,2025-08-16,2025-08-18,Cust737,prod3374,Biscuits,Grocery,West,Alaska,Port Danny,7,2297,15,13667.15,9754.63,3912.52,NB,Delivered,Horn Group,allen54@conner.org,42,No,0
+ord1092,2025-08-16,2025-08-18,Cust842,prod7941,Headphones,Electronics,East,Kentucky,New Carol,9,167,5,1427.85,992.89,434.96,UPI,Returned,Price and Sons,marilyn98@daugherty.biz,27,No,0
+ord1093,2025-01-10,2025-01-12,Cust771,prod8339,Laptop,Electronics,East,Mississippi,Sarahfurt,5,288,5,1368.0,1062.1,305.9,Cash,Delivered,"Johnson, Houston and Torres",justin96@richards-hawkins.com,19,No,0
+ord1094,2025-01-01,2025-01-02,Cust170,prod6152,Cooking oil,Grocery,East,Kentucky,Brianshire,9,1507,0,13563.0,9532.39,4030.61,NB,Cancelled,Jones PLC,qruiz@anthony.com,41,No,0
+ord1095,2025-03-07,2025-03-11,Cust184,prod9794,Office chair,Furniture,North,Wisconsin,South Timothy,3,4782,5,13628.7,10892.45,2736.25,UPI,Pending,Brown Group,nancy20@garrett.com,33,No,0
+ord1096,2025-04-18,2025-04-25,Cust192,prod3289,Stapler,Office supplies,West,Montana,Whitneyfort,7,1659,10,10451.7,8789.3,1662.4,NB,Delivered,Freeman LLC,contrerasjoseph@lewis.com,44,No,0
+ord1097,2025-02-01,2025-02-08,Cust438,prod2630,Stapler,Office supplies,East,Connecticut,Novakport,6,2719,15,13866.9,8802.98,5063.92,Cash,Returned,Nichols Ltd,jenniferrichardson@miller.org,47,No,0
+ord1098,2025-05-13,2025-05-14,Cust411,prod2495,Bookshelf,Furniture,South,Connecticut,Lake Joanneshire,5,874,0,4370.0,3457.94,912.06,NB,Pending,Zimmerman PLC,henry22@boyd.com,5,Yes,30
+ord1099,2025-08-11,2025-08-15,Cust569,prod8373,Sugar,Grocery,North,Nebraska,Scottmouth,2,2302,20,3683.2,3022.1,661.1,NB,Cancelled,"Kennedy, Johnston and Mack",sarah85@walker.org,45,No,0
+ord1100,2025-03-07,2025-03-09,Cust522,prod7652,Cooking oil,Grocery,East,Indiana,Berryview,2,270,5,513.0,381.24,131.76,Cash,Delivered,Woods-Williams,christophercook@horn-george.com,1,Yes,42
+ord1101,2025-04-27,2025-05-03,Cust293,prod3072,Headphones,Electronics,West,Kansas,North Sean,7,1369,10,8624.7,7438.13,1186.57,Cash,Pending,Smith-King,jeremyward@moore.com,41,No,0
+ord1102,2025-04-27,2025-05-03,Cust115,prod9340,Sugar,Grocery,South,New Jersey,South Kristenland,3,3841,5,10946.85,8122.03,2824.82,CC,Delivered,Johnson LLC,qlee@cook.com,47,No,0
+ord1103,2025-02-20,2025-02-22,Cust208,prod6608,Keyboard,Electronics,South,Montana,East Casey,8,4372,20,27980.8,16944.31,11036.49,UPI,Returned,"Padilla, Webb and Powers",leslieanderson@johnson-scott.info,29,No,0
+ord1104,2025-07-18,2025-07-20,Cust216,prod3324,Sofa,Furniture,East,Kansas,Port Michaelfort,2,1525,10,2745.0,1662.58,1082.42,UPI,Returned,"Lopez, Sanchez and Ortega",whansen@keller.org,30,No,0
+ord1105,2025-02-15,2025-02-16,Cust302,prod6184,Sofa,Furniture,West,Kentucky,Brianview,1,2157,10,1941.3,1487.73,453.57,Cash,Delivered,Wallace LLC,zarnold@payne.com,13,No,0
+ord1106,2025-12-04,2025-12-09,Cust400,prod3320,Bookshelf,Furniture,North,Alaska,East Robert,5,4228,0,21140.0,13031.45,8108.55,NB,Pending,Carter-King,harrisjill@gilbert-cain.com,10,No,0
+ord1107,2025-03-12,2025-03-13,Cust627,prod4540,Stapler,Office supplies,West,Idaho,Marquezburgh,10,3973,15,33770.5,23425.51,10344.99,NB,Cancelled,Marshall Group,renee94@garza.info,44,No,0
+ord1108,2025-02-26,2025-03-01,Cust102,prod2435,Sofa,Furniture,West,Michigan,Youngside,4,131,15,445.4,334.75,110.65,Cash,Delivered,"Villarreal, Johnson and Clements",christian29@kennedy.com,18,No,0
+ord1109,2025-01-18,2025-01-22,Cust226,prod9857,Calculator,Office supplies,North,Texas,Jamesmouth,1,2518,5,2392.1,1832.02,560.08,CC,Delivered,"Baxter, Coleman and Barnes",danielgalvan@zuniga-wolfe.com,42,No,0
+ord1110,2025-11-18,2025-11-22,Cust289,prod4678,Sugar,Grocery,South,Arkansas,Suttonfort,2,2045,15,3476.5,2430.88,1045.62,CC,Cancelled,"Martinez, Montes and Paul",bwilliams@ortega.com,4,Yes,47
+ord1111,2025-08-24,2025-08-28,Cust592,prod9747,File folder,Office supplies,North,Indiana,North Danielfurt,10,2928,20,23424.0,14439.0,8985.0,NB,Cancelled,Torres LLC,jennifer55@frederick-martin.com,21,No,0
+ord1112,2025-08-15,2025-08-22,Cust247,prod8796,Wheat,Grocery,West,Pennsylvania,Coopertown,5,2918,20,11672.0,10271.34,1400.66,Cash,Delivered,Jones Group,tara78@maddox-banks.biz,44,No,0
+ord1113,2025-01-27,2025-02-02,Cust792,prod7143,Study Table,Furniture,North,Illinois,Port Madelinechester,5,4379,10,19705.5,13891.21,5814.29,UPI,Returned,Willis-Bates,jamesphillips@glover.com,25,No,0
+ord1114,2025-07-03,2025-07-08,Cust363,prod7340,Study Table,Furniture,West,New Jersey,New Kathleenburgh,6,1918,10,10357.2,7710.44,2646.76,NB,Returned,Medina LLC,csilva@hudson-graham.com,22,No,0
+ord1115,2025-10-19,2025-10-20,Cust645,prod2883,Sofa,Furniture,East,South Dakota,North Brian,3,2739,20,6573.6,5647.02,926.58,NB,Pending,"Johnson, Torres and Bentley",fevans@gibson.com,9,Yes,32
+ord1116,2025-09-13,2025-09-20,Cust514,prod7607,Laptop,Electronics,North,California,North Timothy,9,1953,5,16698.15,11270.37,5427.78,NB,Cancelled,Guerrero-Sanchez,franklinpam@harrell.com,28,No,0
+ord1117,2025-02-03,2025-02-10,Cust748,prod7352,Keyboard,Electronics,South,Massachusetts,South Deborahville,6,4461,0,26766.0,19100.79,7665.21,CC,Cancelled,"Torres, Macdonald and Taylor",krodriguez@turner.info,14,No,0
+ord1118,2025-10-20,2025-10-21,Cust826,prod3163,Notebook,Office supplies,East,Washington,Matthewland,10,2002,15,17017.0,15213.84,1803.16,NB,Returned,Lopez PLC,biancataylor@miller.net,29,No,0
+ord1119,2025-11-02,2025-11-08,Cust185,prod9048,Cooking oil,Grocery,West,Wisconsin,West Charlotte,6,3960,20,19008.0,12919.31,6088.69,CC,Delivered,"Duffy, Rollins and Jensen",sarahhickman@klein-turner.org,30,No,0
+ord1120,2025-09-28,2025-10-04,Cust538,prod5775,Bed,Furniture,West,Hawaii,Jasonchester,4,2902,15,9866.8,6396.28,3470.52,UPI,Pending,Romero-Rivera,wandapham@tucker.net,37,No,0
+ord1121,2025-01-31,2025-02-01,Cust438,prod6114,Notebook,Office supplies,West,New Jersey,North Ryanshire,7,550,10,3465.0,3084.66,380.34,CC,Cancelled,Zamora and Sons,jorge12@reed.com,32,No,0
+ord1122,2025-03-13,2025-03-15,Cust161,prod5902,Notebook,Office supplies,South,Delaware,Danielleside,5,958,15,4071.5,3429.46,642.04,CC,Delivered,Johnson LLC,hbooth@rose-jimenez.com,23,No,0
+ord1123,2025-09-09,2025-09-10,Cust727,prod1594,Biscuits,Grocery,East,Iowa,South Corybury,1,525,0,525.0,410.23,114.77,Cash,Returned,"Hampton, Estrada and Brown",amber53@waters-cabrera.net,29,No,0
+ord1124,2025-04-16,2025-04-20,Cust997,prod6133,Headphones,Electronics,South,Iowa,Thomashaven,2,2490,15,4233.0,3491.23,741.77,UPI,Delivered,"Cannon, Estrada and Baxter",james57@johnson.biz,8,Yes,23
+ord1125,2025-08-21,2025-08-24,Cust323,prod9349,Mouse,Electronics,South,Kansas,Baileyshire,6,4847,5,27627.9,21593.59,6034.31,CC,Pending,"Neal, Jenkins and Cooper",derek99@lawson-graves.com,14,No,0
+ord1126,2025-04-25,2025-05-02,Cust279,prod5324,Study Table,Furniture,South,Wisconsin,West Matthewmouth,6,948,0,5688.0,3726.64,1961.36,UPI,Delivered,"Gilmore, Bradley and Gutierrez",benjamin40@navarro-garza.biz,26,No,0
+ord1127,2025-07-23,2025-07-27,Cust244,prod9781,Pen,Office supplies,North,South Carolina,Lopezbury,6,4343,5,24755.1,15151.75,9603.35,UPI,Delivered,Hampton PLC,elizabethsuarez@williams.com,6,Yes,30
+ord1128,2025-06-30,2025-07-02,Cust862,prod8518,Mouse,Electronics,South,Nevada,Feliciaton,9,1834,0,16506.0,11894.78,4611.22,NB,Cancelled,Sellers-Goodwin,nbarton@white.com,16,No,0
+ord1129,2025-09-25,2025-09-26,Cust432,prod5994,Stapler,Office supplies,North,Oklahoma,West Joseph,7,3275,5,21778.75,14790.78,6987.97,NB,Returned,Thornton-Li,kellyenglish@evans.info,21,No,0
+ord1130,2025-04-06,2025-04-08,Cust551,prod4176,Pen,Office supplies,East,Nevada,New Christinaland,10,4787,0,47870.0,37254.29,10615.71,CC,Delivered,"Clark, Garcia and Walker",joanna65@berger-johnson.com,7,Yes,43
+ord1131,2025-04-14,2025-04-15,Cust604,prod4561,Sofa,Furniture,West,Tennessee,Floreston,2,346,20,553.6,336.58,217.02,Cash,Returned,"Robertson, Marsh and Crawford",mathewsjames@wright.com,1,Yes,34
+ord1132,2025-08-23,2025-08-27,Cust710,prod5372,Office chair,Furniture,East,Massachusetts,North Yvette,6,1467,0,8802.0,5644.82,3157.18,CC,Cancelled,Mcintyre Ltd,grantjennifer@reid-phillips.com,2,Yes,24
+ord1133,2025-01-31,2025-02-03,Cust898,prod1000,Bookshelf,Furniture,South,Louisiana,Port Cherylmouth,10,2003,5,19028.5,13369.12,5659.38,Cash,Cancelled,Moore-Cain,timothy98@chan.biz,8,Yes,50
+ord1134,2025-09-22,2025-09-28,Cust921,prod7122,Laptop,Electronics,East,Kansas,North Zoeport,2,1051,0,2102.0,1866.47,235.53,CC,Pending,"Bolton, Roberts and Cooper",hclarke@hayes.com,28,No,0
+ord1135,2024-12-05,2024-12-08,Cust898,prod8656,Sofa,Furniture,East,Georgia,Hannahbury,3,1475,0,4425.0,3714.0,711.0,CC,Cancelled,"Kent, Johnson and Parker",david20@garcia.com,44,No,0
+ord1136,2025-09-20,2025-09-25,Cust668,prod8717,Keyboard,Electronics,North,Texas,West Pamela,9,2552,10,20671.2,15005.54,5665.66,UPI,Returned,"Hill, Mccarty and Bautista",lmartin@jordan.com,15,No,0
+ord1137,2025-08-04,2025-08-09,Cust566,prod5402,Rice bag,Grocery,North,Rhode Island,New Alberttown,1,607,0,607.0,454.01,152.99,Cash,Pending,Bean-Alexander,lisalowe@aguirre.biz,39,No,0
+ord1138,2025-04-11,2025-04-17,Cust663,prod4650,Rice bag,Grocery,West,South Carolina,Markside,6,4265,20,20472.0,12679.65,7792.35,NB,Delivered,Garcia-Graham,jennifer82@johnson-trevino.com,12,No,0
+ord1139,2025-04-10,2025-04-16,Cust443,prod6303,Cooking oil,Grocery,North,Texas,Walkerbury,10,2702,0,27020.0,17918.81,9101.19,Cash,Delivered,Warren PLC,houstonmelanie@edwards.com,8,Yes,24
+ord1140,2025-03-29,2025-04-05,Cust982,prod4547,Headphones,Electronics,South,Connecticut,South James,1,2357,15,2003.45,1343.98,659.47,NB,Delivered,"Lindsey, Briggs and Goodman",nicolewood@choi-murphy.info,46,No,0
+ord1141,2025-08-19,2025-08-21,Cust175,prod9189,Headphones,Electronics,West,Nevada,West Noah,1,2436,20,1948.8,1644.69,304.11,UPI,Cancelled,Flores-Taylor,conniecampbell@davis-johnson.com,7,Yes,43
+ord1142,2025-02-03,2025-02-07,Cust317,prod8170,Rice bag,Grocery,West,Indiana,West Michaelside,5,1043,20,4172.0,3526.07,645.93,NB,Returned,Palmer and Sons,gabrielle84@greer.net,4,Yes,43
+ord1143,2025-11-05,2025-11-09,Cust544,prod7252,Biscuits,Grocery,North,Illinois,North Lynn,1,2673,0,2673.0,1714.17,958.83,UPI,Returned,Wells Inc,gonzalezalex@patel-simon.com,13,No,0
+ord1144,2025-08-14,2025-08-19,Cust811,prod7155,Stapler,Office supplies,West,Colorado,Lake Michelle,4,1135,10,4086.0,3282.85,803.15,NB,Cancelled,Green-Phillips,gravesashley@smith-mejia.com,30,No,0
+ord1145,2025-09-17,2025-09-21,Cust843,prod5661,Mouse,Electronics,East,Delaware,South Saraville,10,4362,10,39258.0,29365.26,9892.74,CC,Returned,Cunningham LLC,collinsautumn@perez-gutierrez.org,13,No,0
+ord1146,2025-04-15,2025-04-22,Cust937,prod2327,File folder,Office supplies,North,Illinois,Kimberg,9,2763,5,23623.65,21171.45,2452.2,UPI,Pending,Lynch-Anderson,wattsdonna@wright.com,32,No,0
+ord1147,2025-10-23,2025-10-24,Cust155,prod8520,Stapler,Office supplies,North,Wyoming,Jeanside,1,3598,20,2878.4,2139.0,739.4,UPI,Delivered,"Delgado, Hernandez and Ponce",jackwilliamson@stone.org,16,No,0
+ord1148,2025-07-13,2025-07-16,Cust238,prod8057,Wheat,Grocery,South,Missouri,Pamelaberg,8,936,20,5990.4,3993.96,1996.44,UPI,Pending,"Glenn, Saunders and Wilson",joanneaguirre@edwards.com,49,No,0
+ord1149,2024-12-28,2024-12-31,Cust937,prod1547,Study Table,Furniture,North,Maryland,Juliemouth,5,3654,5,17356.5,14796.12,2560.38,NB,Pending,Mitchell-Jackson,michaelbass@norris.com,4,Yes,43
+ord1150,2025-12-05,2025-12-11,Cust838,prod1361,Sugar,Grocery,South,Illinois,Gibsonstad,10,1203,0,12030.0,9033.21,2996.79,Cash,Delivered,Cannon Ltd,vickijoyce@owens.info,47,No,0
+ord1151,2025-09-04,2025-09-11,Cust881,prod1308,Rice bag,Grocery,West,Kansas,Tonyside,9,2878,10,23311.8,17155.74,6156.06,NB,Cancelled,Walker Ltd,hross@weiss.com,2,Yes,22
+ord1152,2025-02-04,2025-02-05,Cust279,prod8051,Office chair,Furniture,East,North Carolina,Michaelmouth,7,3541,10,22308.3,16981.09,5327.21,Cash,Returned,"West, Harrison and Robinson",williamgutierrez@williams-harvey.com,27,No,0
+ord1153,2025-10-27,2025-11-03,Cust605,prod8114,Sugar,Grocery,North,Illinois,Johnside,4,2697,0,10788.0,7278.39,3509.61,NB,Delivered,"White, Rice and Ponce",jessecasey@berry.com,12,No,0
+ord1154,2024-12-25,2024-12-28,Cust734,prod3110,Headphones,Electronics,North,Idaho,Masonport,9,1408,20,10137.6,6629.86,3507.74,CC,Returned,"Barnett, Larson and Greene",marybrown@guerra-weiss.com,26,No,0
+ord1155,2025-09-24,2025-09-30,Cust798,prod8880,Headphones,Electronics,North,Tennessee,Smithton,3,3964,0,11892.0,8322.86,3569.14,CC,Cancelled,Griffith PLC,vanessa54@kaiser-wyatt.com,31,No,0
+ord1156,2025-02-25,2025-02-28,Cust371,prod2618,Headphones,Electronics,North,North Carolina,New Jessica,8,778,5,5912.8,4543.03,1369.77,NB,Delivered,Payne LLC,amandasantana@bolton.net,5,Yes,43
+ord1157,2025-06-08,2025-06-14,Cust536,prod8384,Office chair,Furniture,South,Nevada,Mcdowellshire,3,4456,20,10694.4,7506.61,3187.79,UPI,Returned,"Joyce, Brown and Cruz",walkerashley@hill-riley.com,32,No,0
+ord1158,2025-02-24,2025-03-03,Cust561,prod3709,Notebook,Office supplies,West,Vermont,West Ryanhaven,10,710,10,6390.0,4504.16,1885.84,NB,Cancelled,"Johnson, Duncan and Marshall",williamsrebekah@ortiz.com,15,No,0
+ord1159,2025-09-15,2025-09-19,Cust874,prod4652,Pen,Office supplies,East,Utah,Walkerton,3,2282,20,5476.8,4090.84,1385.96,CC,Pending,Butler Inc,james94@tapia-morales.org,31,No,0
+ord1160,2025-11-16,2025-11-19,Cust220,prod7976,Calculator,Office supplies,East,Illinois,Carlsonshire,7,3524,20,19734.4,15553.43,4180.97,Cash,Pending,"Lowery, Lawrence and Baldwin",lisa29@graves.com,10,No,0
+ord1161,2025-04-28,2025-05-01,Cust103,prod4813,Wheat,Grocery,West,South Dakota,Maryside,5,2656,20,10624.0,6528.63,4095.37,Cash,Pending,Kennedy-Harrison,ericamartin@rodriguez-ray.com,2,Yes,49
+ord1162,2025-10-06,2025-10-09,Cust609,prod6612,Mouse,Electronics,West,Mississippi,Mannton,2,1457,10,2622.6,1711.82,910.78,Cash,Returned,Vaughn Ltd,kimhart@wong-barrett.com,13,No,0
+ord1163,2025-02-03,2025-02-04,Cust902,prod2082,Calculator,Office supplies,East,Ohio,Mcphersonberg,7,1539,20,8618.4,7129.25,1489.15,UPI,Returned,Hernandez-Colon,carol79@munoz.com,19,No,0
+ord1164,2025-11-12,2025-11-15,Cust659,prod5077,Wheat,Grocery,West,Tennessee,Anthonyland,3,2452,10,6620.4,5822.53,797.87,NB,Cancelled,Tyler-Jones,bgamble@smith.info,13,No,0
+ord1165,2025-02-20,2025-02-22,Cust115,prod6652,Calculator,Office supplies,North,Minnesota,Lopezchester,7,2017,15,12001.15,8350.71,3650.44,CC,Cancelled,"Kennedy, Smith and Marsh",xlandry@myers-smith.com,30,No,0
+ord1166,2025-08-06,2025-08-09,Cust303,prod7266,Laptop,Electronics,West,Iowa,Markton,8,370,5,2812.0,1888.92,923.08,CC,Pending,"Snyder, Mendez and Anderson",christopherkennedy@martinez.com,25,No,0
+ord1167,2025-06-19,2025-06-22,Cust204,prod9883,Sugar,Grocery,West,Arkansas,West Morgan,8,705,10,5076.0,3179.11,1896.89,CC,Pending,Rivera-Ferrell,carsondonald@osborne.biz,3,Yes,26
+ord1168,2024-12-25,2024-12-26,Cust600,prod7776,Notebook,Office supplies,West,Delaware,Lake Timothy,4,1471,10,5295.6,3222.78,2072.82,Cash,Cancelled,Evans LLC,fitzgeraldkimberly@wade.com,20,No,0
+ord1169,2025-11-13,2025-11-18,Cust188,prod1538,Pen,Office supplies,West,Rhode Island,Walkerborough,10,3254,0,32540.0,20840.45,11699.55,CC,Pending,Johnson Group,christine33@miller.info,19,No,0
+ord1170,2025-10-24,2025-10-28,Cust972,prod8325,Mouse,Electronics,East,New York,Williamschester,2,4168,10,7502.4,5049.51,2452.89,CC,Pending,Walker Group,carrtony@watkins.info,50,No,0
+ord1171,2025-07-20,2025-07-23,Cust375,prod3423,File folder,Office supplies,East,New York,North Mollystad,10,4990,5,47405.0,34157.61,13247.39,Cash,Returned,"Manning, Parker and Price",laurabrewer@austin.com,0,Yes,49
+ord1172,2025-06-28,2025-07-03,Cust624,prod3077,Cooking oil,Grocery,North,Rhode Island,Longfurt,10,3811,15,32393.5,23509.57,8883.93,CC,Pending,Daniels-Cole,kmaxwell@morton-nelson.net,11,No,0
+ord1173,2025-10-19,2025-10-20,Cust721,prod5795,Bookshelf,Furniture,South,Louisiana,Williamsshire,9,199,15,1522.35,1032.29,490.06,UPI,Pending,"Rodriguez, Thornton and Hudson",william85@smith.com,36,No,0
+ord1174,2025-07-11,2025-07-12,Cust488,prod6868,Keyboard,Electronics,South,Wisconsin,Alexisbury,3,4528,15,11546.4,8521.67,3024.73,Cash,Pending,"Hutchinson, Powers and Camacho",zmccoy@miller.org,7,Yes,30
+ord1175,2025-02-03,2025-02-08,Cust637,prod4734,Biscuits,Grocery,East,Georgia,Mcclureton,7,3134,5,20841.1,13998.72,6842.38,Cash,Pending,Dixon PLC,maria15@hunter-barker.com,25,No,0
+ord1176,2025-03-26,2025-03-28,Cust329,prod4161,Cooking oil,Grocery,North,Tennessee,North Alexstad,5,333,20,1332.0,898.54,433.46,NB,Returned,Woodard-Blanchard,connormeza@white.org,31,No,0
+ord1177,2025-02-07,2025-02-14,Cust836,prod4082,Laptop,Electronics,East,Utah,South Denise,2,739,10,1330.2,854.66,475.54,UPI,Returned,Bush LLC,elaine80@howard-brown.net,32,No,0
+ord1178,2025-07-31,2025-08-03,Cust715,prod1961,Sugar,Grocery,North,Wyoming,Port Laura,9,1751,15,13395.15,10804.7,2590.45,CC,Pending,"Barker, Hudson and Cantu",uparker@aguilar.com,21,No,0
+ord1179,2025-10-04,2025-10-10,Cust764,prod2758,Calculator,Office supplies,East,Connecticut,New Ann,9,1281,0,11529.0,10309.82,1219.18,CC,Pending,"Wright, Burnett and Smith",joshua16@barton.com,46,No,0
+ord1180,2025-08-24,2025-08-26,Cust103,prod8004,Pen,Office supplies,South,Florida,West Ashleyfurt,5,995,15,4228.75,3775.24,453.51,CC,Pending,Mann Ltd,jennifer04@mcdonald.org,16,No,0
+ord1181,2025-04-30,2025-05-06,Cust105,prod5833,Cooking oil,Grocery,East,Massachusetts,Huynhland,8,1033,5,7850.8,6658.92,1191.88,UPI,Pending,"Graham, Nguyen and Torres",rgibson@miller.com,12,No,0
+ord1182,2025-01-08,2025-01-09,Cust313,prod2864,Study Table,Furniture,South,New Mexico,West Spencermouth,4,4762,20,15238.4,10264.16,4974.24,NB,Cancelled,"Williams, Allen and Young",vjones@lester.com,14,No,0
+ord1183,2025-05-09,2025-05-16,Cust646,prod1660,Headphones,Electronics,West,Hawaii,Jonesville,4,3211,15,10917.4,8633.87,2283.53,Cash,Returned,Smith Ltd,wchan@compton.com,47,No,0
+ord1184,2025-04-27,2025-05-03,Cust916,prod4930,Wheat,Grocery,East,North Carolina,Barbarafort,6,3674,20,17635.2,13470.67,4164.53,UPI,Cancelled,"Cantu, Butler and Mills",joshua17@kelly-mahoney.info,31,No,0
+ord1185,2025-10-18,2025-10-22,Cust164,prod6547,Cooking oil,Grocery,West,South Carolina,South David,3,298,10,804.6,722.88,81.72,Cash,Pending,Oconnor-Armstrong,andreamaldonado@moss-ward.com,21,No,0
+ord1186,2025-09-05,2025-09-07,Cust692,prod7188,Cooking oil,Grocery,West,Minnesota,Barnettville,5,1649,10,7420.5,4978.36,2442.14,Cash,Returned,Collins Inc,richardlewis@simpson.com,29,No,0
+ord1187,2025-03-05,2025-03-12,Cust686,prod7880,Keyboard,Electronics,West,Maryland,New Michaelland,7,1388,20,7772.8,6778.98,993.82,CC,Cancelled,Sanchez LLC,uandersen@avila.net,46,No,0
+ord1188,2025-01-08,2025-01-13,Cust999,prod5672,Stapler,Office supplies,East,Maine,Jimmyport,4,305,10,1098.0,906.83,191.17,CC,Cancelled,Aguirre-Cortez,fmedina@fernandez.net,18,No,0
+ord1189,2025-08-14,2025-08-16,Cust792,prod5251,Sofa,Furniture,North,Montana,North Laurabury,3,1461,10,3944.7,2969.54,975.16,Cash,Pending,Barrett-Walsh,pricexavier@simpson.com,18,No,0
+ord1190,2025-10-26,2025-10-29,Cust581,prod1707,Calculator,Office supplies,South,Rhode Island,Lopezside,6,3577,20,17169.6,11277.17,5892.43,NB,Delivered,Sparks Group,jennifersmith@mendoza.com,43,No,0
+ord1191,2025-01-02,2025-01-04,Cust975,prod2537,Notebook,Office supplies,East,Maine,East Blake,10,2801,0,28010.0,24190.33,3819.67,UPI,Returned,"Rodriguez, Jones and Barton",carlaarmstrong@spencer.org,5,Yes,29
+ord1192,2025-07-29,2025-07-30,Cust963,prod8553,Sofa,Furniture,East,North Carolina,Kylefurt,6,437,10,2359.8,2070.94,288.86,NB,Returned,Williamson Inc,rileychristina@smith.org,28,No,0
+ord1193,2025-09-09,2025-09-14,Cust909,prod8717,Mouse,Electronics,North,Tennessee,Port Jennifer,10,4088,15,34748.0,27561.21,7186.79,Cash,Cancelled,Pierce Group,jeffreydixon@page.com,46,No,0
+ord1194,2025-04-29,2025-05-06,Cust243,prod1464,Biscuits,Grocery,South,Kentucky,Adrianburgh,5,3573,15,15185.25,12252.86,2932.39,NB,Pending,Knight Group,johnny59@smith.biz,1,Yes,48
+ord1195,2025-03-29,2025-04-05,Cust218,prod4712,Keyboard,Electronics,East,Rhode Island,Newmanbury,8,4418,5,33576.8,21055.81,12520.99,UPI,Pending,Lewis-Thompson,danielmccarthy@ryan.com,1,Yes,39
+ord1196,2025-07-01,2025-07-05,Cust426,prod1969,Cooking oil,Grocery,West,Kentucky,Alicialand,3,2783,15,7096.65,4332.46,2764.19,CC,Cancelled,"Kelly, Stone and Perez",danielrichardson@wood-guzman.com,20,No,0
+ord1197,2025-06-24,2025-06-28,Cust927,prod3897,File folder,Office supplies,East,Virginia,Smithmouth,7,3795,5,25236.75,16527.26,8709.49,Cash,Pending,"Palmer, Davis and Bruce",wilsonscott@brown.net,34,No,0
+ord1198,2024-12-14,2024-12-20,Cust423,prod8253,Keyboard,Electronics,North,Virginia,Port Aliceport,4,245,10,882.0,649.67,232.33,CC,Delivered,Kennedy LLC,rodriguezsue@ramirez-miller.com,32,No,0
+ord1199,2025-12-05,2025-12-11,Cust799,prod4294,Cooking oil,Grocery,South,Colorado,East Joseph,7,151,15,898.45,690.31,208.14,CC,Returned,Smith-Cummings,ghardin@smith.com,30,No,0
+ord1200,2025-09-04,2025-09-09,Cust288,prod6173,Bookshelf,Furniture,South,West Virginia,Barnesville,2,1655,0,3310.0,2689.74,620.26,Cash,Delivered,Foster Ltd,fjones@washington.com,40,No,0
+ord1201,2025-08-31,2025-09-01,Cust985,prod6844,Bookshelf,Furniture,North,Iowa,Karenborough,7,1149,5,7640.85,4591.12,3049.73,CC,Cancelled,Vargas and Sons,wesley43@jones.com,11,No,0
+ord1202,2025-06-15,2025-06-16,Cust449,prod3107,Biscuits,Grocery,South,Montana,North Christophermouth,9,2296,0,20664.0,14938.5,5725.5,CC,Pending,Bartlett Ltd,julia82@torres-graves.com,29,No,0
+ord1203,2025-08-02,2025-08-07,Cust854,prod2920,Calculator,Office supplies,West,Vermont,Lake Nicolemouth,8,4093,20,26195.2,16586.75,9608.45,CC,Delivered,Morris Inc,ashleyolivia@ingram-spears.net,15,No,0
+ord1204,2025-10-31,2025-11-05,Cust848,prod4964,Laptop,Electronics,North,Florida,North Jenna,9,2200,10,17820.0,11947.67,5872.33,Cash,Delivered,Powell-Moreno,omccarty@little-porter.biz,14,No,0
+ord1205,2025-01-17,2025-01-20,Cust421,prod7418,Sugar,Grocery,West,California,Tuckerstad,2,2976,0,5952.0,3844.22,2107.78,Cash,Returned,Brown LLC,xhodge@riley.biz,14,No,0
+ord1206,2025-07-26,2025-08-02,Cust546,prod8375,Bed,Furniture,North,Kansas,Coxfurt,10,2191,15,18623.5,13697.22,4926.28,CC,Pending,Chen-Ramirez,kwalker@banks-vazquez.com,23,No,0
+ord1207,2025-06-02,2025-06-08,Cust247,prod2645,Stapler,Office supplies,North,Pennsylvania,South Sarah,8,2084,15,14171.2,11871.83,2299.37,Cash,Delivered,"Ellis, Vasquez and Dawson",sanchezstuart@reed.com,9,Yes,44
+ord1208,2025-11-23,2025-11-26,Cust801,prod1135,Stapler,Office supplies,North,Colorado,Jarvisview,5,3632,20,14528.0,12008.94,2519.06,CC,Delivered,"Christian, Meadows and Yates",morrisbrenda@rodriguez-mendoza.com,10,No,0
+ord1209,2025-10-06,2025-10-09,Cust239,prod9374,Sugar,Grocery,North,North Carolina,Melindabury,10,2969,5,28205.5,17801.06,10404.44,UPI,Pending,Nelson PLC,wrightapril@white-meza.net,32,No,0
+ord1210,2025-10-21,2025-10-28,Cust638,prod5813,Calculator,Office supplies,South,New York,Jasminetown,3,1729,5,4927.65,3426.22,1501.43,UPI,Delivered,Simmons and Sons,fieldscassandra@miles-gill.com,42,No,0
+ord1211,2025-01-03,2025-01-04,Cust444,prod8519,Sugar,Grocery,East,New York,North Nataliestad,2,1163,5,2209.7,1514.44,695.26,CC,Returned,"Smith, Robertson and Humphrey",murphysarah@herrera.com,35,No,0
+ord1212,2025-02-22,2025-02-27,Cust404,prod8306,Monitor,Electronics,North,New Hampshire,Nguyenfort,8,415,0,3320.0,2806.76,513.24,NB,Delivered,Freeman-Lamb,jacobowens@jackson-decker.info,36,No,0
+ord1213,2024-12-26,2024-12-27,Cust372,prod6788,Bookshelf,Furniture,East,Iowa,Brandonstad,5,4209,10,18940.5,16474.51,2465.99,CC,Returned,Lindsey Inc,christine26@frazier.org,28,No,0
+ord1214,2024-12-29,2024-12-31,Cust492,prod7057,Stapler,Office supplies,East,Oregon,South Michaelmouth,6,1596,15,8139.6,6752.61,1386.99,UPI,Cancelled,"Hill, Porter and Mathis",tiffany21@schultz-fritz.com,35,No,0
+ord1215,2024-12-31,2025-01-04,Cust438,prod1769,File folder,Office supplies,South,South Carolina,Joshuachester,5,2602,10,11709.0,8603.05,3105.95,UPI,Cancelled,Hooper LLC,mark06@goodman.net,11,No,0
+ord1216,2025-09-14,2025-09-20,Cust198,prod9017,Bed,Furniture,West,North Carolina,Robertburgh,10,3861,15,32818.5,21699.99,11118.51,NB,Cancelled,Simpson Ltd,edwardsbrandon@stewart.org,23,No,0
+ord1217,2025-04-16,2025-04-19,Cust625,prod3571,Keyboard,Electronics,West,South Carolina,Gregorytown,9,2746,20,19771.2,16891.76,2879.44,NB,Returned,"Lewis, Lynch and Oliver",riveratimothy@potts-kelly.org,39,No,0
+ord1218,2025-01-10,2025-01-16,Cust407,prod8430,Pen,Office supplies,North,South Carolina,Lake Jesus,5,2140,20,8560.0,5378.71,3181.29,NB,Pending,Parker LLC,kenneth94@murray.net,8,Yes,44
+ord1219,2025-04-17,2025-04-20,Cust899,prod2347,Headphones,Electronics,South,Arizona,North Davidbury,7,2917,15,17356.15,10504.21,6851.94,Cash,Pending,Torres-Mills,ijohnson@brewer.com,0,Yes,42
+ord1220,2025-05-10,2025-05-15,Cust683,prod8906,Mouse,Electronics,South,South Dakota,West Cheryl,9,2249,0,20241.0,14893.39,5347.61,NB,Cancelled,"Chase, Abbott and Buchanan",hayneskyle@bishop.info,32,No,0
+ord1221,2025-10-18,2025-10-19,Cust898,prod1672,Sugar,Grocery,West,Rhode Island,Moralesbury,10,472,20,3776.0,2466.26,1309.74,Cash,Pending,"Baker, Manning and Barker",vbruce@sherman.com,39,No,0
+ord1222,2025-04-01,2025-04-04,Cust707,prod1966,File folder,Office supplies,North,Michigan,Davisshire,1,2881,5,2736.95,2443.65,293.3,NB,Pending,Smith Inc,kenneth84@blanchard.biz,29,No,0
+ord1223,2025-08-20,2025-08-24,Cust995,prod2065,Bed,Furniture,West,Arkansas,Michaelside,2,3248,20,5196.8,4023.83,1172.97,Cash,Returned,"Miller, Christian and Petty",jeffreyrichardson@jackson.com,33,No,0
+ord1224,2025-06-14,2025-06-20,Cust536,prod9308,Rice bag,Grocery,West,Virginia,Kyleborough,9,4377,10,35453.7,31063.41,4390.29,CC,Delivered,"Oliver, Butler and Smith",vgutierrez@hughes-moran.com,42,No,0
+ord1225,2025-01-02,2025-01-04,Cust335,prod1617,File folder,Office supplies,South,Utah,South Monica,9,2783,0,25047.0,19169.21,5877.79,UPI,Cancelled,Adams Ltd,harrismaria@grant.com,32,No,0
+ord1226,2025-09-12,2025-09-15,Cust860,prod7701,Bookshelf,Furniture,North,South Carolina,West Joelview,10,4808,20,38464.0,34565.68,3898.32,UPI,Returned,"Salas, Golden and Hernandez",davidhansen@allen.com,4,Yes,36
+ord1227,2025-04-21,2025-04-23,Cust741,prod3358,Laptop,Electronics,South,Washington,West Bradmouth,1,2239,5,2127.05,1390.47,736.58,Cash,Cancelled,"Robinson, Jackson and Carter",maria81@wright.com,28,No,0
+ord1228,2025-12-03,2025-12-05,Cust748,prod9054,Wheat,Grocery,West,Missouri,Desireeshire,10,4973,20,39784.0,24396.13,15387.87,NB,Delivered,Vance Group,hcardenas@mejia-nelson.biz,11,No,0
+ord1229,2025-10-03,2025-10-04,Cust857,prod4921,Cooking oil,Grocery,East,California,Kennethberg,5,3735,0,18675.0,13244.43,5430.57,CC,Pending,Lewis-Gomez,mark09@wright.com,45,No,0
+ord1230,2025-07-23,2025-07-25,Cust672,prod3731,Study Table,Furniture,North,Montana,North Johnny,2,951,20,1521.6,1252.51,269.09,UPI,Pending,"Larsen, Lawrence and Clark",erin28@neal.com,35,No,0
+ord1231,2025-02-27,2025-03-05,Cust138,prod3896,Rice bag,Grocery,North,Kansas,Reevesberg,1,4238,5,4026.1,3340.03,686.07,NB,Delivered,Jordan-Fitzgerald,daniel24@aguilar-watkins.biz,22,No,0
+ord1232,2025-04-07,2025-04-10,Cust744,prod7410,Cooking oil,Grocery,West,Rhode Island,West Sandra,4,2056,20,6579.2,4909.27,1669.93,CC,Delivered,Simpson Ltd,dakota18@fleming.biz,5,Yes,37
+ord1233,2024-12-06,2024-12-13,Cust512,prod9949,Study Table,Furniture,West,Idaho,Daltonside,2,4675,5,8882.5,6661.81,2220.69,Cash,Pending,Johnson Ltd,usharp@ortiz.com,17,No,0
+ord1234,2025-05-12,2025-05-19,Cust530,prod9923,Keyboard,Electronics,North,Louisiana,Garnerberg,3,408,10,1101.6,674.17,427.43,Cash,Cancelled,"Huynh, Armstrong and Hernandez",matthewpratt@lester-hanna.com,5,Yes,40
+ord1235,2025-10-26,2025-10-30,Cust374,prod1910,Sofa,Furniture,North,Pennsylvania,Suttonberg,10,1764,10,15876.0,9538.22,6337.78,UPI,Pending,"Jenkins, Rodriguez and Cook",patriciagreer@herrera.biz,8,Yes,27
+ord1236,2025-09-13,2025-09-16,Cust103,prod4642,Stapler,Office supplies,West,Georgia,New Lindsay,10,4013,0,40130.0,29636.05,10493.95,Cash,Returned,Potter Inc,harrismark@fleming-taylor.biz,7,Yes,23
+ord1237,2025-07-21,2025-07-27,Cust722,prod8817,Laptop,Electronics,South,California,East Kennethhaven,3,3660,5,10431.0,6773.76,3657.24,Cash,Cancelled,Orr-Banks,jeffreynavarro@molina.com,7,Yes,21
+ord1238,2025-05-03,2025-05-04,Cust947,prod8206,Cooking oil,Grocery,North,Maine,Aprilberg,6,1660,15,8466.0,7465.48,1000.52,UPI,Cancelled,"Knapp, Thomas and Roberts",toni23@stewart.com,27,No,0
+ord1239,2025-11-21,2025-11-23,Cust927,prod6702,Keyboard,Electronics,West,New York,Ortizbury,3,1107,5,3154.95,2579.45,575.5,Cash,Pending,Robinson-Contreras,nathan73@taylor-banks.org,33,No,0
+ord1240,2025-10-09,2025-10-11,Cust189,prod4337,Mouse,Electronics,East,Wisconsin,New John,8,589,20,3769.6,3150.22,619.38,Cash,Delivered,Rose-Holmes,amiller@hall-foster.com,28,No,0
+ord1241,2025-07-02,2025-07-04,Cust178,prod2428,Notebook,Office supplies,South,New Mexico,South Candace,6,3566,15,18186.6,14744.18,3442.42,CC,Delivered,Moore Group,brandonwolf@ochoa.com,22,No,0
+ord1242,2025-11-12,2025-11-13,Cust182,prod9733,Notebook,Office supplies,West,Rhode Island,West Kelly,2,2629,5,4995.1,3804.43,1190.67,NB,Returned,Frye-Allen,xrichmond@weaver-phillips.com,50,No,0
+ord1243,2025-06-03,2025-06-07,Cust723,prod1577,Calculator,Office supplies,North,Colorado,North Mary,9,2613,15,19989.45,17949.56,2039.89,Cash,Cancelled,Andrews-Harrell,zcole@mcfarland.com,36,No,0
+ord1244,2025-03-20,2025-03-25,Cust622,prod3428,Mouse,Electronics,North,Colorado,Lake Robert,5,470,15,1997.5,1342.34,655.16,Cash,Cancelled,Hall and Sons,rbrooks@jarvis-ellison.com,14,No,0
+ord1245,2025-07-19,2025-07-21,Cust856,prod5131,Pen,Office supplies,West,Nevada,West Tylermouth,10,3963,15,33685.5,27477.07,6208.43,UPI,Returned,"Mcdonald, Dillon and Kline",garydunn@irwin.biz,20,No,0
+ord1246,2025-07-07,2025-07-12,Cust214,prod6601,Biscuits,Grocery,West,Rhode Island,East Dianabury,9,276,5,2359.8,1432.86,926.94,NB,Returned,Estrada-Hanson,millerchristopher@harper-lee.com,20,No,0
+ord1247,2025-08-23,2025-08-28,Cust647,prod9776,Study Table,Furniture,North,Alabama,Kimberlyhaven,7,1445,10,9103.5,7858.92,1244.58,NB,Pending,Hernandez-Hayes,summerskimberly@smith-alvarez.biz,14,No,0
+ord1248,2025-10-21,2025-10-27,Cust233,prod9363,Keyboard,Electronics,West,Connecticut,Lake Matthew,2,1294,20,2070.4,1308.98,761.42,CC,Pending,"George, Stewart and Holmes",barnettjessica@smith-sims.info,49,No,0
+ord1249,2025-05-09,2025-05-13,Cust183,prod5956,Rice bag,Grocery,West,Montana,Joneshaven,10,3390,20,27120.0,17110.09,10009.91,Cash,Delivered,"Smith, Mclaughlin and Hall",bsantos@perez.org,21,No,0
+ord1250,2025-03-01,2025-03-07,Cust862,prod3261,Rice bag,Grocery,North,Ohio,Port Jonathanview,4,2124,0,8496.0,6103.36,2392.64,CC,Cancelled,Thomas and Sons,jamie97@warren.info,13,No,0
+ord1251,2025-11-08,2025-11-12,Cust887,prod9794,Pen,Office supplies,North,Oregon,New Amanda,9,2700,15,20655.0,15362.48,5292.52,NB,Pending,Perez-Diaz,julie81@harris.com,31,No,0
+ord1252,2025-10-01,2025-10-02,Cust678,prod4305,Pen,Office supplies,West,Michigan,West Nicoleview,9,4045,5,34584.75,25405.68,9179.07,NB,Returned,Henry and Sons,nelsontracie@travis.org,19,No,0
+ord1253,2025-02-25,2025-03-02,Cust587,prod3991,Study Table,Furniture,East,Delaware,Huntermouth,3,760,5,2166.0,1327.79,838.21,UPI,Delivered,"Reyes, Zimmerman and Craig",fmcguire@moody.com,46,No,0
+ord1254,2025-06-01,2025-06-05,Cust420,prod2039,Sugar,Grocery,South,California,Priceborough,9,4370,0,39330.0,25887.69,13442.31,NB,Delivered,Howard-Richards,annemclaughlin@murphy-santiago.biz,2,Yes,34
+ord1255,2025-01-10,2025-01-13,Cust698,prod6401,Keyboard,Electronics,South,Missouri,South Richardmouth,3,704,5,2006.4,1757.7,248.7,CC,Cancelled,"Cox, Ryan and Thomas",taylornicole@callahan.com,21,No,0
+ord1256,2025-10-12,2025-10-18,Cust769,prod5934,Pen,Office supplies,West,Minnesota,Careyside,1,1369,10,1232.1,966.22,265.88,Cash,Delivered,Burton-Mcdonald,elizabeth72@francis.com,30,No,0
+ord1257,2025-05-18,2025-05-23,Cust480,prod1417,Bed,Furniture,South,Georgia,South Kristi,8,4258,15,28954.4,17657.77,11296.63,CC,Cancelled,Norris PLC,anthony26@sanchez.com,45,No,0
+ord1258,2025-10-15,2025-10-16,Cust356,prod4271,Pen,Office supplies,West,Pennsylvania,Lake Cheryl,7,4092,20,22915.2,16460.86,6454.34,Cash,Delivered,Rodriguez-Smith,martinmyers@frazier-stanley.com,13,No,0
+ord1259,2025-01-09,2025-01-11,Cust151,prod8576,Monitor,Electronics,West,Arkansas,Bookerbury,1,4913,10,4421.7,3882.14,539.56,UPI,Pending,Hess PLC,hortonjennifer@anthony.info,14,No,0
+ord1260,2025-02-20,2025-02-22,Cust121,prod4687,Bookshelf,Furniture,West,Massachusetts,North Andrew,10,676,10,6084.0,4008.57,2075.43,CC,Cancelled,"Fields, Carr and Sullivan",jjones@fernandez-barnett.info,33,No,0
+ord1261,2025-06-17,2025-06-24,Cust896,prod9748,Study Table,Furniture,West,New Jersey,Reneestad,7,3052,20,17091.2,10539.79,6551.41,CC,Cancelled,Harris-Parker,taylorbeth@shepard.info,17,No,0
+ord1262,2025-08-03,2025-08-06,Cust718,prod6363,Notebook,Office supplies,South,Ohio,Serranoside,7,1616,0,11312.0,9684.97,1627.03,CC,Cancelled,Estrada Inc,burkeroy@johnson.com,36,No,0
+ord1263,2025-04-13,2025-04-17,Cust439,prod8791,Cooking oil,Grocery,North,Vermont,Port Devinstad,6,2935,20,14088.0,9696.06,4391.94,CC,Pending,Bates PLC,cranedavid@frazier.com,19,No,0
+ord1264,2024-12-29,2024-12-30,Cust241,prod9658,Mouse,Electronics,North,South Dakota,Garrettside,9,1751,20,12607.2,7840.57,4766.63,NB,Returned,Mccarthy PLC,ydavis@morris.com,0,Yes,37
+ord1265,2025-06-11,2025-06-14,Cust525,prod3408,Calculator,Office supplies,West,New Hampshire,Rogersville,8,1789,0,14312.0,11797.91,2514.09,CC,Returned,Allen and Sons,kellinichols@rodriguez.com,44,No,0
+ord1266,2025-01-12,2025-01-16,Cust283,prod7138,Calculator,Office supplies,West,Maryland,Port Johnbury,4,3321,20,10627.2,6877.91,3749.29,UPI,Cancelled,Curtis-Lopez,chapmanjennifer@freeman.com,40,No,0
+ord1267,2025-05-23,2025-05-25,Cust875,prod1472,Keyboard,Electronics,East,Massachusetts,Lake Omarton,3,516,5,1470.6,980.44,490.16,CC,Returned,Carter Group,jameslin@gomez.com,29,No,0
+ord1268,2025-08-26,2025-08-27,Cust603,prod7602,Office chair,Furniture,East,Massachusetts,Annamouth,4,1033,10,3718.8,3260.31,458.49,UPI,Pending,Carter LLC,gregory62@moore.biz,7,Yes,42
+ord1269,2025-04-21,2025-04-23,Cust592,prod4477,Bookshelf,Furniture,East,Alabama,Jenniferport,8,4871,15,33122.8,24075.25,9047.55,CC,Cancelled,"Taylor, Fox and Wright",melissacarpenter@moses-weber.org,23,No,0
+ord1270,2025-07-11,2025-07-16,Cust632,prod8241,Sofa,Furniture,South,Illinois,East Scottton,9,1592,0,14328.0,11505.57,2822.43,NB,Returned,Jenkins-Ashley,boylerobert@matthews-white.biz,30,No,0
+ord1271,2024-12-30,2024-12-31,Cust120,prod8016,Notebook,Office supplies,North,Wisconsin,Christopherland,1,2115,20,1692.0,1444.02,247.98,UPI,Pending,Hull Inc,fmorris@hernandez.com,11,No,0
+ord1272,2025-10-02,2025-10-08,Cust793,prod5145,Keyboard,Electronics,North,Mississippi,Michaelberg,7,3799,15,22604.05,17479.91,5124.14,UPI,Pending,Griffin Ltd,kyle92@smith.info,50,No,0
+ord1273,2025-06-16,2025-06-18,Cust943,prod1925,File folder,Office supplies,South,Oklahoma,Riddleview,1,3839,10,3455.1,2147.33,1307.77,CC,Pending,"Robinson, Martinez and Gray",leonardkrause@serrano.net,36,No,0
+ord1274,2024-12-09,2024-12-11,Cust230,prod1383,Biscuits,Grocery,West,Tennessee,Coxview,8,2745,15,18666.0,12886.54,5779.46,CC,Delivered,Henry Ltd,lisa67@moore-knight.com,1,Yes,34
+ord1275,2025-05-21,2025-05-26,Cust922,prod2659,Sofa,Furniture,North,Indiana,Crystalmouth,8,541,0,4328.0,3438.77,889.23,Cash,Pending,"Wheeler, Gray and Miller",hannahthompson@nichols.info,43,No,0
+ord1276,2025-11-04,2025-11-08,Cust840,prod7379,File folder,Office supplies,South,Illinois,Ruizland,2,3849,5,7313.1,5095.2,2217.9,UPI,Delivered,"Burke, Martinez and Bates",monicagarcia@ross.com,45,No,0
+ord1277,2025-03-02,2025-03-05,Cust659,prod8390,Office chair,Furniture,West,Nebraska,Nguyenmouth,2,2076,0,4152.0,3644.5,507.5,NB,Delivered,Smith-Boyer,dkim@hamilton.com,16,No,0
+ord1278,2024-12-13,2024-12-18,Cust288,prod6729,Cooking oil,Grocery,North,Louisiana,East Matthew,5,1055,20,4220.0,3162.75,1057.25,CC,Returned,"Smith, Stark and Mendez",fieldsmichael@perez.net,42,No,0
+ord1279,2025-04-23,2025-04-30,Cust332,prod3041,Study Table,Furniture,South,Florida,Ericshire,8,2026,5,15397.6,10951.48,4446.12,NB,Cancelled,"Bailey, Lang and Crawford",qherman@glover.com,28,No,0
+ord1280,2025-07-23,2025-07-24,Cust417,prod2636,Sofa,Furniture,West,New Mexico,Moorechester,1,3059,5,2906.05,1936.77,969.28,UPI,Returned,"Franklin, Bullock and Howard",jamesstephen@ramsey-kent.net,34,No,0
+ord1281,2025-02-24,2025-02-25,Cust885,prod7675,Cooking oil,Grocery,North,Illinois,Elizabethfort,2,1927,0,3854.0,2437.57,1416.43,NB,Pending,Morris-Shaffer,hollyflores@clements.com,30,No,0
+ord1282,2025-08-31,2025-09-02,Cust680,prod6589,Bed,Furniture,South,Hawaii,Charlesborough,6,2803,15,14295.3,9662.22,4633.08,UPI,Pending,"Perez, Walker and Garrison",amber56@hutchinson.com,0,Yes,33
+ord1283,2025-06-25,2025-06-26,Cust710,prod3250,Mouse,Electronics,South,South Carolina,Gallagherburgh,2,552,15,938.4,761.51,176.89,NB,Delivered,Bowers-Choi,darryl20@davis.com,2,Yes,21
+ord1284,2025-06-23,2025-06-24,Cust749,prod9516,Office chair,Furniture,North,Idaho,Port Robert,6,1154,0,6924.0,4490.0,2434.0,Cash,Pending,Rowland PLC,lbrown@walton.net,15,No,0
+ord1285,2025-03-18,2025-03-22,Cust536,prod8072,Calculator,Office supplies,West,New York,Angelashire,7,3656,0,25592.0,20170.87,5421.13,Cash,Delivered,Schneider Ltd,nsmith@gonzales.org,42,No,0
+ord1286,2025-08-02,2025-08-03,Cust274,prod8332,Study Table,Furniture,South,Montana,Cartermouth,5,4749,5,22557.75,15345.14,7212.61,UPI,Cancelled,Jenkins Group,hendrickskelly@gibbs-smith.com,6,Yes,35
+ord1287,2025-04-11,2025-04-14,Cust808,prod1822,Stapler,Office supplies,East,New Hampshire,New Ashley,10,4194,15,35649.0,30397.28,5251.72,UPI,Pending,Hunt LLC,watersnicholas@bolton.com,35,No,0
+ord1288,2025-01-05,2025-01-06,Cust551,prod3957,Wheat,Grocery,North,Arizona,Lake Shawn,3,1880,15,4794.0,3624.18,1169.82,Cash,Delivered,"Hall, Harrison and Castillo",gmoore@johnson.org,39,No,0
+ord1289,2024-12-13,2024-12-19,Cust996,prod6474,Laptop,Electronics,South,Illinois,Triciaside,9,4062,15,31074.3,20571.66,10502.64,CC,Cancelled,Weaver-Bailey,timothy81@lopez-graham.com,26,No,0
+ord1290,2025-03-02,2025-03-04,Cust515,prod7728,File folder,Office supplies,South,California,East Michaelburgh,8,3646,0,29168.0,23529.59,5638.41,CC,Delivered,"Craig, Brooks and Morgan",sheri00@chen.com,8,Yes,32
+ord1291,2025-11-05,2025-11-07,Cust344,prod3312,Study Table,Furniture,South,Maine,Taylormouth,7,3049,5,20275.85,15912.91,4362.94,NB,Returned,"Long, Rogers and Wade",clarencesilva@wood-duarte.biz,32,No,0
+ord1292,2025-09-05,2025-09-09,Cust377,prod7957,Sofa,Furniture,South,Colorado,New Christophershire,2,2629,5,4995.1,4012.69,982.41,NB,Delivered,Hardin-Gomez,boydrenee@miller-delgado.com,27,No,0
+ord1293,2025-03-17,2025-03-24,Cust293,prod1356,Calculator,Office supplies,North,Illinois,South Judith,4,234,20,748.8,644.03,104.77,NB,Delivered,Jackson Inc,mcdanielmark@branch.com,22,No,0
+ord1294,2025-11-11,2025-11-15,Cust745,prod5502,Bed,Furniture,West,Michigan,Troyberg,6,2456,20,11788.8,10079.34,1709.46,UPI,Delivered,Newman Ltd,jbowen@casey-dorsey.net,9,Yes,42
+ord1295,2025-04-05,2025-04-11,Cust648,prod5710,Bed,Furniture,South,Oklahoma,New Lauriechester,4,4019,10,14468.4,12267.75,2200.65,CC,Delivered,Massey LLC,amyscott@gibson-shaffer.com,40,No,0
+ord1296,2025-11-09,2025-11-10,Cust637,prod1252,Rice bag,Grocery,South,Oregon,New Wandafurt,1,4666,5,4432.7,3891.41,541.29,Cash,Delivered,Nelson and Sons,penningtonjonathan@williams-moore.com,45,No,0
+ord1297,2025-04-09,2025-04-12,Cust358,prod5145,Study Table,Furniture,South,Hawaii,Annemouth,7,2499,0,17493.0,11596.76,5896.24,UPI,Pending,Downs Ltd,oandrews@lozano-davis.com,26,No,0
+ord1298,2025-05-24,2025-05-27,Cust429,prod5930,Notebook,Office supplies,West,Arkansas,Port Gabrielleport,5,999,10,4495.5,3634.27,861.23,NB,Returned,Bennett Inc,barry35@bowers.org,10,No,0
+ord1299,2025-02-18,2025-02-21,Cust147,prod9562,Monitor,Electronics,South,New Mexico,Lake Michael,6,224,20,1075.2,712.48,362.72,NB,Returned,Howell PLC,christopher27@knox.info,45,No,0
+ord1300,2025-11-02,2025-11-06,Cust250,prod8539,Study Table,Furniture,North,Virginia,North Michael,1,986,10,887.4,711.67,175.73,NB,Returned,Jensen-Elliott,kimberly23@molina-bennett.com,22,No,0
+ord1301,2025-07-22,2025-07-25,Cust440,prod5655,Office chair,Furniture,South,Mississippi,Nicholsview,1,3536,5,3359.2,2636.53,722.67,CC,Pending,Medina PLC,asawyer@brown.com,43,No,0
+ord1302,2025-05-01,2025-05-08,Cust693,prod8386,Notebook,Office supplies,North,Wisconsin,South Morganburgh,2,3687,0,7374.0,6533.16,840.84,CC,Cancelled,Mack LLC,brittneynunez@baker-monroe.com,8,Yes,23
+ord1303,2025-04-03,2025-04-04,Cust917,prod5792,Headphones,Electronics,West,Colorado,Port Heather,10,2911,5,27654.5,20518.73,7135.77,UPI,Cancelled,Morgan-Villa,wallacejoshua@rogers.com,22,No,0
+ord1304,2025-09-30,2025-10-05,Cust687,prod4224,Bookshelf,Furniture,East,South Carolina,Osborneshire,5,1971,10,8869.5,5903.13,2966.37,UPI,Cancelled,Webb-Cox,lisadavis@romero.com,15,No,0
+ord1305,2025-01-26,2025-01-31,Cust258,prod1487,File folder,Office supplies,North,Wyoming,Port Jamesshire,4,4487,20,14358.4,9210.43,5147.97,CC,Delivered,Patrick-Harris,jeremy47@hood-brown.info,21,No,0
+ord1306,2024-12-29,2024-12-31,Cust918,prod7666,Cooking oil,Grocery,West,Louisiana,Karifurt,5,4519,10,20335.5,18137.59,2197.91,UPI,Cancelled,Klein-Atkinson,annasmith@cabrera.info,35,No,0
+ord1307,2025-10-12,2025-10-15,Cust790,prod1525,Laptop,Electronics,North,Montana,Hernandezburgh,7,439,0,3073.0,2752.69,320.31,Cash,Returned,Roy Inc,smithelizabeth@reyes-wall.com,33,No,0
+ord1308,2025-04-27,2025-04-28,Cust742,prod7996,Laptop,Electronics,South,Tennessee,Port Edward,4,2903,20,9289.6,7126.3,2163.3,Cash,Cancelled,"Johns, Murphy and Burns",laurengamble@lambert.com,16,No,0
+ord1309,2025-08-06,2025-08-09,Cust932,prod1921,Office chair,Furniture,North,Indiana,East Judytown,7,244,15,1451.8,1277.21,174.59,UPI,Returned,Villarreal LLC,raymondwilliams@george.com,7,Yes,46
+ord1310,2025-08-18,2025-08-23,Cust376,prod3723,Bookshelf,Furniture,South,Minnesota,East Harold,6,3369,0,20214.0,13440.79,6773.21,Cash,Cancelled,"Reed, Salazar and Aguilar",sfrancis@davies-gibbs.com,26,No,0
+ord1311,2025-12-04,2025-12-07,Cust936,prod2357,File folder,Office supplies,East,West Virginia,Raymondton,2,2951,10,5311.8,4396.94,914.86,CC,Delivered,Andrade and Sons,christopher12@hunt.biz,16,No,0
+ord1312,2025-05-07,2025-05-13,Cust593,prod5970,Bookshelf,Furniture,East,Oregon,Port Erinburgh,2,911,10,1639.8,1418.24,221.56,CC,Cancelled,Barnett Ltd,lorigray@davidson-love.com,20,No,0
+ord1313,2025-12-05,2025-12-07,Cust165,prod5384,Laptop,Electronics,East,Arkansas,West David,1,4568,5,4339.6,3754.5,585.1,UPI,Delivered,Taylor-Hayes,samanthataylor@simmons.com,28,No,0
+ord1314,2024-12-19,2024-12-21,Cust973,prod3381,Laptop,Electronics,North,Illinois,Pachecochester,3,692,15,1764.6,1564.02,200.58,CC,Pending,Dunlap-Shaw,joewatson@coleman-watson.info,41,No,0
+ord1315,2025-01-10,2025-01-16,Cust243,prod5298,Monitor,Electronics,West,Connecticut,North Sharonfort,10,2412,0,24120.0,21660.93,2459.07,Cash,Pending,Simpson-Sanchez,ethomas@cox-pennington.com,34,No,0
+ord1316,2025-08-19,2025-08-24,Cust702,prod2983,File folder,Office supplies,East,Colorado,Roweburgh,1,4561,20,3648.8,2678.13,970.67,Cash,Pending,"Reynolds, Jenkins and Leach",robinsonjacob@allen-patel.com,25,No,0
+ord1317,2025-10-06,2025-10-07,Cust602,prod9995,Rice bag,Grocery,North,Maryland,Smithbury,1,4743,0,4743.0,3353.97,1389.03,Cash,Cancelled,Williams Inc,vward@sosa.com,16,No,0
+ord1318,2025-12-04,2025-12-06,Cust114,prod4853,Mouse,Electronics,South,Kentucky,Michelleville,5,2976,5,14136.0,9238.4,4897.6,CC,Delivered,Perez-Anderson,bkidd@wolf.com,1,Yes,22
+ord1319,2025-04-24,2025-05-01,Cust392,prod4436,Calculator,Office supplies,East,Maine,Lake Patrickburgh,9,3839,0,34551.0,30814.02,3736.98,CC,Cancelled,White PLC,underwoodbrandon@phillips.com,41,No,0
+ord1320,2024-12-14,2024-12-21,Cust510,prod4563,Stapler,Office supplies,West,Michigan,Port Jodyland,6,156,20,748.8,483.91,264.89,Cash,Returned,"Reyes, Brown and Hansen",bbaker@santos.info,24,No,0
+ord1321,2025-04-02,2025-04-07,Cust855,prod9397,Laptop,Electronics,North,Colorado,East Steventon,6,3351,0,20106.0,14027.14,6078.86,NB,Cancelled,Brown-Jones,william91@lopez.net,22,No,0
+ord1322,2025-05-19,2025-05-23,Cust667,prod2826,Notebook,Office supplies,East,Florida,Danielhaven,6,3691,5,21038.7,13505.54,7533.16,UPI,Pending,Dalton LLC,williamschristian@mccarthy.org,31,No,0
+ord1323,2025-04-18,2025-04-21,Cust772,prod9287,Rice bag,Grocery,North,Mississippi,East Sharon,1,793,0,793.0,697.06,95.94,UPI,Delivered,Byrd Ltd,otaylor@thomas-peterson.com,38,No,0
+ord1324,2025-03-13,2025-03-20,Cust760,prod7835,Laptop,Electronics,West,Washington,Michaelbury,6,4870,0,29220.0,23981.28,5238.72,NB,Cancelled,Cantu Inc,vancekyle@miles.com,17,No,0
+ord1325,2025-02-24,2025-02-26,Cust973,prod2679,Bookshelf,Furniture,South,Arkansas,Lake Elizabeth,2,1707,0,3414.0,2761.49,652.51,UPI,Returned,"Johnson, Clark and Christian",felicia06@hoffman.com,40,No,0
+ord1326,2025-06-20,2025-06-24,Cust926,prod2067,Calculator,Office supplies,North,Virginia,Colleenton,7,1703,15,10132.85,8098.86,2033.99,Cash,Cancelled,"Malone, Walker and Griffin",lewismark@avery.com,1,Yes,46
+ord1327,2025-02-20,2025-02-21,Cust735,prod5531,Study Table,Furniture,North,New Hampshire,West Kristina,4,2457,5,9336.6,6942.98,2393.62,Cash,Cancelled,"Barnett, Sims and Adams",april50@wall-hall.net,8,Yes,37
+ord1328,2025-04-18,2025-04-19,Cust689,prod7987,Bookshelf,Furniture,West,Oregon,South Jaredtown,5,1796,0,8980.0,7780.33,1199.67,CC,Pending,Stevens Group,evansshirley@stanley.net,14,No,0
+ord1329,2025-10-29,2025-11-05,Cust216,prod3034,Bookshelf,Furniture,East,Missouri,South Yvette,9,4013,15,30699.45,20074.57,10624.88,Cash,Cancelled,Little-Scott,kimberly97@armstrong.org,4,Yes,41
+ord1330,2025-07-23,2025-07-24,Cust310,prod7054,Keyboard,Electronics,West,Pennsylvania,West Terristad,9,538,15,4115.7,3403.0,712.7,NB,Returned,Williams and Sons,casey00@mcfarland.net,14,No,0
+ord1331,2025-03-26,2025-03-30,Cust650,prod5468,Calculator,Office supplies,North,Connecticut,Markstad,2,292,20,467.2,354.38,112.82,CC,Pending,"Morrow, Stewart and Dawson",baileyjennifer@ayers.org,28,No,0
+ord1332,2025-10-29,2025-11-01,Cust146,prod3290,Calculator,Office supplies,West,Hawaii,Parksmouth,3,1511,15,3853.05,3316.77,536.28,CC,Returned,Mckinney PLC,xkerr@wilson.net,34,No,0
+ord1333,2025-05-21,2025-05-26,Cust509,prod8459,Calculator,Office supplies,South,Colorado,Lake Christianburgh,10,1000,20,8000.0,4969.73,3030.27,NB,Delivered,Allen LLC,elizabethbarnes@bradshaw.org,8,Yes,43
+ord1334,2025-06-18,2025-06-20,Cust280,prod5985,Headphones,Electronics,East,Missouri,Lake Michaelborough,3,400,10,1080.0,717.97,362.03,NB,Returned,"Smith, Watkins and Murphy",roy25@zavala.org,43,No,0
+ord1335,2025-01-06,2025-01-08,Cust657,prod6368,Office chair,Furniture,East,New Hampshire,New Sarah,9,526,15,4023.9,3462.65,561.25,Cash,Returned,May PLC,omartinez@baker.com,34,No,0
+ord1336,2025-06-28,2025-07-03,Cust480,prod6995,Stapler,Office supplies,East,Arizona,Port Alvin,9,2337,20,16826.4,13483.79,3342.61,Cash,Delivered,"Sanders, Johnson and Short",dalechandler@avery.com,34,No,0
+ord1337,2025-04-20,2025-04-23,Cust835,prod9281,Calculator,Office supplies,South,Florida,Joshuaborough,8,4271,15,29042.8,21322.36,7720.44,Cash,Delivered,Cardenas-Cooley,cbarrett@ball.org,33,No,0
+ord1338,2025-04-01,2025-04-08,Cust467,prod7320,Biscuits,Grocery,North,Texas,Melanieton,6,1571,15,8012.1,5285.42,2726.68,UPI,Pending,Foster-Simmons,jennythompson@leach.com,34,No,0
+ord1339,2025-11-10,2025-11-12,Cust646,prod7937,File folder,Office supplies,South,Kansas,Bennettport,7,1321,15,7859.95,7003.64,856.31,CC,Returned,Freeman Inc,robinsonadam@pearson.com,17,No,0
+ord1340,2025-09-30,2025-10-03,Cust188,prod2282,Rice bag,Grocery,East,Kansas,Sheatown,10,4292,0,42920.0,30786.7,12133.3,UPI,Cancelled,Davis PLC,david85@stewart.biz,28,No,0
+ord1341,2025-03-29,2025-04-02,Cust289,prod4534,Monitor,Electronics,North,Maine,Port Ashley,6,1971,15,10052.1,7727.15,2324.95,Cash,Returned,"Yates, Simpson and Cummings",stephenmcpherson@curry-scott.com,14,No,0
+ord1342,2025-02-05,2025-02-11,Cust463,prod4686,Sugar,Grocery,North,Illinois,East Frank,4,3854,10,13874.4,10365.26,3509.14,NB,Delivered,Parsons-Howard,christina15@church-allen.biz,40,No,0
+ord1343,2025-04-19,2025-04-20,Cust148,prod1702,Pen,Office supplies,South,Missouri,West Harryville,7,3040,10,19152.0,12404.6,6747.4,UPI,Returned,Mccann-Robinson,grace93@murphy.com,25,No,0
+ord1344,2025-07-06,2025-07-09,Cust673,prod7589,Office chair,Furniture,East,Rhode Island,Donaldbury,2,4960,0,9920.0,7159.71,2760.29,UPI,Cancelled,Chavez Ltd,dorothy47@johnson.net,18,No,0
+ord1345,2025-02-16,2025-02-21,Cust530,prod3700,Rice bag,Grocery,North,Missouri,Steinbury,1,3016,15,2563.6,2236.3,327.3,NB,Returned,Ford Inc,vfisher@bowen-wright.net,40,No,0
+ord1346,2025-05-05,2025-05-08,Cust741,prod6689,Study Table,Furniture,East,Iowa,Port Chadshire,4,2215,15,7531.0,6347.99,1183.01,UPI,Delivered,"Maxwell, Shannon and Miller",vernon43@turner.com,27,No,0
+ord1347,2025-08-06,2025-08-12,Cust867,prod2445,Rice bag,Grocery,North,Colorado,Port Curtis,7,923,15,5491.85,3564.32,1927.53,Cash,Returned,"Foster, Davila and Duncan",nfletcher@kaufman-holmes.com,10,No,0
+ord1348,2025-07-28,2025-08-03,Cust437,prod3877,Pen,Office supplies,East,Florida,South Daniel,10,1452,20,11616.0,9738.37,1877.63,CC,Cancelled,Wolf Inc,jessica34@hudson-ball.com,43,No,0
+ord1349,2025-10-27,2025-10-28,Cust167,prod7933,Bookshelf,Furniture,North,Maryland,Phillipsstad,5,3229,15,13723.25,11310.7,2412.55,CC,Returned,Patel Group,mary93@malone.org,50,No,0
+ord1350,2025-10-07,2025-10-10,Cust881,prod9338,Headphones,Electronics,South,Colorado,Camachoview,8,2649,5,20132.4,14010.51,6121.89,UPI,Pending,Griffin-Mcbride,reneemarshall@schultz.com,1,Yes,29
+ord1351,2024-12-30,2025-01-03,Cust591,prod5123,Office chair,Furniture,East,Michigan,New Josephville,1,2032,10,1828.8,1390.06,438.74,CC,Delivered,Munoz-Smith,jacquelinerodriguez@casey.com,18,No,0
+ord1352,2025-01-11,2025-01-15,Cust491,prod2171,File folder,Office supplies,North,Michigan,Lake Kristinbury,9,2784,0,25056.0,17886.6,7169.4,CC,Returned,Dougherty Group,wthomas@davis.com,5,Yes,49
+ord1353,2025-11-10,2025-11-11,Cust830,prod9126,Notebook,Office supplies,East,Oklahoma,West Christinaview,5,4299,5,20420.25,15184.49,5235.76,UPI,Cancelled,Carson Group,elizabeth55@miller.org,25,No,0
+ord1354,2025-02-23,2025-02-26,Cust249,prod2003,Office chair,Furniture,West,Virginia,Scottfort,9,1690,15,12928.5,9212.52,3715.98,UPI,Delivered,"Oliver, Elliott and West",rebeccathomas@ball-jones.org,30,No,0
+ord1355,2025-02-12,2025-02-14,Cust392,prod7058,Sugar,Grocery,North,Delaware,New Austinmouth,10,2348,20,18784.0,14430.93,4353.07,CC,Returned,"Johnson, Atkinson and Nelson",shelby01@thompson.com,8,Yes,32
+ord1356,2025-11-05,2025-11-07,Cust710,prod2964,Sofa,Furniture,South,Illinois,Ryanhaven,10,2965,5,28167.5,18462.54,9704.96,CC,Pending,Wagner-Randall,bellgreg@scott-hawkins.com,5,Yes,33
+ord1357,2025-07-19,2025-07-23,Cust403,prod7640,Pen,Office supplies,South,Alabama,West Haley,9,2191,10,17747.1,13694.71,4052.39,CC,Cancelled,Brooks-Johnson,david84@garcia-olson.com,13,No,0
+ord1358,2025-06-23,2025-06-28,Cust321,prod7037,Stapler,Office supplies,West,New Mexico,New Julie,10,3663,10,32967.0,25009.99,7957.01,CC,Delivered,Vargas Inc,patrickwilson@lewis.com,17,No,0
+ord1359,2025-04-26,2025-04-29,Cust277,prod1410,Headphones,Electronics,West,Hawaii,Stevenmouth,7,4016,20,22489.6,17753.0,4736.6,UPI,Pending,"James, Bates and Perry",marc47@perry.com,14,No,0
+ord1360,2025-02-08,2025-02-15,Cust720,prod3248,Stapler,Office supplies,South,Washington,Michaelton,2,1888,20,3020.8,1852.54,1168.26,NB,Delivered,Castro PLC,jacob14@thomas.com,26,No,0
+ord1361,2025-06-04,2025-06-11,Cust812,prod2283,Bookshelf,Furniture,East,Vermont,West Douglas,3,320,10,864.0,541.13,322.87,NB,Cancelled,"Diaz, Moreno and Bryant",bryan32@hamilton-hayden.com,40,No,0
+ord1362,2025-03-07,2025-03-09,Cust111,prod4470,Monitor,Electronics,South,Utah,Sullivantown,10,363,0,3630.0,2920.11,709.89,UPI,Cancelled,Dawson LLC,creynolds@lewis-williams.com,19,No,0
+ord1363,2025-09-15,2025-09-22,Cust762,prod6818,Sugar,Grocery,South,North Carolina,Wilsonhaven,5,4789,15,20353.25,16417.49,3935.76,CC,Delivered,Landry Group,tramos@wright-maldonado.com,41,No,0
+ord1364,2024-12-19,2024-12-25,Cust473,prod9123,Office chair,Furniture,East,Utah,New Jeffrey,4,229,5,870.2,541.42,328.78,CC,Returned,Watson PLC,martinjennifer@quinn.com,42,No,0
+ord1365,2025-10-25,2025-11-01,Cust488,prod6004,Notebook,Office supplies,North,Rhode Island,Warrenhaven,6,4173,10,22534.2,17294.42,5239.78,CC,Returned,"Taylor, Beltran and Knight",welchnicole@hodge-baker.biz,7,Yes,22
+ord1366,2024-12-06,2024-12-11,Cust150,prod7012,Biscuits,Grocery,South,Texas,Harrisonshire,4,320,10,1152.0,944.63,207.37,CC,Delivered,Webster-Peters,jenniferking@garcia.info,3,Yes,20
+ord1367,2025-06-23,2025-06-29,Cust411,prod9370,Laptop,Electronics,South,New Mexico,Martinezmouth,2,4661,5,8855.9,7487.01,1368.89,NB,Pending,Robbins-Moody,william16@allen-fisher.net,32,No,0
+ord1368,2025-10-13,2025-10-14,Cust763,prod7557,Notebook,Office supplies,West,Georgia,Port Caitlin,8,4314,5,32786.4,26530.28,6256.12,CC,Cancelled,Bennett-Patel,pwilliamson@gentry.com,10,No,0
+ord1369,2025-10-06,2025-10-10,Cust696,prod2287,Calculator,Office supplies,South,Nevada,Singhhaven,10,3673,10,33057.0,22988.48,10068.52,NB,Delivered,Bonilla-Rodriguez,robertojohnson@smith.com,15,No,0
+ord1370,2025-05-30,2025-06-06,Cust301,prod3873,Sofa,Furniture,West,North Dakota,East Ryan,1,721,15,612.85,513.41,99.44,Cash,Pending,"Carter, David and Sims",ejordan@thomas.com,26,No,0
+ord1371,2025-04-04,2025-04-11,Cust656,prod2543,Stapler,Office supplies,West,Delaware,Brooksburgh,10,1632,20,13056.0,11201.93,1854.07,Cash,Cancelled,"Wilson, Davis and Williams",nataliehernandez@freeman-adams.net,38,No,0
+ord1372,2025-06-08,2025-06-15,Cust124,prod4954,Biscuits,Grocery,East,Oklahoma,East Larryberg,3,707,10,1908.9,1547.33,361.57,CC,Delivered,"Baldwin, Wheeler and Ellis",mathiselizabeth@marquez-drake.com,0,Yes,21
+ord1373,2025-02-27,2025-03-04,Cust506,prod2502,Notebook,Office supplies,East,New Mexico,West Theodore,9,4362,20,31406.4,20471.41,10934.99,UPI,Delivered,"Davis, Smith and Raymond",bthompson@trevino.com,28,No,0
+ord1374,2025-05-02,2025-05-08,Cust901,prod7272,Monitor,Electronics,South,Vermont,Juanbury,2,1728,10,3110.4,1956.96,1153.44,Cash,Pending,Conley LLC,thomas98@campbell.com,38,No,0
+ord1375,2024-12-19,2024-12-20,Cust183,prod4195,Rice bag,Grocery,West,Georgia,West Oliviafort,6,2182,0,13092.0,8085.48,5006.52,CC,Pending,Powers-Myers,katelynhale@lee-myers.com,22,No,0
+ord1376,2025-05-12,2025-05-19,Cust780,prod2651,Laptop,Electronics,North,Nebraska,Port Michelleville,8,4471,0,35768.0,31998.55,3769.45,NB,Delivered,"Payne, Williams and Kim",williamsmichelle@singh-johnson.com,13,No,0
+ord1377,2025-06-30,2025-07-07,Cust681,prod1257,Pen,Office supplies,West,Kentucky,New Elizabeth,6,2675,5,15247.5,11188.84,4058.66,NB,Delivered,Peterson Group,emitchell@brady-alvarez.biz,29,No,0
+ord1378,2025-07-13,2025-07-14,Cust879,prod4998,Bookshelf,Furniture,South,Idaho,East Austin,4,122,10,439.2,282.03,157.17,Cash,Pending,"Munoz, Davis and Larson",morenoeric@mcmillan.com,17,No,0
+ord1379,2025-09-18,2025-09-23,Cust421,prod4749,Keyboard,Electronics,South,Alaska,Devinview,6,4694,15,23939.4,14914.74,9024.66,Cash,Pending,"Welch, Welch and Anderson",wileywilliam@hunt-decker.com,39,No,0
+ord1380,2025-03-30,2025-04-02,Cust148,prod4271,Laptop,Electronics,South,Missouri,East Stephen,9,4630,10,37503.0,33345.45,4157.55,UPI,Pending,"Jackson, Wilson and Mitchell",gilmorematthew@davis-brown.com,26,No,0
+ord1381,2025-02-02,2025-02-09,Cust191,prod3968,Headphones,Electronics,South,Missouri,Susanmouth,9,1994,0,17946.0,13183.15,4762.85,NB,Returned,Stevens-Walker,georgealejandro@jones-bowen.com,6,Yes,24
+ord1382,2025-11-05,2025-11-07,Cust554,prod2412,Biscuits,Grocery,South,South Carolina,New Tarahaven,1,2876,15,2444.6,1802.01,642.59,Cash,Pending,Soto-Dillon,ejohnson@figueroa.org,32,No,0
+ord1383,2025-08-09,2025-08-15,Cust780,prod2081,Office chair,Furniture,South,Wyoming,Port William,3,1515,15,3863.25,2695.28,1167.97,NB,Returned,Velasquez Group,jacksoncook@jennings.com,28,No,0
+ord1384,2025-04-09,2025-04-16,Cust155,prod4149,Bookshelf,Furniture,West,Connecticut,Port Arielburgh,8,154,0,1232.0,795.62,436.38,NB,Pending,Ochoa-Gray,phelpsjanet@hubbard.biz,46,No,0
+ord1385,2024-12-27,2025-01-03,Cust227,prod5087,Headphones,Electronics,East,Missouri,North Kyle,5,3192,10,14364.0,10211.06,4152.94,NB,Delivered,Cox Group,galvandavid@chapman.com,10,No,0
+ord1386,2025-10-03,2025-10-07,Cust458,prod4295,Keyboard,Electronics,West,Hawaii,North Michelle,10,306,20,2448.0,2104.88,343.12,CC,Pending,Brewer-Greene,hsmith@bridges.org,32,No,0
+ord1387,2025-06-01,2025-06-03,Cust954,prod1182,Mouse,Electronics,East,Kansas,New Jonberg,5,2388,0,11940.0,10106.15,1833.85,Cash,Delivered,Juarez and Sons,qrogers@boyd.org,44,No,0
+ord1388,2025-11-09,2025-11-10,Cust974,prod6177,Biscuits,Grocery,West,New Mexico,Hugheston,10,3900,10,35100.0,21197.11,13902.89,NB,Delivered,Hernandez Group,brandonhall@olsen.info,47,No,0
+ord1389,2025-11-02,2025-11-08,Cust811,prod7616,Bookshelf,Furniture,South,Mississippi,South Peterport,1,2449,5,2326.55,1778.2,548.35,CC,Delivered,"Parker, Mcdonald and Brown",qmaxwell@mitchell.com,21,No,0
+ord1390,2025-01-28,2025-02-04,Cust434,prod2695,Study Table,Furniture,South,Indiana,Amandahaven,9,4842,10,39220.2,34410.21,4809.99,NB,Pending,Boyd-Randall,douglas48@weaver-nelson.com,2,Yes,20
+ord1391,2025-11-01,2025-11-03,Cust967,prod7923,Calculator,Office supplies,East,Hawaii,Lake Megan,4,1449,0,5796.0,4426.24,1369.76,UPI,Pending,Mclaughlin-Price,robertsderrick@james-pineda.net,16,No,0
+ord1392,2025-01-14,2025-01-16,Cust559,prod8504,Mouse,Electronics,East,Delaware,East Michael,5,3819,15,16230.75,13909.76,2320.99,Cash,Returned,Bowen-Parsons,leesharon@madden.org,47,No,0
+ord1393,2025-02-26,2025-03-03,Cust654,prod6215,Office chair,Furniture,North,Arkansas,Kennethhaven,3,855,20,2052.0,1382.34,669.66,CC,Pending,"Willis, Young and Gibson",carolynhart@vance.com,12,No,0
+ord1394,2025-05-29,2025-06-04,Cust844,prod7350,Bookshelf,Furniture,South,Florida,West Traceymouth,4,3533,20,11305.6,9194.48,2111.12,UPI,Cancelled,Moore-Gardner,ngarcia@stone-zuniga.com,18,No,0
+ord1395,2025-09-30,2025-10-01,Cust365,prod5709,File folder,Office supplies,West,Idaho,West Lauriebury,5,928,10,4176.0,2963.75,1212.25,CC,Delivered,"Boyd, Eaton and Noble",vargasmarco@rice-harrison.com,42,No,0
+ord1396,2025-09-07,2025-09-09,Cust541,prod9851,Bed,Furniture,South,Arizona,Emilybury,7,2719,15,16178.05,13978.9,2199.15,NB,Pending,Stuart PLC,utanner@scott.com,15,No,0
+ord1397,2025-01-17,2025-01-24,Cust590,prod8158,Notebook,Office supplies,East,New Hampshire,South Jeffrey,10,1667,0,16670.0,13906.34,2763.66,CC,Returned,Garza-Mathews,sherriross@davis.com,4,Yes,32
+ord1398,2025-06-05,2025-06-10,Cust568,prod8642,Biscuits,Grocery,North,Ohio,Warrenside,9,100,20,720.0,522.27,197.73,NB,Cancelled,"Morgan, Cohen and Gross",elliottjustin@park.com,43,No,0
+ord1399,2025-02-22,2025-02-23,Cust814,prod1571,Calculator,Office supplies,East,California,Mooreview,7,3215,0,22505.0,19003.28,3501.72,Cash,Returned,Leonard-Smith,cherryscott@owen.com,6,Yes,24
+ord1400,2025-05-04,2025-05-07,Cust685,prod6674,Wheat,Grocery,North,Alaska,Kellyton,4,2857,10,10285.2,6747.99,3537.21,Cash,Pending,Clark Group,doughertyangela@mccoy-romero.com,14,No,0
+ord1401,2025-05-18,2025-05-24,Cust963,prod1927,Monitor,Electronics,East,Tennessee,East Charles,1,551,15,468.35,332.57,135.78,UPI,Delivered,Perez Group,danielle73@james.biz,49,No,0
+ord1402,2025-08-27,2025-09-01,Cust189,prod6148,Cooking oil,Grocery,North,North Dakota,Aliciafurt,10,3730,0,37300.0,33452.41,3847.59,UPI,Cancelled,"Brown, Boone and Stout",ugreen@garcia.net,35,No,0
+ord1403,2024-12-29,2024-12-30,Cust527,prod9951,Sugar,Grocery,North,Minnesota,Brettside,2,3337,5,6340.3,4573.18,1767.12,NB,Delivered,Brown LLC,james07@salinas.biz,33,No,0
+ord1404,2025-09-15,2025-09-20,Cust442,prod4328,Monitor,Electronics,West,Alabama,New Elizabethstad,8,4943,15,33612.4,27283.51,6328.89,NB,Pending,"James, Nelson and Mendoza",jennifer16@calderon.com,8,Yes,20
+ord1405,2025-02-05,2025-02-10,Cust855,prod6342,Office chair,Furniture,East,Montana,Alexmouth,8,3151,10,22687.2,17846.47,4840.73,CC,Pending,Bell and Sons,carlanelson@morrow-lewis.com,17,No,0
+ord1406,2025-05-10,2025-05-13,Cust922,prod5663,Sofa,Furniture,East,Nebraska,New Jessefort,6,1246,0,7476.0,5486.93,1989.07,Cash,Returned,Black LLC,newmanmarc@park-martinez.com,10,No,0
+ord1407,2025-02-22,2025-02-24,Cust874,prod6372,Study Table,Furniture,South,Maryland,Blakefurt,7,142,10,894.6,691.28,203.32,CC,Returned,Adams-Moss,debbie93@hodges-thomas.com,47,No,0
+ord1408,2025-04-26,2025-04-30,Cust948,prod2555,Sofa,Furniture,North,Oklahoma,West Emily,1,2266,10,2039.4,1564.16,475.24,UPI,Pending,Thomas-Tucker,pmcclain@white.com,42,No,0
+ord1409,2025-09-25,2025-10-01,Cust531,prod1268,Office chair,Furniture,West,North Carolina,Victortown,9,4366,5,37329.3,28767.53,8561.77,NB,Cancelled,Ward-Taylor,williamsmichael@arnold.org,21,No,0
+ord1410,2024-12-14,2024-12-18,Cust918,prod6266,Mouse,Electronics,East,Indiana,Sullivanside,9,4978,0,44802.0,34608.38,10193.62,CC,Pending,Wilson-Williams,brady99@clark.net,46,No,0
+ord1411,2025-05-31,2025-06-04,Cust108,prod3442,Biscuits,Grocery,East,Iowa,Port Aaron,6,4947,5,28197.9,18136.53,10061.37,Cash,Cancelled,Lewis LLC,jdavis@perez.net,9,Yes,22
+ord1412,2025-09-21,2025-09-26,Cust474,prod7393,Pen,Office supplies,North,Virginia,Karaside,2,1086,15,1846.2,1123.35,722.85,CC,Returned,"Garrett, Lewis and Scott",owilkinson@boyd.com,24,No,0
+ord1413,2025-02-23,2025-02-25,Cust763,prod2360,Rice bag,Grocery,South,Washington,Jamesside,8,2999,0,23992.0,17861.65,6130.35,CC,Cancelled,"Petersen, Harvey and Ruiz",tfletcher@melendez.com,6,Yes,23
+ord1414,2025-07-24,2025-07-27,Cust406,prod7431,Sofa,Furniture,East,Maine,New Emmastad,1,3450,20,2760.0,1897.08,862.92,CC,Delivered,Johnson-Rogers,ncole@smith-hill.com,30,No,0
+ord1415,2025-01-15,2025-01-22,Cust390,prod4572,File folder,Office supplies,North,Oregon,North Tylerport,4,3044,15,10349.6,9128.58,1221.02,UPI,Pending,"Mcdaniel, Sanders and Lambert",mgamble@farmer.biz,3,Yes,44
+ord1416,2024-12-23,2024-12-28,Cust139,prod1717,Study Table,Furniture,South,Washington,Hillport,6,1466,20,7036.8,5954.12,1082.68,UPI,Cancelled,Scott-Morgan,olivia58@rush.com,34,No,0
+ord1417,2025-01-30,2025-02-05,Cust592,prod1589,Pen,Office supplies,East,Minnesota,Phyllisside,4,161,0,644.0,444.38,199.62,UPI,Pending,"Yu, Harris and Flores",karenhughes@kennedy-mckee.com,42,No,0
+ord1418,2025-09-17,2025-09-19,Cust589,prod5627,Mouse,Electronics,South,Massachusetts,Greenview,1,785,15,667.25,523.22,144.03,NB,Pending,Williams-Oconnor,christinerussell@soto.com,8,Yes,33
+ord1419,2025-11-21,2025-11-24,Cust936,prod3471,Wheat,Grocery,West,Ohio,Jenniferside,5,2188,10,9846.0,6574.85,3271.15,NB,Cancelled,Benjamin-Sandoval,gatesjacob@banks.com,27,No,0
+ord1420,2025-09-12,2025-09-15,Cust495,prod5164,Monitor,Electronics,East,Nebraska,Christineberg,4,1664,5,6323.2,5202.75,1120.45,CC,Pending,"Caldwell, Roberts and Ryan",cookjeffrey@dominguez-franklin.com,46,No,0
+ord1421,2025-01-10,2025-01-13,Cust455,prod6820,Headphones,Electronics,East,Minnesota,Jenniferview,3,1476,5,4206.6,3769.05,437.55,NB,Cancelled,Arias-Stuart,eddie78@young.com,17,No,0
+ord1422,2025-01-02,2025-01-07,Cust907,prod5047,Biscuits,Grocery,North,Alaska,Wilsonmouth,8,2185,15,14858.0,12275.66,2582.34,NB,Delivered,"Lopez, Thornton and Smith",mballard@payne-schmidt.com,49,No,0
+ord1423,2025-04-08,2025-04-12,Cust568,prod9138,Office chair,Furniture,South,West Virginia,Seanbury,9,561,0,5049.0,3124.53,1924.47,Cash,Delivered,Gutierrez Group,jonathanmoore@jones.com,6,Yes,31
+ord1424,2025-05-14,2025-05-19,Cust989,prod8857,Stapler,Office supplies,North,Ohio,North Linda,6,4378,20,21014.4,17674.11,3340.29,UPI,Cancelled,"Murphy, Henson and Graham",hgarcia@jackson-young.com,23,No,0
+ord1425,2025-09-24,2025-09-28,Cust989,prod1191,Wheat,Grocery,West,Hawaii,New Angelaberg,8,4546,0,36368.0,26574.48,9793.52,NB,Delivered,Alexander Ltd,dlewis@floyd.org,30,No,0
+ord1426,2025-03-11,2025-03-13,Cust390,prod3901,Rice bag,Grocery,South,Montana,Whitemouth,7,3336,5,22184.4,14065.46,8118.94,NB,Returned,"Matthews, Fox and Wilkinson",wgomez@mullins.com,46,No,0
+ord1427,2025-03-30,2025-04-05,Cust584,prod9235,Sugar,Grocery,North,Utah,New Maryberg,2,432,10,777.6,591.33,186.27,NB,Pending,Norman-Lopez,sbrown@hernandez.com,27,No,0
+ord1428,2025-01-27,2025-01-31,Cust362,prod8537,Stapler,Office supplies,South,Minnesota,South Joannashire,7,4588,10,28904.4,17369.38,11535.02,CC,Returned,Taylor-Smith,rtorres@singleton.net,26,No,0
+ord1429,2025-01-07,2025-01-13,Cust497,prod5418,Laptop,Electronics,West,Wyoming,South Johnmouth,3,1465,0,4395.0,3871.01,523.99,UPI,Cancelled,Thomas-Roberts,melody29@reese.info,23,No,0
+ord1430,2025-02-27,2025-03-06,Cust369,prod3856,Study Table,Furniture,South,Utah,North Pamelahaven,1,3787,0,3787.0,2668.4,1118.6,NB,Pending,Rivera and Sons,morganronald@frederick.net,11,No,0
+ord1431,2025-05-08,2025-05-14,Cust133,prod3006,Wheat,Grocery,South,Idaho,Woodsland,2,2290,5,4351.0,3747.58,603.42,NB,Delivered,Martin and Sons,wadejason@vasquez-owen.info,6,Yes,49
+ord1432,2025-07-18,2025-07-20,Cust118,prod2403,Mouse,Electronics,South,Virginia,Port Christopherfurt,7,1556,0,10892.0,7170.13,3721.87,NB,Cancelled,Richards Group,victoriawilson@payne-mcpherson.com,0,Yes,47
+ord1433,2025-08-29,2025-09-02,Cust212,prod5157,Bookshelf,Furniture,West,Hawaii,Tiffanyville,7,2714,0,18998.0,14827.4,4170.6,Cash,Cancelled,"Wilkerson, Young and Leon",morganreynolds@robertson.com,33,No,0
+ord1434,2025-01-06,2025-01-12,Cust665,prod5570,Laptop,Electronics,West,Colorado,Lowerymouth,6,3870,0,23220.0,18698.83,4521.17,CC,Pending,"Tran, Garcia and Brown",andreapeterson@hernandez-castro.biz,40,No,0
+ord1435,2024-12-24,2024-12-30,Cust532,prod2236,Mouse,Electronics,East,Missouri,Clarkmouth,2,4015,10,7227.0,5213.54,2013.46,CC,Delivered,Webb-Hansen,michellestuart@peterson-hernandez.info,31,No,0
+ord1436,2025-05-26,2025-05-27,Cust896,prod3716,Bed,Furniture,West,Oklahoma,Wilkersontown,8,2837,5,21561.2,17438.55,4122.65,Cash,Returned,"Johnson, Hernandez and Sheppard",ihernandez@hudson.info,16,No,0
+ord1437,2025-11-19,2025-11-24,Cust354,prod3494,Headphones,Electronics,North,Rhode Island,Lake Steven,5,4602,0,23010.0,19563.69,3446.31,UPI,Pending,Jones Ltd,blevinstammy@ross-salazar.com,31,No,0
+ord1438,2025-09-23,2025-09-30,Cust536,prod6174,Notebook,Office supplies,West,Florida,West John,7,1699,15,10109.05,6669.9,3439.15,CC,Pending,Graham LLC,vargasrenee@haney.com,40,No,0
+ord1439,2025-06-12,2025-06-18,Cust328,prod6588,Cooking oil,Grocery,South,Utah,Maryberg,6,3487,0,20922.0,14165.88,6756.12,CC,Pending,"Garza, Chang and Lindsey",curtis62@horn-black.com,1,Yes,34
+ord1440,2025-01-31,2025-02-06,Cust369,prod5499,Sofa,Furniture,East,Delaware,West Kim,9,646,20,4651.2,4036.85,614.35,Cash,Cancelled,Camacho LLC,tclements@scott-jones.com,34,No,0
+ord1441,2025-01-29,2025-02-01,Cust859,prod5385,Laptop,Electronics,West,Virginia,Port Bonnie,5,872,10,3924.0,3250.27,673.73,CC,Delivered,"Myers, Johnson and Tucker",michaelmcintyre@thompson.com,44,No,0
+ord1442,2025-08-25,2025-08-31,Cust711,prod6908,Notebook,Office supplies,North,Tennessee,Lake Michael,6,2163,15,11031.3,8748.28,2283.02,UPI,Delivered,Baker LLC,benjaminwilliams@watkins-robinson.com,15,No,0
+ord1443,2025-03-20,2025-03-22,Cust784,prod7525,Pen,Office supplies,East,New York,Schultzmouth,1,265,0,265.0,192.56,72.44,CC,Delivered,Morton-Love,xvang@taylor-smith.biz,15,No,0
+ord1444,2025-05-26,2025-05-28,Cust487,prod6714,Sugar,Grocery,West,Vermont,Paulview,7,498,20,2788.8,2076.85,711.95,CC,Pending,"Harris, Snyder and Brown",belljessica@miller.org,18,No,0
+ord1445,2025-07-07,2025-07-08,Cust820,prod6339,File folder,Office supplies,South,Wisconsin,Stephanieport,5,3671,5,17437.25,12035.52,5401.73,CC,Pending,Coleman-Morrison,perkinsjillian@martin.org,35,No,0
+ord1446,2025-10-24,2025-10-31,Cust669,prod7842,Monitor,Electronics,West,Alaska,Carlmouth,6,705,20,3384.0,2673.03,710.97,CC,Returned,Proctor Inc,joseph74@moses-nguyen.org,37,No,0
+ord1447,2025-12-01,2025-12-02,Cust421,prod1217,Rice bag,Grocery,East,Arizona,New Shawnmouth,9,3266,0,29394.0,18190.24,11203.76,UPI,Delivered,Parker Inc,monica26@morris-pierce.com,27,No,0
+ord1448,2025-02-28,2025-03-06,Cust406,prod3974,Stapler,Office supplies,South,Utah,Hansenport,8,1318,5,10016.8,8102.77,1914.03,UPI,Delivered,Young LLC,yosborne@lowe-mason.com,29,No,0
+ord1449,2025-04-18,2025-04-21,Cust365,prod2560,Mouse,Electronics,East,Nebraska,Brucehaven,8,1224,5,9302.4,8361.37,941.03,CC,Returned,Rivera LLC,starkwilliam@pena-stone.com,31,No,0
+ord1450,2025-09-07,2025-09-11,Cust604,prod1940,Bookshelf,Furniture,East,Maine,Johnstad,7,3332,15,19825.4,13815.88,6009.52,CC,Delivered,"Williams, Obrien and Hernandez",gibsonmelissa@perez.com,6,Yes,45
+ord1451,2025-10-26,2025-11-01,Cust309,prod4990,Keyboard,Electronics,North,Ohio,Matthewside,9,3001,20,21607.2,15418.22,6188.98,UPI,Delivered,"Pollard, Coleman and Shaw",porterrichard@hunter.com,27,No,0
+ord1452,2025-05-29,2025-05-31,Cust305,prod8724,Keyboard,Electronics,North,Vermont,Tammyton,3,1705,10,4603.5,3367.22,1236.28,NB,Delivered,Davis Group,abigail29@robbins.org,44,No,0
+ord1453,2025-01-16,2025-01-18,Cust355,prod8677,Wheat,Grocery,North,Iowa,South Johnhaven,6,4815,10,26001.0,17682.35,8318.65,CC,Delivered,Reed-Carey,amyfitzpatrick@olson.com,0,Yes,31
+ord1454,2025-04-29,2025-05-06,Cust128,prod9821,Bookshelf,Furniture,East,New Mexico,Pachecoport,5,2805,20,11220.0,8444.88,2775.12,UPI,Pending,Castillo Inc,sheajack@green-wilson.com,2,Yes,40
+ord1455,2025-04-19,2025-04-21,Cust745,prod6000,Study Table,Furniture,North,Idaho,Shellybury,10,1308,0,13080.0,11541.33,1538.67,Cash,Returned,Adams and Sons,carriegeorge@alvarez.com,11,No,0
+ord1456,2025-06-02,2025-06-05,Cust331,prod8481,Monitor,Electronics,South,West Virginia,Lake Robertton,4,2912,15,9900.8,8325.28,1575.52,NB,Pending,"Bowen, Payne and Gregory",colesharon@foster.info,0,Yes,39
+ord1457,2025-09-18,2025-09-23,Cust790,prod2999,Headphones,Electronics,West,Wyoming,Port Davidstad,3,170,15,433.5,275.62,157.88,UPI,Cancelled,Salazar-Hayes,donaldkennedy@henderson.info,44,No,0
+ord1458,2025-10-19,2025-10-20,Cust955,prod7697,Cooking oil,Grocery,North,Massachusetts,South Deborah,9,1508,5,12893.4,10925.26,1968.14,Cash,Pending,"Smith, Nelson and Irwin",prichardson@williams-gutierrez.com,46,No,0
+ord1459,2025-08-09,2025-08-12,Cust303,prod2652,Rice bag,Grocery,East,Virginia,West John,3,2562,10,6917.4,5339.83,1577.57,NB,Delivered,"Johnson, Rodriguez and Harper",mhines@russell-mcclain.net,26,No,0
+ord1460,2025-03-25,2025-03-29,Cust678,prod4372,Calculator,Office supplies,South,Florida,Port Bradleyborough,9,4484,15,34302.6,23192.39,11110.21,NB,Cancelled,"Allison, Rivas and Hughes",nguyenrhonda@burton.biz,22,No,0
+ord1461,2025-10-10,2025-10-12,Cust618,prod2547,Cooking oil,Grocery,East,South Carolina,Port Rickymouth,1,2028,10,1825.2,1514.36,310.84,Cash,Returned,Gardner-Cook,wochoa@tyler.biz,5,Yes,25
+ord1462,2025-09-10,2025-09-16,Cust484,prod8507,Mouse,Electronics,East,Kansas,Galvanmouth,4,523,5,1987.4,1300.07,687.33,NB,Delivered,"Perry, Smith and Roberts",morgankathy@goodwin.com,6,Yes,22
+ord1463,2025-10-02,2025-10-05,Cust642,prod8010,Study Table,Furniture,North,Maine,Greenfurt,7,1552,20,8691.2,6797.83,1893.37,Cash,Pending,Wyatt-Anderson,victorhenry@greer.org,15,No,0
+ord1464,2025-03-07,2025-03-08,Cust323,prod9850,Keyboard,Electronics,West,Alabama,Jennifermouth,10,3125,20,25000.0,20523.97,4476.03,Cash,Returned,"Schultz, Williamson and Peterson",christopher14@johnson-mccarthy.org,25,No,0
+ord1465,2025-11-04,2025-11-07,Cust335,prod6248,Keyboard,Electronics,North,Indiana,Lake Brandon,1,3169,10,2852.1,2056.83,795.27,CC,Pending,"Riley, Gross and Williams",perezbryan@peck.com,13,No,0
+ord1466,2025-02-11,2025-02-18,Cust212,prod7708,Monitor,Electronics,North,Hawaii,West Jeffreyshire,8,1707,20,10924.8,8586.41,2338.39,Cash,Returned,"Williams, Hughes and Schneider",snowellen@ortega.com,39,No,0
+ord1467,2025-06-16,2025-06-17,Cust280,prod6766,Study Table,Furniture,North,South Carolina,East Markborough,3,3873,5,11038.05,9169.63,1868.42,UPI,Cancelled,Gillespie Group,david67@hensley.com,8,Yes,23
+ord1468,2025-11-17,2025-11-18,Cust448,prod1611,Sofa,Furniture,North,Mississippi,Robinsonmouth,3,537,0,1611.0,1083.85,527.15,NB,Delivered,Graham and Sons,ualexander@gray.com,1,Yes,49
+ord1469,2025-10-25,2025-10-28,Cust248,prod9319,Stapler,Office supplies,North,Nevada,East Sarah,10,2108,15,17918.0,15492.87,2425.13,NB,Cancelled,Jones-King,justin62@francis.com,29,No,0
+ord1470,2025-11-08,2025-11-15,Cust710,prod4887,Monitor,Electronics,West,Arizona,New Gabrielbury,6,3563,0,21378.0,18477.8,2900.2,UPI,Delivered,Cox-Alvarez,bethany35@mercer-farley.net,34,No,0
+ord1471,2025-09-07,2025-09-12,Cust171,prod7273,Sofa,Furniture,South,Utah,Melissachester,3,3032,10,8186.4,6211.02,1975.38,UPI,Delivered,"Williams, Morgan and Klein",theodorepineda@luna-white.com,26,No,0
+ord1472,2025-01-07,2025-01-12,Cust375,prod5570,Biscuits,Grocery,North,West Virginia,Port Mikaylaberg,9,3974,20,28612.8,17835.92,10776.88,UPI,Cancelled,Ferguson PLC,ryanjohnson@mays.com,23,No,0
+ord1473,2025-05-30,2025-06-02,Cust463,prod5816,Headphones,Electronics,West,Oregon,West Scott,7,1697,0,11879.0,9213.62,2665.38,Cash,Delivered,"Crane, Lewis and Stevens",jasonpatrick@burch.org,31,No,0
+ord1474,2025-02-02,2025-02-03,Cust895,prod6984,Sofa,Furniture,East,Florida,East Dana,7,1599,0,11193.0,9508.24,1684.76,NB,Returned,Robinson LLC,jasmine07@ponce-burton.com,27,No,0
+ord1475,2025-11-25,2025-11-28,Cust756,prod4185,Monitor,Electronics,East,South Carolina,West Heather,1,424,15,360.4,276.31,84.09,CC,Pending,Ross Inc,freemankimberly@espinoza.info,6,Yes,21
+ord1476,2025-07-16,2025-07-18,Cust387,prod5690,Sofa,Furniture,North,Tennessee,Bowmanberg,9,4500,15,34425.0,30451.82,3973.18,UPI,Cancelled,Kelly and Sons,christopher36@jackson.org,15,No,0
+ord1477,2025-04-18,2025-04-19,Cust619,prod7035,Study Table,Furniture,East,Delaware,South Maxwell,5,4010,5,19047.5,14114.82,4932.68,NB,Delivered,"Smith, Martinez and Durham",erussell@allen.info,48,No,0
+ord1478,2025-06-07,2025-06-13,Cust105,prod6707,Notebook,Office supplies,North,Alaska,Martinshire,5,3900,10,17550.0,12527.51,5022.49,NB,Pending,Spencer-Delgado,macdonaldmatthew@orozco.com,47,No,0
+ord1479,2025-02-06,2025-02-09,Cust507,prod3530,Cooking oil,Grocery,East,Minnesota,New Matthew,10,1005,10,9045.0,5761.37,3283.63,NB,Returned,Wood LLC,georgeobrien@smith-nguyen.com,33,No,0
+ord1480,2025-10-02,2025-10-08,Cust111,prod9292,Sugar,Grocery,West,Maryland,West William,4,3167,0,12668.0,10974.17,1693.83,UPI,Pending,Wood-Cooper,ulopez@williams.com,15,No,0
+ord1481,2025-05-15,2025-05-19,Cust911,prod7641,Bookshelf,Furniture,West,Pennsylvania,Juliabury,2,4970,0,9940.0,8561.71,1378.29,Cash,Pending,"Smith, Cook and Mitchell",mitchellbrandon@green.com,1,Yes,38
+ord1482,2025-11-26,2025-12-03,Cust370,prod7351,Mouse,Electronics,South,Louisiana,West Heatherport,2,2477,5,4706.3,3102.54,1603.76,CC,Delivered,"Miller, Davis and Howell",tiffany30@hurley.com,37,No,0
+ord1483,2025-08-16,2025-08-21,Cust697,prod2010,Bookshelf,Furniture,West,Missouri,Seanfurt,8,3151,20,20166.4,16491.95,3674.45,CC,Pending,Ortiz Ltd,znielsen@dorsey.com,25,No,0
+ord1484,2025-11-21,2025-11-22,Cust963,prod5865,Monitor,Electronics,East,Wisconsin,Lake Lauren,1,3553,5,3375.35,2574.1,801.25,CC,Returned,Brown Ltd,julie25@todd.com,17,No,0
+ord1485,2025-05-04,2025-05-07,Cust937,prod5747,Sofa,Furniture,West,Nevada,New Colleen,9,287,20,2066.4,1585.58,480.82,NB,Delivered,Vasquez-Holder,wfrench@thomas.com,4,Yes,23
+ord1486,2025-03-25,2025-04-01,Cust114,prod3134,Headphones,Electronics,East,South Carolina,South Kelseyshire,4,1776,10,6393.6,5610.09,783.51,CC,Delivered,Allen-Colon,jessicamurray@holland.com,14,No,0
+ord1487,2025-11-08,2025-11-09,Cust350,prod1176,Monitor,Electronics,North,Idaho,Keithport,9,4630,5,39586.5,34214.78,5371.72,Cash,Returned,Little and Sons,valenciajustin@wright.com,12,No,0
+ord1488,2025-10-22,2025-10-29,Cust689,prod5331,Keyboard,Electronics,South,North Dakota,Katherinemouth,2,751,20,1201.6,888.56,313.04,Cash,Delivered,"King, Lawson and Smith",rogerfoster@lin.org,50,No,0
+ord1489,2024-12-15,2024-12-20,Cust164,prod8371,Monitor,Electronics,West,New York,Micheleview,1,3804,15,3233.4,1962.51,1270.89,Cash,Pending,Salas and Sons,debraodonnell@mcdonald-khan.com,14,No,0
+ord1490,2025-06-21,2025-06-22,Cust422,prod4495,Monitor,Electronics,West,South Dakota,Goldenborough,6,3692,0,22152.0,14203.76,7948.24,NB,Pending,"King, Randolph and Perez",rturner@beard.com,46,No,0
+ord1491,2025-07-07,2025-07-09,Cust587,prod9540,Laptop,Electronics,North,Maine,Port Michaelview,9,3963,20,28533.6,22670.22,5863.38,NB,Returned,"Grant, Adams and Peterson",hahntodd@garcia.net,11,No,0
+ord1492,2025-01-23,2025-01-30,Cust812,prod8391,Sofa,Furniture,North,Virginia,Kelseyberg,5,2532,20,10128.0,8267.5,1860.5,CC,Delivered,Gutierrez-Carter,xtucker@collins.com,21,No,0
+ord1493,2025-04-21,2025-04-24,Cust564,prod2114,File folder,Office supplies,West,Pennsylvania,East Adamtown,3,4464,15,11383.2,9320.54,2062.66,NB,Cancelled,Rasmussen-Gibson,lewistyler@munoz.com,26,No,0
+ord1494,2025-03-11,2025-03-12,Cust814,prod1971,Office chair,Furniture,East,Ohio,Diazhaven,10,2590,0,25900.0,19149.62,6750.38,Cash,Cancelled,Nguyen LLC,groberts@marshall-choi.net,44,No,0
+ord1495,2025-11-23,2025-11-25,Cust206,prod7801,Headphones,Electronics,North,Tennessee,Matthewsview,6,2350,15,11985.0,7814.14,4170.86,CC,Returned,Wright-Hardy,morganlisa@smith.org,15,No,0
+ord1496,2025-12-01,2025-12-02,Cust799,prod5314,Keyboard,Electronics,North,Kansas,South Kristinatown,9,1976,15,15116.4,11382.33,3734.07,NB,Cancelled,Rivera-Osborne,wallallen@wilson.com,3,Yes,47
+ord1497,2025-02-03,2025-02-09,Cust505,prod5602,Headphones,Electronics,South,Georgia,Chloemouth,3,565,15,1440.75,1124.16,316.59,UPI,Cancelled,"David, Navarro and Jackson",mark82@lewis-becker.com,10,No,0
+ord1498,2025-03-02,2025-03-03,Cust977,prod4769,Mouse,Electronics,East,Nevada,Millerton,10,2734,10,24606.0,20204.66,4401.34,NB,Cancelled,Pruitt Inc,zgonzalez@ferguson.com,8,Yes,40
+ord1499,2025-08-11,2025-08-18,Cust491,prod6302,Sofa,Furniture,West,Connecticut,Janehaven,9,2060,5,17613.0,13078.69,4534.31,NB,Delivered,Jones Inc,martincameron@wells.com,24,No,0
+ord1500,2025-09-10,2025-09-17,Cust240,prod2498,Biscuits,Grocery,West,Washington,Mirandahaven,6,895,0,5370.0,3814.56,1555.44,CC,Delivered,Bowen Group,rcook@flynn-johnson.biz,33,No,0
+ord1501,2025-10-27,2025-10-30,Cust312,prod6242,Wheat,Grocery,North,Illinois,West Elizabethberg,5,2609,20,10436.0,8481.24,1954.76,Cash,Delivered,"Wise, Peterson and Murphy",millereric@smith.info,14,No,0
+ord1502,2025-10-08,2025-10-15,Cust527,prod9398,Biscuits,Grocery,North,Kentucky,North Zacharytown,1,2251,15,1913.35,1566.14,347.21,CC,Cancelled,"Weber, Chang and Hernandez",kennedyeric@mason.com,34,No,0
+ord1503,2025-06-08,2025-06-10,Cust841,prod8035,Sugar,Grocery,East,Tennessee,Anthonystad,3,2645,10,7141.5,5125.25,2016.25,NB,Pending,"Griffith, Wilson and Yu",thomasbarbara@mitchell-gregory.com,9,Yes,49
+ord1504,2025-03-23,2025-03-24,Cust414,prod9946,Cooking oil,Grocery,North,Massachusetts,Jasonburgh,8,2828,0,22624.0,14575.87,8048.13,CC,Delivered,"Best, Parker and Choi",bennettdiana@white.org,7,Yes,27
+ord1505,2025-01-19,2025-01-24,Cust395,prod4412,Office chair,Furniture,West,Delaware,South Linda,5,2410,15,10242.5,8274.27,1968.23,Cash,Returned,Fernandez and Sons,vprice@stevenson-edwards.com,17,No,0
+ord1506,2025-01-06,2025-01-07,Cust669,prod1588,Mouse,Electronics,North,Colorado,Kennethchester,4,2464,20,7884.8,6789.27,1095.53,Cash,Pending,Daniel LLC,leah00@craig.biz,12,No,0
+ord1507,2025-02-05,2025-02-09,Cust796,prod8775,File folder,Office supplies,South,Mississippi,Port Debra,7,771,10,4857.3,3257.1,1600.2,CC,Cancelled,"Hubbard, Peters and Gordon",bprice@foster-woods.biz,27,No,0
+ord1508,2025-01-03,2025-01-10,Cust711,prod8806,Cooking oil,Grocery,North,Massachusetts,Williamshaven,4,4975,10,17910.0,13344.96,4565.04,NB,Cancelled,"Lucas, Hubbard and Fisher",blaketucker@moore-robertson.com,50,No,0
+ord1509,2025-12-05,2025-12-12,Cust594,prod9495,Mouse,Electronics,West,Connecticut,West Ronald,5,4907,15,20854.75,18610.28,2244.47,UPI,Pending,"Hester, Boyle and Diaz",william81@lewis.info,11,No,0
+ord1510,2025-06-25,2025-07-01,Cust270,prod6616,Biscuits,Grocery,West,Alaska,Erikafort,6,1499,5,8544.3,6091.66,2452.64,CC,Returned,Mccormick-Long,millsjoseph@anderson-chapman.org,12,No,0
+ord1511,2025-07-20,2025-07-26,Cust454,prod6376,Rice bag,Grocery,South,New Hampshire,Carolinetown,9,3127,20,22514.4,19437.54,3076.86,Cash,Pending,"Mann, Bray and Brewer",terri08@carroll.com,24,No,0
+ord1512,2025-10-31,2025-11-02,Cust571,prod3794,Keyboard,Electronics,South,Pennsylvania,Lake Matthewfurt,2,2215,0,4430.0,2808.24,1621.76,CC,Cancelled,Levy-Oneill,eric65@carrillo.com,8,Yes,40
+ord1513,2025-05-03,2025-05-08,Cust776,prod4865,Laptop,Electronics,North,Alabama,Cardenasmouth,8,3752,10,27014.4,20424.78,6589.62,NB,Delivered,Hays-Singh,margaret00@dougherty.info,23,No,0
+ord1514,2025-01-12,2025-01-19,Cust410,prod5860,Laptop,Electronics,South,Oregon,Howardshire,1,3971,15,3375.35,2295.35,1080.0,UPI,Delivered,"Henderson, Duffy and Johnson",moorekayla@collins-horton.org,11,No,0
+ord1515,2025-06-13,2025-06-14,Cust318,prod2889,Rice bag,Grocery,East,New York,West Andrewside,1,4848,10,4363.2,2681.76,1681.44,CC,Delivered,"Palmer, Richardson and Best",robertholmes@zimmerman-mueller.com,41,No,0
+ord1516,2025-01-12,2025-01-14,Cust679,prod1039,Rice bag,Grocery,South,Connecticut,North Savannah,3,773,10,2087.1,1420.79,666.31,CC,Delivered,"Taylor, Mann and Foster",xmurphy@bell-pierce.com,9,Yes,22
+ord1517,2025-03-20,2025-03-25,Cust478,prod6150,Office chair,Furniture,West,Connecticut,Cindytown,9,2644,5,22606.2,20255.46,2350.74,UPI,Cancelled,"Wallace, Holloway and Rowe",susan59@vazquez.com,1,Yes,20
+ord1518,2025-04-16,2025-04-20,Cust917,prod3375,Sofa,Furniture,East,New Hampshire,Dixontown,1,3171,5,3012.45,1980.74,1031.71,UPI,Delivered,Thompson-Foster,hevans@white.biz,5,Yes,42
+ord1519,2025-11-08,2025-11-10,Cust792,prod9666,Keyboard,Electronics,East,Vermont,East Jamesside,4,867,10,3121.2,2217.3,903.9,Cash,Cancelled,Parker-Hines,charlessheryl@west.biz,9,Yes,26
+ord1520,2025-01-03,2025-01-05,Cust482,prod2103,Pen,Office supplies,North,Idaho,South Ashleyfurt,3,889,0,2667.0,2312.02,354.98,NB,Pending,"Yu, Vasquez and Thomas",qmiller@gay.org,40,No,0
+ord1521,2025-10-10,2025-10-17,Cust193,prod2672,Cooking oil,Grocery,North,Oregon,South Harrymouth,10,2717,0,27170.0,19796.64,7373.36,NB,Cancelled,"Jacobson, Franklin and Williams",ounderwood@ferguson.org,44,No,0
+ord1522,2025-04-11,2025-04-14,Cust320,prod2712,Biscuits,Grocery,North,Montana,Johnsonborough,4,318,20,1017.6,835.28,182.32,CC,Delivered,Lee-Banks,leealexa@garcia-jackson.info,38,No,0
+ord1523,2025-11-13,2025-11-18,Cust858,prod7693,Cooking oil,Grocery,South,Connecticut,West Christopherview,9,2366,15,18099.9,15135.71,2964.19,CC,Cancelled,Dunn-Moore,ftaylor@tran.com,48,No,0
+ord1524,2025-04-07,2025-04-14,Cust817,prod4064,Office chair,Furniture,East,Wisconsin,New Amber,4,102,15,346.8,232.69,114.11,UPI,Pending,Walker Inc,ezimmerman@gonzalez-kelley.com,37,No,0
+ord1525,2024-12-07,2024-12-13,Cust298,prod4990,Sofa,Furniture,East,New York,Lindashire,9,3699,15,28297.35,18331.69,9965.66,Cash,Delivered,"Joseph, Moore and Roberts",leroygutierrez@hunter.com,24,No,0
+ord1526,2025-10-13,2025-10-14,Cust275,prod3415,Laptop,Electronics,West,Mississippi,Sampsonfurt,8,1009,15,6861.2,4505.14,2356.06,UPI,Returned,Rich Ltd,melissa51@howell.com,21,No,0
+ord1527,2025-11-23,2025-11-24,Cust340,prod1767,Office chair,Furniture,South,Alaska,East Susanbury,4,4972,10,17899.2,15424.36,2474.84,UPI,Pending,"Garrett, Sheppard and Jackson",ureed@harris-smith.com,21,No,0
+ord1528,2025-06-07,2025-06-09,Cust853,prod9578,Stapler,Office supplies,South,Wyoming,Janebury,3,4638,5,13218.3,11736.7,1481.6,CC,Delivered,Scott-Stokes,amberrobertson@mcclure.com,28,No,0
+ord1529,2025-02-27,2025-03-04,Cust939,prod5814,Laptop,Electronics,East,Minnesota,Craigshire,2,920,15,1564.0,1070.63,493.37,UPI,Cancelled,Miles Ltd,romeroeric@gray-higgins.org,38,No,0
+ord1530,2025-06-11,2025-06-15,Cust792,prod6523,Cooking oil,Grocery,East,Wisconsin,Leonardport,5,2408,5,11438.0,9742.29,1695.71,NB,Cancelled,Mullins Group,steelemichael@downs.net,8,Yes,25
+ord1531,2025-08-22,2025-08-29,Cust472,prod2885,Office chair,Furniture,West,Connecticut,Stephaniemouth,4,3474,0,13896.0,8493.58,5402.42,Cash,Pending,Rivera-Rogers,bakerdiana@perez-cook.com,35,No,0
+ord1532,2024-12-12,2024-12-17,Cust740,prod7028,Office chair,Furniture,South,Arkansas,Loriview,2,1479,15,2514.3,2250.88,263.42,NB,Returned,Cortez-Wolfe,mcdonalddanny@hayden.com,11,No,0
+ord1533,2025-06-15,2025-06-22,Cust448,prod5445,Bed,Furniture,North,West Virginia,Port Paulton,5,2990,5,14202.5,9737.15,4465.35,UPI,Cancelled,Barton-Williams,benjaminhester@black.org,5,Yes,49
+ord1534,2025-05-18,2025-05-22,Cust203,prod7912,Monitor,Electronics,South,Illinois,New Natasha,8,2795,15,19006.0,14351.57,4654.43,CC,Returned,"Hart, Jenkins and Potts",johnsonmichael@brown.biz,18,No,0
+ord1535,2025-10-09,2025-10-13,Cust693,prod2615,Bed,Furniture,North,South Dakota,Jaredberg,8,4733,0,37864.0,26035.15,11828.85,CC,Cancelled,Fernandez Ltd,andrew78@contreras.com,29,No,0
+ord1536,2024-12-08,2024-12-15,Cust677,prod6688,Sugar,Grocery,North,Virginia,Whitneyville,9,2218,15,16967.7,14198.64,2769.06,CC,Returned,Blevins-Bell,xvazquez@russell.com,2,Yes,47
+ord1537,2025-05-30,2025-06-03,Cust836,prod3396,Laptop,Electronics,East,Colorado,Lake Jeffreyport,1,581,20,464.8,325.29,139.51,CC,Delivered,York LLC,traceymcbride@oliver-galvan.com,28,No,0
+ord1538,2025-10-16,2025-10-20,Cust272,prod8457,File folder,Office supplies,North,Georgia,North Katherinefort,9,4844,15,37056.6,25004.92,12051.68,Cash,Cancelled,Travis PLC,hlucas@pearson-rodriguez.com,47,No,0
+ord1539,2024-12-31,2025-01-01,Cust894,prod4787,Keyboard,Electronics,East,Colorado,Lake Julie,10,1318,10,11862.0,9173.12,2688.88,CC,Delivered,Harris Group,lopezmichelle@long.com,17,No,0
+ord1540,2025-02-16,2025-02-19,Cust859,prod5648,Calculator,Office supplies,West,Arizona,Bethanychester,1,4799,20,3839.2,3171.54,667.66,NB,Pending,Thompson LLC,davidwilliams@reynolds.com,6,Yes,41
+ord1541,2025-05-05,2025-05-08,Cust423,prod6196,Laptop,Electronics,North,South Carolina,Lake Nicholas,9,1638,15,12530.7,7727.09,4803.61,UPI,Cancelled,"Edwards, Nichols and Villarreal",njones@lewis.com,15,No,0
+ord1542,2025-10-10,2025-10-17,Cust740,prod7154,Laptop,Electronics,South,Mississippi,Newtonview,2,4301,0,8602.0,5897.65,2704.35,CC,Cancelled,"Hood, Robertson and Rivers",cynthia45@garcia.com,15,No,0
+ord1543,2025-03-24,2025-03-28,Cust686,prod6893,Notebook,Office supplies,North,Louisiana,Garrettbury,6,2878,10,15541.2,12940.46,2600.74,CC,Returned,Sanchez and Sons,williamsjason@johnson-pace.biz,45,No,0
+ord1544,2025-07-24,2025-07-31,Cust817,prod9219,Calculator,Office supplies,West,Florida,South Nancy,9,2813,20,20253.6,15717.54,4536.06,Cash,Returned,Peters-Goodman,amandaarmstrong@tyler.info,29,No,0
+ord1545,2025-06-15,2025-06-20,Cust863,prod3140,Mouse,Electronics,West,North Dakota,Lake Victorview,10,1298,5,12331.0,7498.98,4832.02,Cash,Cancelled,"House, Young and Mills",fyang@obrien-gregory.com,0,Yes,34
+ord1546,2025-09-11,2025-09-16,Cust268,prod1509,Sugar,Grocery,North,Georgia,South Linda,2,3647,20,5835.2,3947.36,1887.84,Cash,Cancelled,"Lopez, Harrison and Mckee",georgelauren@ortiz.org,43,No,0
+ord1547,2025-09-20,2025-09-27,Cust946,prod8945,Wheat,Grocery,South,Louisiana,West David,9,278,20,2001.6,1439.91,561.69,Cash,Delivered,Copeland Ltd,mackenziewalker@mcdaniel.net,0,Yes,32
+ord1548,2025-03-23,2025-03-30,Cust918,prod8112,Study Table,Furniture,North,New Hampshire,Matthewport,7,1807,0,12649.0,10226.82,2422.18,UPI,Delivered,"Mckinney, Glover and Santiago",ryan02@anderson-duncan.info,25,No,0
+ord1549,2025-01-23,2025-01-27,Cust731,prod5603,Cooking oil,Grocery,North,Georgia,Millermouth,8,1710,10,12312.0,8252.43,4059.57,UPI,Pending,Sweeney-Rowland,ambercarter@franklin.com,23,No,0
+ord1550,2025-03-29,2025-04-03,Cust661,prod9601,Rice bag,Grocery,South,Missouri,East Nancytown,6,2127,5,12123.9,9932.98,2190.92,Cash,Returned,Murphy LLC,roachdouglas@james-pope.com,47,No,0
+ord1551,2025-01-25,2025-01-29,Cust649,prod6473,Sofa,Furniture,North,Illinois,Kyleburgh,7,3800,5,25270.0,20761.08,4508.92,UPI,Cancelled,Martin Inc,michael30@sandoval.org,40,No,0
+ord1552,2025-08-08,2025-08-10,Cust574,prod8244,Rice bag,Grocery,South,Tennessee,Joshuastad,10,3975,0,39750.0,33320.1,6429.9,UPI,Cancelled,Sanders-Pierce,tmorrison@alvarez-cook.net,3,Yes,31
+ord1553,2025-10-15,2025-10-19,Cust990,prod7539,Bookshelf,Furniture,North,Illinois,West Paul,1,4734,5,4497.3,3454.82,1042.48,NB,Pending,"Lucas, Moss and Jackson",mirandamcdowell@thomas.com,47,No,0
+ord1554,2025-01-02,2025-01-09,Cust521,prod8130,Monitor,Electronics,South,Nebraska,East Kyle,7,2787,10,17558.1,15179.18,2378.92,Cash,Delivered,"Mason, Rice and Wheeler",stacey42@johnson-patterson.biz,21,No,0
+ord1555,2025-12-02,2025-12-05,Cust190,prod7495,Headphones,Electronics,East,Montana,Port John,10,4176,15,35496.0,28973.3,6522.7,CC,Cancelled,Sweeney-Campbell,xwilliams@campbell.com,7,Yes,34
+ord1556,2025-08-18,2025-08-20,Cust570,prod1728,Calculator,Office supplies,North,Delaware,Michaelmouth,8,998,10,7185.6,4588.49,2597.11,UPI,Delivered,Hardy-Chavez,lee85@martin.org,24,No,0
+ord1557,2025-04-29,2025-05-01,Cust300,prod5669,Calculator,Office supplies,West,South Dakota,Lopezport,5,1447,10,6511.5,5609.7,901.8,CC,Cancelled,Gordon-Ramirez,alexis54@davidson-norris.com,49,No,0
+ord1558,2025-09-20,2025-09-27,Cust969,prod9929,Calculator,Office supplies,North,Kentucky,Wesleymouth,7,1937,20,10847.2,7529.02,3318.18,Cash,Cancelled,"Castillo, Dean and Mccormick",laurabaird@davis.com,18,No,0
+ord1559,2024-12-30,2025-01-03,Cust382,prod8358,Wheat,Grocery,West,Idaho,Lake Christian,6,4577,0,27462.0,23347.89,4114.11,UPI,Returned,Mercado Group,ashley70@gonzales-norton.org,7,Yes,50
+ord1560,2025-08-05,2025-08-09,Cust498,prod8830,Sugar,Grocery,North,Nebraska,New Christopherland,1,3792,15,3223.2,2131.19,1092.01,UPI,Pending,Bauer PLC,crystal13@byrd-ochoa.com,34,No,0
+ord1561,2025-07-08,2025-07-14,Cust159,prod1536,Headphones,Electronics,North,New Hampshire,Cummingsshire,6,2895,20,13896.0,8715.84,5180.16,NB,Delivered,"Brown, Maxwell and Higgins",chaseaaron@miller.com,28,No,0
+ord1562,2025-02-11,2025-02-15,Cust218,prod8577,Sofa,Furniture,West,Maine,Murrayhaven,3,423,20,1015.2,853.99,161.21,Cash,Pending,"Watson, Hahn and Mendez",robert09@moore.org,0,Yes,25
+ord1563,2025-05-08,2025-05-11,Cust714,prod7057,Notebook,Office supplies,North,Oklahoma,Waltersbury,3,3764,15,9598.2,8192.18,1406.02,UPI,Returned,Salinas-Smith,annashaw@simmons.com,37,No,0
+ord1564,2025-10-30,2025-11-02,Cust651,prod3079,Pen,Office supplies,South,Minnesota,Lake Jeremy,6,4724,15,24092.4,19663.05,4429.35,Cash,Pending,"May, Pennington and Schmitt",coxalex@jimenez.info,45,No,0
+ord1565,2025-06-26,2025-07-02,Cust313,prod7943,Sofa,Furniture,East,Rhode Island,North Jessicatown,10,4053,0,40530.0,34731.13,5798.87,CC,Delivered,Scott-Rodriguez,westbryce@warren.com,22,No,0
+ord1566,2025-03-03,2025-03-10,Cust218,prod6042,Notebook,Office supplies,West,Arkansas,Stephanieton,6,3858,0,23148.0,14124.37,9023.63,UPI,Delivered,"Jackson, Rush and Gross",pattersondonna@harris.net,45,No,0
+ord1567,2024-12-09,2024-12-12,Cust939,prod5935,Bed,Furniture,South,Louisiana,South Joshua,7,2117,0,14819.0,11600.78,3218.22,UPI,Returned,Scott PLC,michael03@stokes.com,30,No,0
+ord1568,2025-09-17,2025-09-21,Cust765,prod9502,Keyboard,Electronics,East,Minnesota,Stephaniechester,7,3765,5,25037.25,16253.63,8783.62,NB,Delivered,Baker-Mathis,amandamcknight@carter.com,35,No,0
+ord1569,2025-07-27,2025-08-02,Cust346,prod2864,Laptop,Electronics,West,Tennessee,North Wayne,6,615,20,2952.0,1836.77,1115.23,NB,Pending,Waters-Snyder,kathryn78@huerta.com,18,No,0
+ord1570,2024-12-15,2024-12-22,Cust534,prod2008,Laptop,Electronics,East,Georgia,Beckershire,5,3658,20,14632.0,11684.07,2947.93,NB,Cancelled,"Myers, Patel and Hill",heatherpotter@rose-cline.biz,4,Yes,48
+ord1571,2025-04-10,2025-04-11,Cust210,prod8731,Monitor,Electronics,East,Arkansas,New Graceport,7,3242,10,20424.6,18238.27,2186.33,CC,Cancelled,Carter-Garcia,aharris@myers.net,42,No,0
+ord1572,2025-01-04,2025-01-11,Cust417,prod4350,File folder,Office supplies,West,Michigan,East Jamesland,3,1049,5,2989.65,2170.48,819.17,UPI,Cancelled,Larsen-Zavala,donaldharris@clark.biz,33,No,0
+ord1573,2025-01-09,2025-01-13,Cust545,prod9017,Keyboard,Electronics,West,Minnesota,Cookbury,8,298,15,2026.4,1645.24,381.16,UPI,Returned,"Fleming, Cervantes and Ramirez",haneydennis@clay-medina.net,30,No,0
+ord1574,2025-11-02,2025-11-04,Cust115,prod8398,Cooking oil,Grocery,South,Georgia,South Kristenchester,3,2741,10,7400.7,4498.04,2902.66,UPI,Delivered,"Nolan, Walton and Daniels",amanda31@gallagher.com,34,No,0
+ord1575,2025-01-27,2025-01-29,Cust862,prod3697,Bookshelf,Furniture,North,Montana,Baileyhaven,10,4101,20,32808.0,23609.12,9198.88,UPI,Delivered,Howell Ltd,jmcfarland@day.org,34,No,0
+ord1576,2025-07-16,2025-07-17,Cust305,prod9646,Biscuits,Grocery,East,Washington,Davisborough,10,2514,10,22626.0,20344.76,2281.24,NB,Returned,Soto PLC,robertsmatthew@nelson.com,17,No,0
+ord1577,2025-01-17,2025-01-20,Cust234,prod1768,Headphones,Electronics,West,Washington,Ryanmouth,2,863,10,1553.4,1260.1,293.3,CC,Cancelled,Conner PLC,xfisher@murphy-smith.com,0,Yes,30
+ord1578,2024-12-27,2024-12-29,Cust416,prod1237,Wheat,Grocery,East,Maryland,North Josephborough,7,4483,5,29811.95,18914.31,10897.64,Cash,Delivered,"Mcconnell, Turner and Richards",megan77@stevens.org,46,No,0
+ord1579,2025-01-25,2025-01-28,Cust658,prod8374,Study Table,Furniture,West,South Dakota,North Sabrinamouth,4,3751,5,14253.8,9625.73,4628.07,Cash,Pending,Bond Inc,melissa73@gross-todd.com,35,No,0
+ord1580,2025-06-04,2025-06-10,Cust643,prod2885,Bookshelf,Furniture,West,Alaska,Clarkfort,4,2805,0,11220.0,8408.43,2811.57,Cash,Returned,Washington LLC,timothy90@jensen.biz,22,No,0
+ord1581,2025-04-18,2025-04-19,Cust990,prod5423,Pen,Office supplies,South,New York,Nancyberg,5,3355,15,14258.75,12665.65,1593.1,UPI,Returned,"Ochoa, Marshall and Grimes",ernestmoody@barnes.net,3,Yes,47
+ord1582,2025-10-26,2025-10-27,Cust809,prod1704,File folder,Office supplies,East,Georgia,West Sheilatown,1,1274,15,1082.9,967.82,115.08,NB,Returned,"Mccullough, Whitehead and Bartlett",vaughancraig@mckenzie-barrett.com,48,No,0
+ord1583,2025-01-31,2025-02-05,Cust218,prod2935,Office chair,Furniture,East,New Hampshire,North Kelly,6,451,15,2300.1,1560.81,739.29,CC,Returned,Gonzalez-Collins,david75@bush.net,13,No,0
+ord1584,2025-05-08,2025-05-12,Cust201,prod4553,Laptop,Electronics,South,Rhode Island,East Jennifermouth,4,3913,0,15652.0,9529.57,6122.43,UPI,Delivered,Peters-Kline,gmartin@carson.com,10,No,0
+ord1585,2025-05-14,2025-05-15,Cust262,prod5128,Pen,Office supplies,South,North Carolina,Jorgebury,5,4891,10,22009.5,19321.91,2687.59,CC,Cancelled,Hayes-Newton,stephen30@carr.com,35,No,0
+ord1586,2025-04-22,2025-04-28,Cust405,prod2584,Notebook,Office supplies,East,Oklahoma,Allenmouth,10,1607,10,14463.0,10194.8,4268.2,Cash,Pending,Gross-Nguyen,veronicasmith@flores.com,28,No,0
+ord1587,2025-07-27,2025-07-28,Cust462,prod7883,Mouse,Electronics,North,New Jersey,New Joyton,7,3583,0,25081.0,16678.32,8402.68,CC,Delivered,Vincent Inc,littletaylor@green.net,14,No,0
+ord1588,2025-10-09,2025-10-16,Cust541,prod5866,Laptop,Electronics,South,Wisconsin,Lake Monica,3,4584,5,13064.4,10633.58,2430.82,NB,Returned,"White, Jenkins and Smith",tinarodriguez@alexander.com,41,No,0
+ord1589,2025-08-18,2025-08-19,Cust585,prod5139,Headphones,Electronics,East,Connecticut,North Amandafort,10,2977,20,23816.0,16938.02,6877.98,UPI,Delivered,Collins-Garcia,gailturner@dixon.com,34,No,0
+ord1590,2024-12-21,2024-12-27,Cust849,prod1822,Office chair,Furniture,South,Louisiana,Chanfurt,7,1607,20,8999.2,5868.15,3131.05,Cash,Delivered,Fox LLC,michael52@thomas-walker.com,49,No,0
+ord1591,2025-04-01,2025-04-04,Cust368,prod9740,Cooking oil,Grocery,East,Rhode Island,Lindseyfort,4,1505,10,5418.0,3591.98,1826.02,UPI,Delivered,"Wilson, Smith and Johnson",johndavis@estrada.com,33,No,0
+ord1592,2025-11-04,2025-11-10,Cust410,prod5681,Sugar,Grocery,North,Florida,Port Noahton,1,4055,15,3446.75,2371.05,1075.7,UPI,Cancelled,Bean-Anderson,triciawalker@fitzpatrick.com,2,Yes,34
+ord1593,2025-08-11,2025-08-14,Cust936,prod6141,Study Table,Furniture,North,Tennessee,Whiteburgh,2,3736,0,7472.0,6056.65,1415.35,NB,Pending,Smith LLC,xjoyce@holland.com,19,No,0
+ord1594,2025-04-27,2025-05-02,Cust935,prod6184,Stapler,Office supplies,South,Utah,Tonyastad,10,1835,10,16515.0,12580.21,3934.79,NB,Delivered,Ryan-Smith,annagarcia@maynard-ramirez.com,11,No,0
+ord1595,2025-03-20,2025-03-24,Cust453,prod3863,Biscuits,Grocery,North,Indiana,Lake Linda,9,104,0,936.0,639.26,296.74,CC,Returned,Roberts-Hebert,graveskimberly@stevens.info,5,Yes,22
+ord1596,2025-06-29,2025-07-01,Cust900,prod7335,Mouse,Electronics,North,Hawaii,Davidside,7,3569,20,19986.4,13027.34,6959.06,Cash,Delivered,"Stuart, Li and Boyd",mcculloughmelanie@alexander.net,46,No,0
+ord1597,2025-01-05,2025-01-06,Cust190,prod4703,Rice bag,Grocery,West,Ohio,South Michael,5,2812,5,13357.0,11826.87,1530.13,CC,Delivered,Kirk LLC,jason29@brown.com,0,Yes,24
+ord1598,2025-05-14,2025-05-19,Cust675,prod4896,File folder,Office supplies,North,Louisiana,South Elizabeth,2,3210,5,6099.0,4362.16,1736.84,CC,Pending,"Reed, Lyons and Potter",vclark@holmes.com,18,No,0
+ord1599,2025-06-23,2025-06-25,Cust931,prod1527,Laptop,Electronics,South,New Hampshire,Rachelport,8,2990,20,19136.0,15455.75,3680.25,UPI,Delivered,"Brady, Brown and Bennett",kellywilliams@cox-lopez.com,14,No,0
+ord1600,2025-07-19,2025-07-20,Cust922,prod2186,Keyboard,Electronics,East,Rhode Island,Annetteburgh,4,4333,5,16465.4,14672.67,1792.73,Cash,Delivered,Rivera-Mills,belldaniel@fleming.info,37,No,0
+ord1601,2025-02-11,2025-02-13,Cust357,prod2987,File folder,Office supplies,East,Missouri,New Stephanie,4,1748,0,6992.0,4338.12,2653.88,NB,Cancelled,Jackson Inc,robinsonkeith@perkins.net,35,No,0
+ord1602,2025-10-24,2025-10-28,Cust476,prod8391,Wheat,Grocery,South,Illinois,Weisston,10,4944,15,42024.0,29321.08,12702.92,NB,Returned,Richards Inc,brittany42@goodwin.com,47,No,0
+ord1603,2025-05-16,2025-05-23,Cust122,prod4135,Bed,Furniture,East,Pennsylvania,East Kelly,10,3612,20,28896.0,24496.53,4399.47,CC,Cancelled,"Miller, Flores and Hamilton",doyledavid@rangel-carr.com,23,No,0
+ord1604,2025-07-05,2025-07-11,Cust140,prod7018,Wheat,Grocery,South,Hawaii,Johnnytown,4,882,5,3351.6,2371.12,980.48,Cash,Delivered,"Garcia, Beck and Wright",leejessica@adams-mccoy.com,44,No,0
+ord1605,2025-05-31,2025-06-03,Cust541,prod1397,Rice bag,Grocery,East,Kansas,West Jeffrey,10,300,0,3000.0,2089.82,910.18,NB,Pending,"Green, Smith and Carter",jeanne20@peck.com,22,No,0
+ord1606,2025-10-02,2025-10-05,Cust158,prod1138,Notebook,Office supplies,South,Connecticut,Caitlinbury,2,3909,15,6645.3,4447.75,2197.55,UPI,Cancelled,Lee LLC,benjamin58@johnson-lawrence.com,6,Yes,25
+ord1607,2025-05-15,2025-05-21,Cust797,prod6273,Pen,Office supplies,North,Texas,Lake Courtneyton,6,1021,0,6126.0,3879.86,2246.14,CC,Pending,"Joseph, Jones and Carroll",wallacebrian@miller-ford.info,43,No,0
+ord1608,2025-06-08,2025-06-13,Cust643,prod2627,Wheat,Grocery,South,Iowa,Thompsonchester,7,3618,10,22793.4,16419.52,6373.88,NB,Delivered,Logan-Russell,villanuevamary@francis.com,19,No,0
+ord1609,2025-05-12,2025-05-19,Cust999,prod7121,Biscuits,Grocery,North,Delaware,Morganbury,4,2853,10,10270.8,8436.19,1834.61,CC,Pending,Carrillo LLC,julianwilkins@chavez-chase.com,8,Yes,39
+ord1610,2025-11-15,2025-11-19,Cust658,prod7157,Sofa,Furniture,West,California,New Cameron,7,3839,20,21498.4,15363.46,6134.94,NB,Returned,King-Mcmillan,richardsonthomas@coleman-jensen.com,17,No,0
+ord1611,2025-10-23,2025-10-29,Cust860,prod7504,Calculator,Office supplies,East,Louisiana,Lisaview,8,3944,5,29974.4,24053.8,5920.6,UPI,Returned,"Williams, Osborne and Johnson",jeanettecantu@williams.net,6,Yes,49
+ord1612,2025-01-13,2025-01-19,Cust690,prod6237,Stapler,Office supplies,South,New York,Brianborough,4,4388,20,14041.6,9349.18,4692.42,UPI,Returned,Fuller and Sons,hburke@rojas.com,12,No,0
+ord1613,2025-03-08,2025-03-12,Cust361,prod7565,Mouse,Electronics,North,Georgia,East Paula,6,745,15,3799.5,2374.81,1424.69,Cash,Pending,"Mejia, Lewis and Foster",hermancathy@crawford.com,44,No,0
+ord1614,2025-10-21,2025-10-25,Cust868,prod9184,Keyboard,Electronics,East,Indiana,Port Matthewview,1,3792,5,3602.4,2419.01,1183.39,NB,Returned,"Henry, Lopez and Smith",shafferbenjamin@green.net,26,No,0
+ord1615,2025-07-05,2025-07-12,Cust849,prod7435,Biscuits,Grocery,West,Connecticut,Curtistown,4,3884,20,12428.8,9595.8,2833.0,Cash,Delivered,"Hart, Bray and Howard",tbarnes@richardson.info,35,No,0
+ord1616,2025-01-02,2025-01-09,Cust220,prod1699,Pen,Office supplies,North,Delaware,Port Robertfort,10,1799,5,17090.5,12672.63,4417.87,NB,Cancelled,"Hunter, Cunningham and Lopez",waynemolina@hoffman.info,15,No,0
+ord1617,2025-03-16,2025-03-20,Cust921,prod2477,Pen,Office supplies,South,Massachusetts,South Rhonda,2,1814,5,3446.6,2607.68,838.92,Cash,Delivered,Sutton and Sons,duncandarrell@ramirez.com,8,Yes,28
+ord1618,2025-06-14,2025-06-20,Cust572,prod1945,Notebook,Office supplies,South,New Jersey,Knightburgh,3,3622,20,8692.8,6258.05,2434.75,CC,Cancelled,"Burgess, Jackson and Parks",ble@wood.com,15,No,0
+ord1619,2025-11-08,2025-11-13,Cust525,prod8723,Notebook,Office supplies,West,Maine,Marshallhaven,2,1007,15,1711.9,1396.42,315.48,NB,Cancelled,Doyle-Schmidt,daughertyspencer@romero.com,3,Yes,22
+ord1620,2025-09-22,2025-09-28,Cust930,prod4893,Biscuits,Grocery,East,Arkansas,Davisburgh,2,1531,10,2755.8,1736.89,1018.91,CC,Delivered,"Gonzales, Mcdonald and Thomas",taracortez@romero.info,39,No,0
+ord1621,2024-12-23,2024-12-24,Cust785,prod8116,Rice bag,Grocery,North,Iowa,Jasonview,1,4802,20,3841.6,2527.91,1313.69,CC,Delivered,Roy PLC,rhondamartinez@thomas.com,5,Yes,35
+ord1622,2025-07-17,2025-07-18,Cust354,prod7511,Study Table,Furniture,East,Kentucky,Christopherfort,10,2149,0,21490.0,18148.12,3341.88,UPI,Pending,Livingston-Potts,mccoyjoshua@snyder.com,43,No,0
+ord1623,2025-09-05,2025-09-08,Cust338,prod1980,Calculator,Office supplies,South,Connecticut,Michaelview,8,1647,10,11858.4,8640.99,3217.41,UPI,Returned,Hernandez-Conner,ypatel@sherman.com,27,No,0
+ord1624,2025-09-07,2025-09-08,Cust929,prod8235,Rice bag,Grocery,East,California,Port Melinda,2,2836,20,4537.6,3327.77,1209.83,UPI,Returned,"Graham, Jordan and Lee",esmith@rodriguez.com,14,No,0
+ord1625,2025-01-24,2025-01-27,Cust642,prod3184,Headphones,Electronics,West,Kansas,Lake Aaronside,5,2138,15,9086.5,5824.61,3261.89,CC,Cancelled,"Riddle, Phillips and Wallace",samantha11@peterson.com,49,No,0
+ord1626,2025-03-31,2025-04-07,Cust860,prod2468,File folder,Office supplies,East,New Jersey,Millerburgh,4,1735,0,6940.0,5764.83,1175.17,CC,Returned,"Gutierrez, Kline and Powell",santanabrandon@humphrey-burnett.biz,35,No,0
+ord1627,2025-06-11,2025-06-17,Cust296,prod4317,Study Table,Furniture,West,Nebraska,Jenniferton,8,1314,10,9460.8,7114.69,2346.11,Cash,Pending,Booth-Jones,jaredgarcia@smith.com,3,Yes,25
+ord1628,2025-04-20,2025-04-26,Cust877,prod7779,Sofa,Furniture,South,Nevada,Adamsmouth,10,782,0,7820.0,6145.07,1674.93,NB,Pending,Porter Inc,pamela51@munoz-caldwell.com,27,No,0
+ord1629,2025-04-05,2025-04-10,Cust631,prod8050,Office chair,Furniture,East,Indiana,East Jeromestad,10,852,20,6816.0,5684.34,1131.66,Cash,Cancelled,"Hines, Walton and Simpson",williamsjacob@higgins.com,1,Yes,45
+ord1630,2025-03-08,2025-03-09,Cust135,prod5879,Rice bag,Grocery,North,Connecticut,Edwardhaven,8,1812,5,13771.2,9613.95,4157.25,CC,Delivered,Guzman Group,sanchezjohn@gilmore.com,15,No,0
+ord1631,2024-12-09,2024-12-10,Cust129,prod7409,Rice bag,Grocery,East,Michigan,Port Matthew,4,3715,20,11888.0,9262.82,2625.18,CC,Delivered,Mcbride-Clark,lisa14@bush-navarro.org,38,No,0
+ord1632,2025-04-07,2025-04-09,Cust306,prod9056,Biscuits,Grocery,North,Oklahoma,Elliottmouth,6,4167,15,21251.7,13893.42,7358.28,UPI,Delivered,Schmidt Group,xballard@mcdonald.info,38,No,0
+ord1633,2025-06-11,2025-06-18,Cust807,prod8608,Rice bag,Grocery,West,Michigan,Port Jimmyberg,5,3634,5,17261.5,13559.96,3701.54,NB,Delivered,"Anderson, Crawford and Chapman",burkebrandon@stephens.net,48,No,0
+ord1634,2025-03-28,2025-04-04,Cust670,prod9130,Mouse,Electronics,North,Colorado,New Candacemouth,9,4606,20,33163.2,22966.51,10196.69,NB,Returned,Miller-Garrett,reginapetersen@chapman.biz,6,Yes,26
+ord1635,2025-04-17,2025-04-22,Cust478,prod8008,Keyboard,Electronics,North,Washington,Ernestland,9,2864,10,23198.4,15129.65,8068.75,NB,Returned,"Kemp, Fischer and Marshall",patrick56@potter.org,50,No,0
+ord1636,2025-03-12,2025-03-15,Cust502,prod7339,Stapler,Office supplies,West,New York,Allenton,8,3447,15,23439.6,14927.86,8511.74,CC,Delivered,"Robinson, Sanchez and Edwards",brandon21@berry-lynch.com,30,No,0
+ord1637,2025-01-13,2025-01-14,Cust264,prod1575,Cooking oil,Grocery,West,Arizona,New Rodneybury,3,4178,15,10653.9,8122.31,2531.59,NB,Cancelled,Glenn-Smith,michaelbriggs@carter.org,29,No,0
+ord1638,2025-01-30,2025-02-04,Cust311,prod3278,Notebook,Office supplies,North,Mississippi,Shirleyton,3,4854,0,14562.0,12177.41,2384.59,CC,Pending,Patton-Miller,lisa75@baker.com,38,No,0
+ord1639,2025-04-18,2025-04-22,Cust728,prod7570,Wheat,Grocery,West,North Carolina,New Robertmouth,5,2269,20,9076.0,6255.05,2820.95,NB,Cancelled,"Collins, Smith and Jones",elizabeth72@adams-lindsey.com,46,No,0
+ord1640,2025-02-06,2025-02-07,Cust488,prod1134,Laptop,Electronics,East,Wisconsin,Sandovalstad,4,1381,15,4695.4,3438.26,1257.14,UPI,Cancelled,Dalton Group,james81@meyers-warren.biz,4,Yes,49
+ord1641,2025-06-14,2025-06-19,Cust286,prod3153,Mouse,Electronics,North,Oklahoma,Carterton,3,302,5,860.7,573.02,287.68,UPI,Cancelled,Garcia Ltd,marywest@campbell-smith.info,16,No,0
+ord1642,2025-01-21,2025-01-24,Cust160,prod9992,Study Table,Furniture,West,Louisiana,Vincentville,4,1193,5,4533.4,3865.91,667.49,CC,Returned,Davis and Sons,davidrodriguez@stone.com,22,No,0
+ord1643,2025-03-02,2025-03-06,Cust619,prod9157,Stapler,Office supplies,North,North Dakota,Garrettport,7,267,10,1682.1,1432.33,249.77,Cash,Cancelled,Gonzales LLC,gsnow@wilson-wilson.com,46,No,0
+ord1644,2025-08-22,2025-08-27,Cust210,prod3361,Monitor,Electronics,South,Arkansas,Guerreroburgh,4,3793,10,13654.8,11551.95,2102.85,NB,Delivered,"Johnson, Tucker and Lewis",brooksbrandon@williams-lopez.com,34,No,0
+ord1645,2025-07-15,2025-07-20,Cust685,prod2499,File folder,Office supplies,South,Maine,East Matthewland,4,4752,20,15206.4,13149.27,2057.13,Cash,Pending,"Flores, Munoz and Green",tgregory@garcia-sanders.com,25,No,0
+ord1646,2025-09-04,2025-09-09,Cust637,prod7813,Headphones,Electronics,North,North Dakota,Deannaport,10,3766,0,37660.0,25420.46,12239.54,NB,Cancelled,"Stanton, Chen and Hall",mccoylauren@pittman.biz,36,No,0
+ord1647,2025-03-11,2025-03-12,Cust556,prod2509,Calculator,Office supplies,South,Virginia,Diazton,5,3195,15,13578.75,8852.61,4726.14,CC,Returned,Wilson-Howard,gguerrero@rocha.com,28,No,0
+ord1648,2025-03-02,2025-03-07,Cust505,prod3579,Wheat,Grocery,North,Mississippi,Carolynberg,7,1397,15,8312.15,5927.64,2384.51,Cash,Returned,Chambers Inc,sanchezlori@cole.info,14,No,0
+ord1649,2025-06-01,2025-06-02,Cust672,prod7859,Bed,Furniture,East,Washington,West Mike,8,3218,20,20595.2,14225.23,6369.97,CC,Pending,"Stephens, Thomas and Gomez",angel84@lloyd.com,8,Yes,44
+ord1650,2025-01-15,2025-01-19,Cust228,prod1150,Sofa,Furniture,South,Oklahoma,New Erin,3,2891,10,7805.7,5770.6,2035.1,NB,Returned,Pham-Knox,margaret18@richardson.com,40,No,0
+ord1651,2025-01-29,2025-02-01,Cust138,prod2984,Cooking oil,Grocery,East,South Carolina,North Hannah,4,450,10,1620.0,1088.58,531.42,CC,Returned,"Garcia, Jacobs and Walls",kellymccoy@thompson-gillespie.com,6,Yes,50
+ord1652,2025-07-03,2025-07-05,Cust690,prod6026,Calculator,Office supplies,North,Wyoming,Chadstad,5,1810,5,8597.5,6645.67,1951.83,NB,Cancelled,Ruiz-Duran,brianclark@mann-griffin.com,23,No,0
+ord1653,2025-06-17,2025-06-19,Cust874,prod4145,Keyboard,Electronics,South,Texas,New Austinhaven,7,2787,0,19509.0,14979.21,4529.79,NB,Cancelled,"Bray, Sellers and Murray",andrewreid@lewis-hall.com,29,No,0
+ord1654,2024-12-05,2024-12-06,Cust797,prod8867,Wheat,Grocery,West,New Mexico,Marybury,5,3336,20,13344.0,9651.06,3692.94,UPI,Pending,"Flores, Wilson and Anderson",logan88@farrell.com,34,No,0
+ord1655,2025-08-06,2025-08-10,Cust479,prod3657,Bookshelf,Furniture,South,Washington,Hollowayland,9,3167,20,22802.4,20188.23,2614.17,CC,Cancelled,Phelps PLC,larry88@mckinney.com,11,No,0
+ord1656,2024-12-29,2025-01-02,Cust106,prod7667,Notebook,Office supplies,East,Minnesota,Kristinport,3,1987,20,4768.8,4251.16,517.64,UPI,Cancelled,Simon-Reed,barnesheather@mendez-gonzalez.com,32,No,0
+ord1657,2025-09-18,2025-09-21,Cust543,prod6505,Bookshelf,Furniture,West,Wisconsin,East Jennifer,6,3631,5,20696.7,17632.65,3064.05,UPI,Delivered,Moore LLC,davidtate@ochoa-williams.com,1,Yes,33
+ord1658,2025-10-30,2025-11-02,Cust803,prod8138,Sugar,Grocery,West,Washington,Bethberg,1,2508,0,2508.0,2075.5,432.5,UPI,Cancelled,Miller-Thompson,vmeza@decker.org,40,No,0
+ord1659,2024-12-10,2024-12-12,Cust392,prod4484,Rice bag,Grocery,North,West Virginia,Lake Dominique,9,4663,10,37770.3,33470.52,4299.78,CC,Pending,Hines PLC,dunntrevor@mcdonald.com,50,No,0
+ord1660,2025-06-14,2025-06-15,Cust447,prod2868,Study Table,Furniture,North,Kentucky,Lake Amy,6,634,5,3613.8,3139.77,474.03,UPI,Pending,Stone and Sons,ricardomartin@williams.com,14,No,0
+ord1661,2025-09-14,2025-09-19,Cust235,prod9038,Laptop,Electronics,North,Delaware,Sharonmouth,2,618,15,1050.6,885.74,164.86,UPI,Returned,Bowman-Butler,ponceangela@noble.com,30,No,0
+ord1662,2025-08-10,2025-08-11,Cust605,prod1394,Notebook,Office supplies,North,Connecticut,Reyesside,8,4913,5,37338.8,25985.07,11353.73,CC,Cancelled,"Dunn, Smith and Phillips",clarence40@edwards.com,37,No,0
+ord1663,2025-09-08,2025-09-11,Cust415,prod6291,Cooking oil,Grocery,North,Kentucky,Jacksonburgh,8,4458,20,28531.2,23678.27,4852.93,NB,Cancelled,"Holmes, Gomez and Nelson",michael65@delgado.org,21,No,0
+ord1664,2025-10-20,2025-10-21,Cust479,prod2404,Study Table,Furniture,North,Illinois,Owensport,8,1505,5,11438.0,9463.79,1974.21,UPI,Returned,"Woods, Morrison and Murphy",greenejill@porter.com,45,No,0
+ord1665,2025-02-10,2025-02-16,Cust466,prod3623,Stapler,Office supplies,West,Illinois,East Seanview,4,601,15,2043.4,1638.14,405.26,Cash,Cancelled,"Gonzalez, Mooney and Long",peterdavis@sanford-white.com,18,No,0
+ord1666,2025-08-26,2025-09-01,Cust795,prod8273,Sugar,Grocery,North,Indiana,North Brianchester,7,4503,20,25216.8,17138.3,8078.5,UPI,Cancelled,Beard PLC,thompsonallison@johnson.com,1,Yes,40
+ord1667,2025-07-23,2025-07-25,Cust704,prod6206,Sofa,Furniture,South,Colorado,Kellyburgh,2,4033,15,6856.1,4854.78,2001.32,CC,Returned,Campbell PLC,lindadavis@schaefer.com,21,No,0
+ord1668,2025-10-02,2025-10-04,Cust796,prod4155,Keyboard,Electronics,North,North Carolina,Port Adriana,2,4601,5,8741.9,6009.63,2732.27,CC,Cancelled,Gardner LLC,robertwilson@koch-atkins.com,16,No,0
+ord1669,2025-06-02,2025-06-08,Cust553,prod6721,Bed,Furniture,North,New Jersey,Lake Thomasberg,9,4183,0,37647.0,29307.13,8339.87,UPI,Cancelled,Mcdonald Group,noah37@brooks.biz,31,No,0
+ord1670,2025-10-19,2025-10-21,Cust648,prod3215,Study Table,Furniture,South,Alaska,Lake Noah,3,3188,15,8129.4,5888.85,2240.55,NB,Pending,"Orozco, Mcdaniel and Johnson",chase45@haney.com,0,Yes,26
+ord1671,2025-02-22,2025-02-25,Cust420,prod8668,Calculator,Office supplies,East,Utah,Jasmineville,8,1847,5,14037.2,10335.85,3701.35,CC,Pending,Torres Ltd,riveraelizabeth@benson.info,7,Yes,29
+ord1672,2025-02-12,2025-02-15,Cust854,prod4887,Calculator,Office supplies,South,West Virginia,Amandachester,9,1290,5,11029.5,9781.28,1248.22,Cash,Delivered,Hoffman Inc,holindsey@hall.biz,4,Yes,41
+ord1673,2025-09-10,2025-09-15,Cust553,prod3250,Biscuits,Grocery,North,Oregon,West Laurie,3,2335,5,6654.75,4037.76,2616.99,CC,Pending,Krueger Group,sara92@trevino.org,15,No,0
+ord1674,2025-02-01,2025-02-03,Cust372,prod3984,Study Table,Furniture,North,Connecticut,New Ryanberg,5,345,15,1466.25,1228.77,237.48,Cash,Delivered,Sellers-Lee,zachary44@dixon.com,3,Yes,42
+ord1675,2025-08-17,2025-08-23,Cust770,prod6046,Laptop,Electronics,North,New York,Michellemouth,10,2803,10,25227.0,18705.04,6521.96,Cash,Returned,Monroe-Parks,samanthastevens@hernandez.com,5,Yes,37
+ord1676,2025-10-08,2025-10-09,Cust992,prod2081,Sofa,Furniture,South,New Jersey,Hudsonmouth,2,3737,15,6352.9,4957.22,1395.68,Cash,Delivered,"Brewer, Kent and Beasley",hle@dorsey.org,34,No,0
+ord1677,2025-09-12,2025-09-13,Cust771,prod9390,Keyboard,Electronics,East,Nevada,Fernandezburgh,10,1567,20,12536.0,9571.33,2964.67,Cash,Pending,"Thomas, Robinson and Harris",nichole64@williamson.com,0,Yes,41
+ord1678,2025-01-09,2025-01-10,Cust578,prod8801,Stapler,Office supplies,East,Idaho,Port Joseph,1,994,20,795.2,488.97,306.23,UPI,Pending,Pruitt-Berger,deborah00@garcia-thomas.com,46,No,0
+ord1679,2025-02-21,2025-02-26,Cust907,prod1281,Stapler,Office supplies,South,North Carolina,Starkburgh,8,2389,15,16245.2,10326.93,5918.27,NB,Pending,Barker-Norris,thomas36@roberts-campos.com,32,No,0
+ord1680,2025-05-23,2025-05-29,Cust692,prod4535,Biscuits,Grocery,North,Wyoming,Lake Scotttown,8,863,0,6904.0,5374.47,1529.53,CC,Cancelled,Bennett Group,amy55@sims.com,26,No,0
+ord1681,2025-11-02,2025-11-03,Cust182,prod2121,Biscuits,Grocery,West,Oklahoma,Greenview,5,194,20,776.0,542.01,233.99,CC,Cancelled,Francis-Gonzalez,sarahtaylor@gonzalez.biz,31,No,0
+ord1682,2025-11-21,2025-11-26,Cust887,prod2196,Sugar,Grocery,West,Ohio,Davidburgh,8,2629,10,18928.8,15202.58,3726.22,Cash,Pending,"Murphy, Ochoa and Pope",jacoblopez@cooper-kent.com,25,No,0
+ord1683,2025-11-07,2025-11-11,Cust377,prod3939,Calculator,Office supplies,West,Michigan,Port Jamesmouth,4,2277,20,7286.4,4440.46,2845.94,Cash,Delivered,Nielsen-Flores,robinsonashley@guerrero.com,30,No,0
+ord1684,2025-09-13,2025-09-16,Cust425,prod4619,Sugar,Grocery,West,Wisconsin,South Kimberlyside,4,2958,20,9465.6,6358.98,3106.62,UPI,Pending,Houston Inc,jacksonangela@benitez.com,6,Yes,35
+ord1685,2025-07-16,2025-07-23,Cust956,prod8722,Keyboard,Electronics,West,Connecticut,East Kevinport,2,4302,20,6883.2,5451.8,1431.4,NB,Delivered,Benton LLC,carsonkaren@kerr-woods.biz,33,No,0
+ord1686,2025-05-25,2025-05-27,Cust516,prod1110,Laptop,Electronics,East,Pennsylvania,Port Johnburgh,4,1237,15,4205.8,3301.17,904.63,CC,Pending,Dean-Evans,james53@schwartz.com,16,No,0
+ord1687,2025-08-07,2025-08-08,Cust260,prod5606,Stapler,Office supplies,North,New York,Pattersonborough,2,2545,15,4326.5,3391.7,934.8,NB,Cancelled,Wade PLC,fbuchanan@day.com,25,No,0
+ord1688,2025-05-25,2025-05-30,Cust242,prod5753,Rice bag,Grocery,West,Missouri,Hernandezside,5,2133,20,8532.0,6866.36,1665.64,Cash,Pending,Rose-Smith,stacydeleon@rodriguez.biz,34,No,0
+ord1689,2025-04-22,2025-04-28,Cust833,prod9119,Rice bag,Grocery,East,Louisiana,South Eric,6,4461,10,24089.4,19486.85,4602.55,NB,Delivered,Peterson PLC,hboyd@hoffman.com,15,No,0
+ord1690,2025-11-25,2025-12-02,Cust107,prod9996,Sofa,Furniture,North,New Mexico,Amymouth,2,3211,20,5137.6,3378.48,1759.12,Cash,Returned,Reynolds-Brown,katherinebaker@lee.biz,42,No,0
+ord1691,2025-08-01,2025-08-07,Cust832,prod2534,Biscuits,Grocery,South,Illinois,Edwardsborough,2,656,15,1115.2,825.55,289.65,CC,Returned,"Acevedo, Lopez and Taylor",crystal32@swanson-matthews.com,23,No,0
+ord1692,2025-10-11,2025-10-15,Cust287,prod1653,Notebook,Office supplies,South,Texas,Port Fred,8,4171,5,31699.6,22970.11,8729.49,NB,Delivered,Stokes and Sons,travislove@preston-dalton.com,9,Yes,49
+ord1693,2025-07-22,2025-07-28,Cust211,prod9606,Office chair,Furniture,South,North Carolina,Coxton,5,3382,15,14373.5,10802.73,3570.77,UPI,Returned,Lopez PLC,chall@hudson.com,33,No,0
+ord1694,2025-11-15,2025-11-21,Cust294,prod8478,Bookshelf,Furniture,West,Arizona,Rasmussenside,4,1645,15,5593.0,4203.86,1389.14,Cash,Cancelled,"Steele, Clarke and Baker",wheelerlori@newman.com,45,No,0
+ord1695,2025-06-25,2025-07-01,Cust999,prod9035,Sofa,Furniture,West,Vermont,Michaelshire,10,503,20,4024.0,2913.9,1110.1,CC,Returned,Oneill-Parker,michael34@young.com,4,Yes,31
+ord1696,2025-08-12,2025-08-16,Cust548,prod4357,Laptop,Electronics,East,Hawaii,Johnbury,2,4617,10,8310.6,5842.92,2467.68,NB,Returned,Cooper Inc,debbie90@dudley.info,45,No,0
+ord1697,2025-01-14,2025-01-21,Cust350,prod6054,Mouse,Electronics,East,West Virginia,Simonside,3,182,20,436.8,276.83,159.97,UPI,Pending,Shelton LLC,rodriguezrichard@hill.com,30,No,0
+ord1698,2025-12-02,2025-12-08,Cust789,prod9880,Laptop,Electronics,West,Louisiana,Lake Jacobside,4,3121,10,11235.6,9032.3,2203.3,CC,Pending,Hughes Group,williamhansen@smith-morris.com,20,No,0
+ord1699,2025-06-01,2025-06-05,Cust233,prod7162,Bed,Furniture,South,Maine,Lake Jessica,1,2159,10,1943.1,1476.32,466.78,Cash,Delivered,"Smith, Carr and Davis",reginald00@morris.com,47,No,0
+ord1700,2024-12-23,2024-12-26,Cust921,prod7323,Sugar,Grocery,West,Utah,East Corey,5,818,5,3885.5,3246.37,639.13,Cash,Cancelled,"Weaver, Ruiz and Meza",rodney31@wells-adams.info,6,Yes,47
+ord1701,2025-07-15,2025-07-20,Cust453,prod6934,Sofa,Furniture,West,Maryland,East Ethanview,8,415,10,2988.0,2661.64,326.36,UPI,Returned,"Davis, Dunn and Miller",john35@townsend.org,2,Yes,20
+ord1702,2025-03-01,2025-03-03,Cust454,prod2365,Rice bag,Grocery,North,Montana,Alisonland,10,626,5,5947.0,4417.72,1529.28,CC,Cancelled,Krueger and Sons,qmiller@ramos-pacheco.com,44,No,0
+ord1703,2025-11-14,2025-11-16,Cust805,prod8400,Stapler,Office supplies,North,Montana,Flowersberg,2,1836,20,2937.6,2487.4,450.2,CC,Pending,"Morgan, Andersen and Petersen",gli@martin.org,36,No,0
+ord1704,2025-11-06,2025-11-07,Cust687,prod1900,Biscuits,Grocery,East,Montana,Heatherburgh,8,897,15,6099.6,5205.86,893.74,NB,Cancelled,Bryant LLC,tmoody@ellison-allen.net,40,No,0
+ord1705,2025-09-25,2025-10-01,Cust655,prod1456,Rice bag,Grocery,West,Hawaii,West Christian,8,1555,5,11818.0,7439.43,4378.57,Cash,Pending,Curry Group,james58@kim.com,11,No,0
+ord1706,2025-10-24,2025-10-29,Cust889,prod5753,Bed,Furniture,West,Illinois,Port Brianland,5,3192,10,14364.0,12754.06,1609.94,Cash,Delivered,Brown Group,hhudson@lynn.com,25,No,0
+ord1707,2025-06-05,2025-06-06,Cust938,prod7388,Rice bag,Grocery,West,California,Lake Sophiaville,2,3449,5,6553.1,5429.6,1123.5,CC,Cancelled,Bradley Group,annwilson@morse.org,5,Yes,35
+ord1708,2024-12-25,2024-12-29,Cust197,prod7746,Cooking oil,Grocery,North,Utah,South Adammouth,1,2300,0,2300.0,1639.71,660.29,UPI,Returned,Lee Inc,foxnicholas@campbell.info,5,Yes,32
+ord1709,2025-09-23,2025-09-30,Cust400,prod7054,Calculator,Office supplies,West,Pennsylvania,Davidland,4,3912,20,12518.4,8524.44,3993.96,UPI,Returned,"Spears, Smith and Smith",jadegarner@kim.com,37,No,0
+ord1710,2025-07-16,2025-07-22,Cust688,prod4439,Sugar,Grocery,South,Alaska,Hughesburgh,2,4905,15,8338.5,6550.32,1788.18,Cash,Pending,"Jensen, Green and Adams",lhoffman@salas.net,6,Yes,42
+ord1711,2025-03-07,2025-03-08,Cust996,prod3557,Calculator,Office supplies,North,Oregon,North Scottton,2,413,5,784.7,515.22,269.48,UPI,Cancelled,"Brown, Rodriguez and Savage",cwilson@bowman.com,16,No,0
+ord1712,2025-06-02,2025-06-04,Cust479,prod8778,Bed,Furniture,South,Alaska,Rosariochester,5,3982,0,19910.0,14772.56,5137.44,Cash,Returned,Santos-Davis,heather67@stone.net,36,No,0
+ord1713,2025-05-11,2025-05-13,Cust341,prod4538,Sofa,Furniture,South,Utah,East Kristinehaven,5,575,15,2443.75,1741.54,702.21,UPI,Returned,Williams-Marquez,hilleric@williams-caldwell.com,31,No,0
+ord1714,2025-02-03,2025-02-07,Cust640,prod6778,Calculator,Office supplies,South,Kentucky,Gabriellemouth,7,1248,0,8736.0,5312.38,3423.62,Cash,Cancelled,Perez Ltd,petersaustin@wright-miller.com,20,No,0
+ord1715,2025-07-18,2025-07-24,Cust386,prod6425,Study Table,Furniture,East,Hawaii,Johnmouth,7,804,5,5346.6,3697.47,1649.13,UPI,Pending,Gilbert Group,michael01@mills.net,44,No,0
+ord1716,2025-08-14,2025-08-15,Cust602,prod2055,Study Table,Furniture,South,Indiana,Port Diana,8,4721,20,30214.4,21278.14,8936.26,CC,Delivered,Rodriguez LLC,william71@velez.com,41,No,0
+ord1717,2025-07-26,2025-07-27,Cust356,prod5085,Sugar,Grocery,East,Indiana,Lake Donaldshire,1,4615,20,3692.0,2988.2,703.8,Cash,Pending,"Martin, Hicks and Hill",ahart@jones-scott.com,47,No,0
+ord1718,2025-04-05,2025-04-08,Cust772,prod4732,File folder,Office supplies,South,New Hampshire,Colemanside,5,1064,5,5054.0,3937.86,1116.14,CC,Delivered,Deleon Group,amy45@adams-mckinney.info,4,Yes,36
+ord1719,2025-11-22,2025-11-27,Cust321,prod7054,Monitor,Electronics,South,North Carolina,Higginsside,7,765,20,4284.0,3352.36,931.64,UPI,Cancelled,Bass-Reynolds,justin01@allen.com,13,No,0
+ord1720,2025-10-22,2025-10-26,Cust164,prod8006,Laptop,Electronics,North,Utah,Lake Karenfort,9,4205,5,35952.75,24705.47,11247.28,NB,Returned,Bauer LLC,cunninghamjames@parrish.com,12,No,0
+ord1721,2025-06-12,2025-06-19,Cust960,prod3089,Sugar,Grocery,East,Wisconsin,North Anthony,1,4950,15,4207.5,3056.79,1150.71,Cash,Pending,"Garcia, Stephens and Medina",timothyowens@lopez.com,46,No,0
+ord1722,2024-12-10,2024-12-13,Cust508,prod6489,Rice bag,Grocery,West,Tennessee,East April,5,529,20,2116.0,1648.83,467.17,Cash,Cancelled,Reese-Hartman,tina30@tran.biz,8,Yes,47
+ord1723,2025-06-28,2025-07-04,Cust218,prod9627,Wheat,Grocery,South,Iowa,South Alfredside,1,2285,5,2170.75,1760.0,410.75,UPI,Pending,Hughes-Mason,angela07@galvan.com,15,No,0
+ord1724,2025-06-09,2025-06-13,Cust970,prod1943,Stapler,Office supplies,North,North Carolina,South Ryan,5,4547,10,20461.5,15819.29,4642.21,CC,Delivered,Taylor and Sons,gallen@phillips.com,12,No,0
+ord1725,2025-07-06,2025-07-11,Cust446,prod4952,Bookshelf,Furniture,North,Pennsylvania,West Tylerville,4,4816,15,16374.4,14188.88,2185.52,Cash,Cancelled,Nelson Inc,katherinegutierrez@chavez-hudson.org,8,Yes,49
+ord1726,2025-03-11,2025-03-16,Cust650,prod1727,Monitor,Electronics,North,South Dakota,Longside,2,1376,15,2339.2,2051.71,287.49,Cash,Returned,Bradley Inc,jamesmassey@nguyen.info,44,No,0
+ord1727,2025-06-20,2025-06-24,Cust710,prod1189,Office chair,Furniture,East,Washington,Jonathanport,2,2637,20,4219.2,3502.29,716.91,CC,Delivered,"Lyons, Mccoy and Kim",vhancock@curtis.com,15,No,0
+ord1728,2025-07-06,2025-07-13,Cust523,prod5738,Headphones,Electronics,East,Virginia,Port Thomasstad,5,4367,0,21835.0,18863.07,2971.93,Cash,Delivered,Sosa-Matthews,oliviagutierrez@mckinney-cole.info,15,No,0
+ord1729,2025-03-29,2025-03-31,Cust479,prod5299,File folder,Office supplies,North,Wyoming,Brownville,10,2173,20,17384.0,14437.57,2946.43,NB,Pending,Williams-Martinez,tara00@rios.com,11,No,0
+ord1730,2025-05-16,2025-05-19,Cust627,prod7224,Mouse,Electronics,East,Nevada,South Bretttown,9,4771,20,34351.2,21575.98,12775.22,UPI,Pending,Fischer Group,erik09@zhang-stephenson.com,44,No,0
+ord1731,2025-03-28,2025-03-30,Cust492,prod5566,Laptop,Electronics,West,Alabama,Coxhaven,5,535,20,2140.0,1911.31,228.69,UPI,Pending,Ross Inc,vpayne@barrera-martin.com,45,No,0
+ord1732,2024-12-15,2024-12-21,Cust990,prod3351,Mouse,Electronics,North,Arkansas,East Michael,10,4119,10,37071.0,23254.4,13816.6,NB,Delivered,Mason Group,turneradrian@pierce.net,46,No,0
+ord1733,2025-07-28,2025-08-02,Cust226,prod5879,Calculator,Office supplies,South,New Mexico,Lake Donaldfurt,6,2853,0,17118.0,11573.62,5544.38,CC,Pending,"Myers, Wolf and Mosley",mason29@banks.org,24,No,0
+ord1734,2025-07-04,2025-07-05,Cust199,prod4303,Notebook,Office supplies,East,Nevada,North Lauren,9,3145,20,22644.0,16691.76,5952.24,Cash,Pending,"Kirby, Daniels and Fisher",helen27@holden.com,8,Yes,32
+ord1735,2025-09-14,2025-09-16,Cust659,prod1845,Monitor,Electronics,North,Washington,Aaronhaven,7,4798,20,26868.8,18902.09,7966.71,UPI,Pending,Snyder-Cain,trobinson@cook-baxter.com,19,No,0
+ord1736,2025-08-14,2025-08-17,Cust313,prod7052,Mouse,Electronics,West,Arizona,North Katie,9,879,15,6724.35,5067.05,1657.3,NB,Cancelled,Sellers PLC,morganholloway@montoya-sosa.info,6,Yes,20
+ord1737,2025-01-24,2025-01-26,Cust628,prod5986,Stapler,Office supplies,South,Hawaii,New Michael,10,3498,10,31482.0,25997.77,5484.23,Cash,Pending,Sherman-Kennedy,johnmathis@castro.com,33,No,0
+ord1738,2025-10-24,2025-10-29,Cust132,prod9410,Rice bag,Grocery,North,Michigan,Robertmouth,3,4526,5,12899.1,9536.83,3362.27,NB,Pending,Potter Inc,meagan24@gray.biz,38,No,0
+ord1739,2025-10-11,2025-10-16,Cust873,prod9838,Pen,Office supplies,East,Vermont,North David,2,1240,0,2480.0,2168.17,311.83,UPI,Pending,"Romero, Jimenez and Brown",zachary56@roberson.com,14,No,0
+ord1740,2025-07-06,2025-07-13,Cust260,prod3496,Monitor,Electronics,East,Oklahoma,Lake Nicolemouth,5,3639,10,16375.5,12960.84,3414.66,CC,Delivered,Pace-Olson,brendanlawson@mejia.com,35,No,0
+ord1741,2025-01-16,2025-01-20,Cust535,prod8003,Rice bag,Grocery,West,Michigan,Chaseburgh,3,1523,20,3655.2,3055.93,599.27,Cash,Delivered,"Berry, Rios and Wright",ssmith@coleman.com,34,No,0
+ord1742,2024-12-13,2024-12-17,Cust476,prod3827,Sofa,Furniture,East,Ohio,Jimenezburgh,6,4514,15,23021.4,14940.18,8081.22,UPI,Delivered,"Yoder, Davies and Ruiz",andrea20@solis-dorsey.com,42,No,0
+ord1743,2025-05-12,2025-05-14,Cust448,prod8917,Office chair,Furniture,North,Utah,New Shawn,6,4610,0,27660.0,20991.02,6668.98,CC,Delivered,"Green, Garza and Garza",nrogers@stanley.com,35,No,0
+ord1744,2025-11-25,2025-11-27,Cust184,prod4510,Stapler,Office supplies,South,West Virginia,Daniellemouth,2,4582,0,9164.0,6665.49,2498.51,CC,Delivered,Miller-Cole,elizabeth95@reynolds.info,32,No,0
+ord1745,2025-05-13,2025-05-17,Cust175,prod2068,Bed,Furniture,North,Vermont,Beanhaven,6,1118,20,5366.4,3544.01,1822.39,CC,Cancelled,King PLC,suzannethomas@young.com,32,No,0
+ord1746,2025-11-06,2025-11-07,Cust448,prod6068,Pen,Office supplies,South,New York,Davidmouth,2,181,15,307.7,263.51,44.19,Cash,Delivered,Hall-Jones,patrickschmidt@davis-todd.net,6,Yes,46
+ord1747,2025-07-16,2025-07-17,Cust620,prod7369,Office chair,Furniture,West,Ohio,West Timothy,9,3572,0,32148.0,25134.26,7013.74,Cash,Cancelled,Jackson LLC,denise39@lee.com,5,Yes,21
+ord1748,2025-01-19,2025-01-22,Cust712,prod3640,Biscuits,Grocery,West,Alaska,Loriton,8,2083,5,15830.8,11823.12,4007.68,CC,Cancelled,"Barton, Alvarez and Bowman",haynesmario@krause.info,21,No,0
+ord1749,2025-01-09,2025-01-13,Cust184,prod4268,Calculator,Office supplies,South,Pennsylvania,East Shawnshire,3,4631,20,11114.4,8367.67,2746.73,Cash,Pending,Stephens-Cox,milesamber@young.com,17,No,0
+ord1750,2024-12-21,2024-12-22,Cust348,prod1133,Study Table,Furniture,North,Mississippi,East Williamfort,10,954,10,8586.0,5985.76,2600.24,Cash,Returned,"Graham, Vang and Garcia",larrybradley@bradley-adams.com,4,Yes,39
+ord1751,2025-09-21,2025-09-25,Cust658,prod4891,Calculator,Office supplies,East,Florida,Johnmouth,6,4932,10,26632.8,18346.55,8286.25,NB,Pending,Webb Ltd,beverlyfarley@barry-butler.com,24,No,0
+ord1752,2025-08-24,2025-08-30,Cust169,prod7329,File folder,Office supplies,North,Mississippi,Millerhaven,10,2360,20,18880.0,12696.57,6183.43,CC,Pending,Sullivan PLC,yodervictoria@mayer-figueroa.org,5,Yes,45
+ord1753,2025-07-28,2025-08-03,Cust815,prod7188,Wheat,Grocery,West,Oregon,Shaneside,5,4288,0,21440.0,15339.78,6100.22,CC,Cancelled,"Miller, Armstrong and Jordan",wattsgregory@howell.com,23,No,0
+ord1754,2025-02-22,2025-02-28,Cust252,prod7582,Wheat,Grocery,North,Michigan,Jameshaven,5,4528,10,20376.0,12402.88,7973.12,Cash,Cancelled,Marks-Turner,robert57@bright.com,32,No,0
+ord1755,2024-12-27,2025-01-01,Cust254,prod1765,Keyboard,Electronics,West,Wyoming,New William,2,4542,10,8175.6,6905.6,1270.0,Cash,Pending,"Aguilar, Grant and Williams",holtthomas@martin.net,21,No,0
+ord1756,2024-12-20,2024-12-25,Cust718,prod3724,Sofa,Furniture,East,Maine,Romeromouth,1,2472,0,2472.0,1805.11,666.89,NB,Delivered,Leon PLC,owenjuan@goodman.info,33,No,0
+ord1757,2025-09-19,2025-09-25,Cust280,prod4772,Cooking oil,Grocery,North,Utah,North Danielfurt,9,1512,0,13608.0,9173.92,4434.08,CC,Delivered,"Lewis, Adams and Cunningham",sarah06@dixon-duarte.com,22,No,0
+ord1758,2025-01-17,2025-01-23,Cust158,prod6079,Laptop,Electronics,East,Ohio,North Mark,1,4342,20,3473.6,2767.16,706.44,Cash,Returned,"Obrien, Morales and Ward",mwilson@lee.com,36,No,0
+ord1759,2025-10-02,2025-10-09,Cust497,prod2220,Cooking oil,Grocery,South,Montana,South Chad,10,2939,5,27920.5,17152.63,10767.87,CC,Pending,Bailey Group,stephendavenport@russell.com,6,Yes,37
+ord1760,2025-01-30,2025-02-03,Cust875,prod2653,Sugar,Grocery,East,Arizona,Michaelfort,5,302,15,1283.5,847.7,435.8,UPI,Returned,Le PLC,wendy83@knapp-newton.com,37,No,0
+ord1761,2025-10-29,2025-10-31,Cust967,prod5870,Stapler,Office supplies,South,North Carolina,West Robertoborough,8,4564,0,36512.0,26598.95,9913.05,NB,Returned,Hansen Ltd,katelyngoodwin@lynch-price.biz,34,No,0
+ord1762,2025-01-13,2025-01-15,Cust907,prod2989,Office chair,Furniture,East,Hawaii,New Elizabethshire,7,1335,10,8410.5,6725.54,1684.96,UPI,Delivered,Taylor LLC,louis29@gonzalez.com,7,Yes,21
+ord1763,2025-06-24,2025-06-30,Cust186,prod7135,Monitor,Electronics,South,Missouri,Lake Colleen,8,1577,10,11354.4,7971.5,3382.9,UPI,Delivered,Parker Group,foleytanya@davila.biz,13,No,0
+ord1764,2025-08-23,2025-08-27,Cust221,prod9178,Mouse,Electronics,South,New Jersey,East Anthony,2,1293,0,2586.0,1819.58,766.42,CC,Pending,"Harris, Shaw and Guerrero",christinehebert@coleman.com,36,No,0
+ord1765,2025-05-21,2025-05-25,Cust747,prod3069,Keyboard,Electronics,North,Georgia,Cunninghamstad,9,2022,15,15468.3,12175.98,3292.32,NB,Pending,Stokes and Sons,fallen@powers.com,29,No,0
+ord1766,2025-01-18,2025-01-23,Cust950,prod4644,Calculator,Office supplies,West,Hawaii,East Jacquelineport,9,176,20,1267.2,782.89,484.31,NB,Returned,Romero-Proctor,ldoyle@hinton-henderson.biz,28,No,0
+ord1767,2025-05-09,2025-05-12,Cust978,prod4640,Mouse,Electronics,North,Minnesota,Masseystad,1,2030,20,1624.0,1414.38,209.62,UPI,Cancelled,Hogan Group,woodscourtney@strickland-cardenas.com,40,No,0
+ord1768,2025-10-09,2025-10-12,Cust864,prod6280,Headphones,Electronics,North,West Virginia,Collinsmouth,7,2329,5,15487.85,10326.26,5161.59,NB,Cancelled,Joseph-Gonzalez,starkcarla@campbell.biz,25,No,0
+ord1769,2025-10-20,2025-10-24,Cust103,prod4752,Bookshelf,Furniture,West,South Carolina,Maxwellchester,10,4712,15,40052.0,26606.32,13445.68,UPI,Cancelled,Smith-Campos,hernandezrichard@stevens.com,32,No,0
+ord1770,2025-02-14,2025-02-21,Cust738,prod9746,Laptop,Electronics,West,Wisconsin,Jimeneztown,9,4594,20,33076.8,23395.15,9681.65,Cash,Delivered,Baldwin LLC,yfuller@doyle-willis.com,28,No,0
+ord1771,2025-04-26,2025-05-01,Cust630,prod1400,Headphones,Electronics,East,North Carolina,North Brandyton,5,4146,0,20730.0,14854.61,5875.39,Cash,Returned,"Hamilton, Elliott and Gordon",paulschwartz@cooper.info,45,No,0
+ord1772,2025-05-30,2025-06-06,Cust669,prod7813,Notebook,Office supplies,East,Wisconsin,Crystalmouth,8,4551,15,30946.8,25480.9,5465.9,UPI,Cancelled,Allen Ltd,jefferywheeler@johnson.biz,31,No,0
+ord1773,2024-12-12,2024-12-17,Cust635,prod2035,Mouse,Electronics,East,Kansas,New Matthewshire,1,2460,15,2091.0,1294.5,796.5,NB,Cancelled,Black Ltd,victoriarowe@valdez.com,24,No,0
+ord1774,2025-07-08,2025-07-12,Cust245,prod2756,Calculator,Office supplies,South,Illinois,South Veronicaburgh,4,3520,20,11264.0,8182.9,3081.1,Cash,Returned,"Stuart, Torres and Garrett",jenniferkoch@williams.biz,1,Yes,41
+ord1775,2025-08-17,2025-08-22,Cust788,prod7010,Sugar,Grocery,West,Washington,Brandonfurt,9,1067,10,8642.7,6990.87,1651.83,NB,Returned,Collins Inc,michael94@solis.com,13,No,0
+ord1776,2025-05-17,2025-05-24,Cust514,prod2094,Wheat,Grocery,North,West Virginia,West Rubenview,7,376,10,2368.8,1693.63,675.17,Cash,Delivered,"Arias, Ray and Hall",laurieyu@sanchez-carter.net,32,No,0
+ord1777,2025-08-19,2025-08-23,Cust361,prod1914,Bookshelf,Furniture,West,Iowa,Andrewbury,7,2368,15,14089.6,8704.23,5385.37,NB,Returned,"Sawyer, Morris and Fernandez",annawells@johnson.com,8,Yes,33
+ord1778,2024-12-17,2024-12-20,Cust319,prod2354,Office chair,Furniture,North,Michigan,North Karl,2,1791,15,3044.7,2135.02,909.68,CC,Cancelled,"Nelson, Edwards and Watts",srivera@howard-fuller.com,5,Yes,38
+ord1779,2025-11-22,2025-11-26,Cust221,prod7714,Office chair,Furniture,North,Iowa,Chelseashire,6,2358,5,13440.6,10913.06,2527.54,UPI,Delivered,"Rich, Harris and Pineda",carrie88@kennedy.com,7,Yes,50
+ord1780,2025-08-15,2025-08-18,Cust143,prod9937,Mouse,Electronics,South,Indiana,Whitneyberg,10,3498,5,33231.0,24924.4,8306.6,Cash,Pending,Strickland-Pierce,victoria96@roberts-pena.net,28,No,0
+ord1781,2024-12-09,2024-12-14,Cust327,prod9377,Headphones,Electronics,South,Washington,Ortizshire,9,3712,10,30067.2,20571.14,9496.06,UPI,Cancelled,"Mcmahon, Diaz and Stewart",bcampbell@benjamin.info,0,Yes,27
+ord1782,2025-01-15,2025-01-16,Cust409,prod3398,Rice bag,Grocery,East,Connecticut,North Tonya,3,4624,10,12484.8,9274.8,3210.0,Cash,Delivered,Jones Group,jesse64@leonard.com,21,No,0
+ord1783,2025-03-18,2025-03-24,Cust632,prod5420,Keyboard,Electronics,South,California,North Annchester,10,4436,0,44360.0,28450.13,15909.87,UPI,Pending,"Gomez, Underwood and Williams",danielallen@kim.net,45,No,0
+ord1784,2024-12-09,2024-12-16,Cust381,prod9606,Bed,Furniture,North,Utah,Ashleybury,3,4829,10,13038.3,10836.43,2201.87,UPI,Returned,Johnson PLC,lloydandrea@rivera.com,46,No,0
+ord1785,2025-03-28,2025-04-03,Cust930,prod3284,Pen,Office supplies,North,Colorado,Porterbury,8,4680,15,31824.0,21011.36,10812.64,NB,Delivered,"Lucas, Bridges and Chandler",michael63@rodriguez.com,46,No,0
+ord1786,2025-04-25,2025-04-28,Cust355,prod5066,Sugar,Grocery,South,Louisiana,South Kathrynberg,1,3082,5,2927.9,2590.13,337.77,NB,Pending,"Meyer, Hoffman and Thompson",alexandergarner@mitchell.com,34,No,0
+ord1787,2025-04-13,2025-04-15,Cust996,prod8818,Laptop,Electronics,West,Utah,North Patricia,8,4532,10,32630.4,23790.53,8839.87,NB,Cancelled,Richards-Griffin,chelsea17@adams.com,24,No,0
+ord1788,2025-07-03,2025-07-06,Cust312,prod2277,Monitor,Electronics,North,Indiana,Carolynchester,2,4517,15,7678.9,6459.18,1219.72,UPI,Cancelled,"Kelly, Hodges and Smith",psnyder@pitts-thomas.com,31,No,0
+ord1789,2024-12-28,2025-01-04,Cust330,prod9667,Wheat,Grocery,North,Arkansas,Port Wendy,7,2539,10,15995.7,12633.68,3362.02,UPI,Cancelled,Mcguire PLC,justin50@carter.com,47,No,0
+ord1790,2025-07-12,2025-07-19,Cust179,prod6201,Laptop,Electronics,North,Alabama,North Sydney,3,626,10,1690.2,1379.62,310.58,Cash,Returned,Wilson-Williams,dtaylor@smith.org,20,No,0
+ord1791,2025-01-04,2025-01-08,Cust500,prod9932,Stapler,Office supplies,West,West Virginia,Sarahchester,6,4465,20,21432.0,16047.2,5384.8,CC,Pending,Lopez-Jones,yvetterussell@dawson.com,5,Yes,47
+ord1792,2025-09-04,2025-09-08,Cust144,prod6725,Bed,Furniture,West,Alabama,Hendersontown,7,2193,15,13048.35,11307.33,1741.02,CC,Cancelled,Harris Inc,lindsey08@myers-larsen.org,38,No,0
+ord1793,2025-07-21,2025-07-28,Cust189,prod8098,Sugar,Grocery,South,West Virginia,Connorport,7,848,0,5936.0,4907.03,1028.97,CC,Cancelled,Harris and Sons,choward@conrad.com,9,Yes,20
+ord1794,2025-03-17,2025-03-23,Cust455,prod7645,Office chair,Furniture,North,Louisiana,Williambury,7,484,15,2879.8,2407.98,471.82,UPI,Cancelled,Watson PLC,briannewton@ford.com,20,No,0
+ord1795,2025-07-12,2025-07-15,Cust631,prod5199,Mouse,Electronics,South,South Carolina,New Blake,5,2467,15,10484.75,6772.47,3712.28,UPI,Pending,"Thomas, White and Braun",kelleyjennifer@mckinney.biz,46,No,0
+ord1796,2025-11-17,2025-11-22,Cust913,prod3868,Wheat,Grocery,South,West Virginia,North Robertbury,10,2277,0,22770.0,15264.22,7505.78,UPI,Pending,Barnett-Stewart,rchapman@johnson-pearson.org,2,Yes,35
+ord1797,2025-03-13,2025-03-17,Cust427,prod4546,Pen,Office supplies,East,Rhode Island,South Robert,3,3540,0,10620.0,6727.09,3892.91,UPI,Returned,"Alvarado, Anderson and Collins",psimon@jimenez.com,38,No,0
+ord1798,2025-08-27,2025-09-01,Cust543,prod5910,Cooking oil,Grocery,South,Maine,South Garychester,1,2882,15,2449.7,1934.95,514.75,CC,Cancelled,Lynch-May,meltonjames@snow.biz,10,No,0
+ord1799,2025-10-26,2025-10-28,Cust836,prod7130,Notebook,Office supplies,North,Arizona,North Savannah,1,164,0,164.0,110.26,53.74,UPI,Cancelled,Miller Ltd,gillangela@bonilla-dixon.com,18,No,0
+ord1800,2025-06-09,2025-06-15,Cust164,prod8163,Wheat,Grocery,South,Wyoming,North Sean,7,3376,5,22450.4,15541.23,6909.17,NB,Cancelled,"Patel, Wilson and Thomas",andersoncassandra@kramer-jones.info,50,No,0
+ord1801,2025-09-11,2025-09-12,Cust807,prod8415,Biscuits,Grocery,North,Pennsylvania,Millerborough,5,272,20,1088.0,682.93,405.07,NB,Cancelled,"Schmidt, Trujillo and Beck",gonzalezrichard@leon.com,17,No,0
+ord1802,2025-03-27,2025-04-02,Cust375,prod4427,Stapler,Office supplies,North,Mississippi,Lake Williammouth,1,2790,20,2232.0,1858.28,373.72,NB,Returned,Martinez Group,dmccormick@ruiz.com,39,No,0
+ord1803,2025-08-25,2025-09-01,Cust106,prod4008,File folder,Office supplies,East,Oklahoma,South Mark,1,2496,5,2371.2,1597.07,774.13,CC,Delivered,"Stevens, Edwards and Arias",stewartstephanie@butler.info,5,Yes,29
+ord1804,2025-03-03,2025-03-09,Cust929,prod7951,Wheat,Grocery,South,Massachusetts,Lovestad,1,3304,20,2643.2,2360.69,282.51,UPI,Pending,"Frazier, Mosley and Santos",xwilson@harris.com,45,No,0
+ord1805,2025-03-06,2025-03-11,Cust503,prod1220,Bed,Furniture,East,Missouri,Williamsborough,8,2106,5,16005.6,12806.82,3198.78,CC,Returned,James-Booth,jameswood@wallace.com,0,Yes,42
+ord1806,2025-10-14,2025-10-15,Cust159,prod3646,Sugar,Grocery,North,Louisiana,New Lindahaven,7,1770,0,12390.0,10265.53,2124.47,CC,Cancelled,Wright PLC,mbentley@ingram.org,27,No,0
+ord1807,2025-11-20,2025-11-22,Cust821,prod3995,Calculator,Office supplies,West,Minnesota,Cummingsport,7,3092,5,20561.8,17641.76,2920.04,Cash,Returned,"Banks, Bates and Goodwin",joshua96@atkins.com,18,No,0
+ord1808,2025-08-03,2025-08-08,Cust800,prod9386,Monitor,Electronics,East,South Dakota,Steelestad,5,758,5,3600.5,2475.44,1125.06,NB,Pending,Lester Group,ryanhoffman@ware.net,22,No,0
+ord1809,2025-07-20,2025-07-24,Cust352,prod4518,Monitor,Electronics,South,Tennessee,Browntown,9,113,20,813.6,499.18,314.42,Cash,Cancelled,Guerra PLC,mary72@flores.net,28,No,0
+ord1810,2025-09-18,2025-09-20,Cust353,prod3221,Laptop,Electronics,South,Wyoming,New Jacobport,9,1753,10,14199.3,9725.02,4474.28,Cash,Returned,Riley-Moreno,michael63@smith-reed.net,49,No,0
+ord1811,2025-04-09,2025-04-14,Cust776,prod2077,Office chair,Furniture,West,Georgia,West Jennifer,5,167,5,793.25,675.52,117.73,CC,Returned,Flynn LLC,michael40@watkins.org,26,No,0
+ord1812,2025-04-18,2025-04-19,Cust109,prod9198,Monitor,Electronics,North,Nebraska,Port Danaview,1,3306,5,3140.7,2423.77,716.93,Cash,Delivered,Clark and Sons,vsandoval@villa-wright.org,14,No,0
+ord1813,2024-12-31,2025-01-01,Cust100,prod1344,Rice bag,Grocery,North,Mississippi,East Alan,10,1792,10,16128.0,10687.77,5440.23,UPI,Returned,Sanchez-Smith,deannagibson@smith.com,13,No,0
+ord1814,2025-06-23,2025-06-25,Cust328,prod3429,Cooking oil,Grocery,East,Kansas,Gonzalesport,6,1389,20,6667.2,5902.86,764.34,Cash,Delivered,Yang and Sons,mburgess@hale.info,2,Yes,45
+ord1815,2025-06-05,2025-06-09,Cust966,prod5175,Bookshelf,Furniture,North,New York,New Kevin,6,2963,15,15111.3,11761.49,3349.81,Cash,Cancelled,"Rodriguez, Sanchez and Johnson",millermelissa@watkins-meadows.com,17,No,0
+ord1816,2025-04-08,2025-04-15,Cust256,prod4866,Rice bag,Grocery,South,Wyoming,Smithborough,7,3221,5,21419.65,14888.77,6530.88,CC,Returned,"Edwards, Richmond and Morrison",ramireztara@mckinney-fitzpatrick.com,16,No,0
+ord1817,2024-12-16,2024-12-23,Cust160,prod2283,Pen,Office supplies,North,Wyoming,Gravestown,8,2758,15,18754.4,12950.32,5804.08,NB,Cancelled,"Jimenez, Washington and Garcia",simmonslouis@moreno.info,1,Yes,32
+ord1818,2025-09-16,2025-09-17,Cust170,prod1261,Wheat,Grocery,North,Rhode Island,New Laura,3,3457,15,8815.35,5486.4,3328.95,Cash,Returned,Silva Ltd,yowens@dalton.info,1,Yes,35
+ord1819,2024-12-09,2024-12-16,Cust711,prod3750,Stapler,Office supplies,South,Wyoming,West Ruben,9,690,10,5589.0,4993.47,595.53,CC,Returned,Scott-Moore,srhodes@robinson.com,17,No,0
+ord1820,2025-08-08,2025-08-12,Cust282,prod6981,Sofa,Furniture,North,Michigan,Kathleenburgh,3,1545,5,4403.25,3456.84,946.41,UPI,Delivered,"Richards, Rodriguez and Maldonado",lukewilliams@wood.com,47,No,0
+ord1821,2024-12-22,2024-12-28,Cust213,prod3695,Bookshelf,Furniture,West,Massachusetts,Christopherchester,3,1326,15,3381.3,2322.49,1058.81,Cash,Cancelled,"Martin, Woods and Miller",austinbarton@lopez.net,2,Yes,20
+ord1822,2025-04-20,2025-04-27,Cust995,prod7827,Stapler,Office supplies,West,New Mexico,Chavezside,1,166,0,166.0,137.18,28.82,CC,Delivered,"Phillips, Sanchez and Campbell",michael91@campbell.biz,42,No,0
+ord1823,2025-09-09,2025-09-14,Cust305,prod5933,Sofa,Furniture,East,Oklahoma,Rachelborough,1,3720,20,2976.0,1817.1,1158.9,CC,Delivered,Mcmahon-Thomas,bellalicia@ashley-brown.com,8,Yes,50
+ord1824,2025-09-10,2025-09-15,Cust500,prod3739,Headphones,Electronics,West,Oregon,New Amanda,5,2041,0,10205.0,6906.74,3298.26,Cash,Pending,"Blevins, Le and Griffin",daviddavis@robinson.org,42,No,0
+ord1825,2025-06-14,2025-06-21,Cust839,prod7107,Calculator,Office supplies,South,Connecticut,Jacksonstad,4,3221,5,12239.8,8223.82,4015.98,NB,Delivered,"Moore, Cummings and Harris",annetaylor@vasquez.com,46,No,0
+ord1826,2025-02-26,2025-03-01,Cust272,prod1466,Biscuits,Grocery,West,Minnesota,North Renee,5,1452,20,5808.0,5199.03,608.97,NB,Returned,"Stanley, Rose and Miller",rachellynch@brandt.info,16,No,0
+ord1827,2025-05-13,2025-05-18,Cust888,prod7964,Notebook,Office supplies,South,Virginia,East Joshua,10,3477,15,29554.5,19556.89,9997.61,Cash,Pending,Smith-Rodriguez,jeffrey24@carr-smith.biz,1,Yes,39
+ord1828,2025-04-15,2025-04-21,Cust725,prod9265,Bookshelf,Furniture,West,Massachusetts,New Larry,3,664,15,1693.2,1107.84,585.36,UPI,Cancelled,"Montgomery, Perry and Russell",samuelfields@brown-steele.com,15,No,0
+ord1829,2024-12-13,2024-12-19,Cust964,prod7177,Bed,Furniture,North,Alaska,Greenfurt,2,4297,0,8594.0,6815.84,1778.16,NB,Pending,"Nelson, Gutierrez and Bates",cflores@sanders.biz,14,No,0
+ord1830,2025-03-27,2025-04-02,Cust603,prod1507,Monitor,Electronics,North,South Dakota,Travishaven,10,2768,15,23528.0,19902.21,3625.79,Cash,Cancelled,Stewart-Delgado,uchavez@duran.org,6,Yes,32
+ord1831,2025-06-08,2025-06-11,Cust247,prod5205,Study Table,Furniture,East,Kansas,North Aaron,1,1911,20,1528.8,1104.77,424.03,CC,Pending,"King, Arnold and Sanders",angelamccoy@mathis.net,24,No,0
+ord1832,2025-01-31,2025-02-01,Cust156,prod2844,Rice bag,Grocery,West,Montana,Sheriborough,7,224,15,1332.8,984.2,348.6,Cash,Cancelled,Leonard-Jones,ihunter@collins.info,41,No,0
+ord1833,2025-08-07,2025-08-12,Cust430,prod8081,Sofa,Furniture,East,Idaho,East Jacobchester,9,4985,10,40378.5,29502.2,10876.3,NB,Returned,"Jackson, Adams and Davis",lindacameron@prince.net,23,No,0
+ord1834,2025-10-11,2025-10-12,Cust858,prod8767,Pen,Office supplies,West,South Dakota,Jordanburgh,1,3025,10,2722.5,1639.67,1082.83,CC,Returned,Jones-Gibson,bhogan@graham.org,16,No,0
+ord1835,2025-08-26,2025-08-28,Cust413,prod6772,Wheat,Grocery,South,New Hampshire,Kaylaberg,3,1857,5,5292.45,3897.63,1394.82,NB,Pending,Smith-Bush,amy54@gonzalez.com,23,No,0
+ord1836,2025-10-22,2025-10-23,Cust763,prod4455,File folder,Office supplies,North,Pennsylvania,North Jodi,4,2873,5,10917.4,7228.88,3688.52,UPI,Returned,"Glass, Garrison and Gibson",kennedymatthew@stanley.com,33,No,0
+ord1837,2025-11-22,2025-11-27,Cust864,prod3854,Stapler,Office supplies,East,Michigan,Rebeccabury,1,2410,5,2289.5,1497.54,791.96,Cash,Pending,Brown LLC,eileen85@peterson.biz,0,Yes,30
+ord1838,2025-09-23,2025-09-25,Cust854,prod4780,Monitor,Electronics,West,North Dakota,Port Carl,3,1082,20,2596.8,1909.52,687.28,NB,Pending,"Castillo, Carpenter and Hayes",millerdavid@thompson.com,38,No,0
+ord1839,2025-05-22,2025-05-28,Cust661,prod3699,Laptop,Electronics,South,Wisconsin,West Meganfort,8,2033,0,16264.0,9968.76,6295.24,CC,Cancelled,Roberts LLC,paigephillips@lowe.com,19,No,0
+ord1840,2025-08-25,2025-09-01,Cust232,prod5026,Sofa,Furniture,South,Idaho,New Lisa,4,2835,5,10773.0,8522.88,2250.12,Cash,Pending,"Mcdonald, Walter and Stevens",johnmclaughlin@christian.com,38,No,0
+ord1841,2025-01-30,2025-02-06,Cust858,prod8074,Notebook,Office supplies,East,West Virginia,Reginafurt,8,2284,10,16444.8,12851.39,3593.41,NB,Pending,Morris Group,ochoadavid@martinez-allen.com,50,No,0
+ord1842,2025-07-25,2025-08-01,Cust790,prod7884,Notebook,Office supplies,East,Maryland,West Robertborough,7,226,5,1502.9,1112.99,389.91,NB,Pending,Kelly Ltd,carterdebra@burnett.com,38,No,0
+ord1843,2025-04-29,2025-05-04,Cust410,prod8345,Pen,Office supplies,North,Kentucky,West Elaine,8,4917,10,35402.4,26392.57,9009.83,UPI,Pending,Hines and Sons,ocooper@anderson-bean.biz,13,No,0
+ord1844,2025-11-13,2025-11-19,Cust219,prod4839,Keyboard,Electronics,East,Alaska,South Jacobville,6,4487,15,22883.7,17518.94,5364.76,CC,Delivered,Davis-Rich,adrianasaunders@johnson.com,42,No,0
+ord1845,2025-01-04,2025-01-06,Cust948,prod3220,Bed,Furniture,West,Idaho,Melanieborough,5,2191,5,10407.25,8789.38,1617.87,NB,Delivered,Mccoy Ltd,anthonymurphy@burns-smith.org,4,Yes,33
+ord1846,2025-03-07,2025-03-12,Cust100,prod2122,Notebook,Office supplies,South,Oregon,North Patty,5,3791,5,18007.25,11000.5,7006.75,CC,Returned,Scott-Powers,guzmancaitlin@young.com,35,No,0
+ord1847,2025-07-21,2025-07-27,Cust371,prod8366,Pen,Office supplies,North,South Dakota,Cuevasburgh,10,3808,0,38080.0,23941.31,14138.69,Cash,Delivered,Griffin-Kirk,carriecampbell@johnson.com,17,No,0
+ord1848,2025-01-13,2025-01-18,Cust604,prod3260,Keyboard,Electronics,South,Wyoming,Goodmanhaven,7,897,15,5337.15,4398.49,938.66,Cash,Pending,"Byrd, Klein and Davis",leejennifer@lewis-erickson.com,17,No,0
+ord1849,2025-06-04,2025-06-08,Cust932,prod5192,File folder,Office supplies,East,Nebraska,East Kerriborough,9,2417,20,17402.4,10852.09,6550.31,CC,Returned,"Ballard, Ward and Benton",diazallen@allen.biz,36,No,0
+ord1850,2025-03-22,2025-03-28,Cust664,prod8977,Wheat,Grocery,North,Pennsylvania,Evansstad,4,3079,0,12316.0,10338.51,1977.49,UPI,Delivered,"Rice, Wilson and Jones",cgeorge@sims.info,37,No,0
+ord1851,2025-01-26,2025-01-27,Cust934,prod5285,Mouse,Electronics,East,North Dakota,South Andrewborough,9,3473,10,28131.3,24371.63,3759.67,Cash,Returned,Thompson Group,tanya37@nash.org,17,No,0
+ord1852,2025-10-23,2025-10-24,Cust546,prod5078,Sugar,Grocery,North,Pennsylvania,Port Hayden,2,1694,20,2710.4,2417.0,293.4,CC,Cancelled,Lawrence PLC,eross@kim-tucker.org,1,Yes,38
+ord1853,2025-03-20,2025-03-23,Cust983,prod4856,Biscuits,Grocery,East,Alaska,Port Jenniferstad,5,436,5,2071.0,1476.96,594.04,UPI,Pending,"Pineda, Hammond and Thompson",kgardner@gibson.com,0,Yes,40
+ord1854,2025-05-02,2025-05-03,Cust194,prod9928,Bookshelf,Furniture,South,Kentucky,Jamesshire,2,273,5,518.7,431.92,86.78,Cash,Delivered,"Gibson, Gray and Thomas",johnathan49@gray.net,22,No,0
+ord1855,2025-08-08,2025-08-10,Cust471,prod7536,Monitor,Electronics,West,Illinois,Buckleyhaven,4,2995,15,10183.0,6933.55,3249.45,CC,Pending,Conway Ltd,holmesbethany@cordova.com,16,No,0
+ord1856,2025-08-26,2025-08-28,Cust554,prod4560,Biscuits,Grocery,West,Michigan,East Cheryl,2,3729,10,6712.2,5754.73,957.47,NB,Cancelled,Lambert-Murphy,donaldlucas@allison.com,3,Yes,21
+ord1857,2025-07-27,2025-08-03,Cust349,prod4986,Notebook,Office supplies,East,Minnesota,Blakeview,3,4111,0,12333.0,10559.7,1773.3,NB,Cancelled,"Hill, Dickson and Davidson",dphillips@browning.biz,20,No,0
+ord1858,2025-06-15,2025-06-21,Cust652,prod2942,Study Table,Furniture,West,Iowa,Amandaborough,8,1739,0,13912.0,8608.41,5303.59,CC,Cancelled,"Chung, Lewis and Poole",reynoldsshelly@white-mcfarland.org,13,No,0
+ord1859,2025-06-04,2025-06-07,Cust480,prod7710,Bed,Furniture,North,Utah,Toddland,7,4861,15,28922.95,21619.48,7303.47,UPI,Returned,"Anderson, Rodriguez and Miller",hollowaydebra@brown-reed.com,44,No,0
+ord1860,2025-04-12,2025-04-17,Cust962,prod1407,Notebook,Office supplies,North,West Virginia,South Tonya,2,1393,10,2507.4,2110.36,397.04,CC,Cancelled,"Haas, Benjamin and Reyes",annahale@gomez-brennan.biz,5,Yes,50
+ord1861,2025-08-24,2025-08-25,Cust907,prod3520,Monitor,Electronics,West,Georgia,New Elizabethton,8,619,10,4456.8,3233.23,1223.57,NB,Pending,Rodgers Ltd,sanchezrachel@prince-morris.com,26,No,0
+ord1862,2025-03-23,2025-03-24,Cust315,prod4623,Bed,Furniture,South,Alaska,Brandiville,6,424,5,2416.8,1863.03,553.77,Cash,Returned,Browning Ltd,guzmanemma@schwartz.com,5,Yes,39
+ord1863,2025-01-06,2025-01-12,Cust607,prod9400,Stapler,Office supplies,East,Arizona,Edwardstad,4,2290,15,7786.0,6850.6,935.4,NB,Delivered,Watkins-Dean,vaughnkayla@crosby.com,42,No,0
+ord1864,2025-08-07,2025-08-10,Cust304,prod8293,Monitor,Electronics,West,New Mexico,Port Madisonburgh,7,3028,20,16956.8,11566.21,5390.59,NB,Delivered,Barnett-Lopez,juanvasquez@howell-robinson.com,4,Yes,36
+ord1865,2025-09-12,2025-09-13,Cust983,prod4402,Bookshelf,Furniture,North,South Carolina,East Matthewtown,1,4070,5,3866.5,2906.87,959.63,NB,Returned,Miller PLC,michaelwiley@nguyen-fuentes.com,30,No,0
+ord1866,2025-06-15,2025-06-18,Cust585,prod7048,Pen,Office supplies,East,Florida,Karabury,2,754,5,1432.6,1238.84,193.76,Cash,Returned,"Stephens, Hess and Clayton",cynthia13@wilson.biz,21,No,0
+ord1867,2025-01-20,2025-01-21,Cust276,prod7396,Rice bag,Grocery,South,Oregon,Michaelfort,3,781,10,2108.7,1746.39,362.31,CC,Pending,"Coffey, Randall and Chen",kimberly75@smith.com,17,No,0
+ord1868,2025-08-22,2025-08-28,Cust121,prod3314,Study Table,Furniture,South,Florida,West Micheleberg,9,3866,10,31314.6,25189.99,6124.61,CC,Pending,Neal PLC,vargaskimberly@thompson.biz,35,No,0
+ord1869,2025-06-26,2025-07-01,Cust160,prod9406,Notebook,Office supplies,West,Delaware,East Karenland,5,2344,20,9376.0,8405.93,970.07,NB,Returned,Lambert and Sons,jerome84@zimmerman.org,0,Yes,30
+ord1870,2025-06-07,2025-06-11,Cust439,prod6374,Mouse,Electronics,North,New York,East Lance,10,3688,10,33192.0,24492.6,8699.4,NB,Cancelled,Briggs PLC,stephanie71@howell-thomas.com,0,Yes,26
+ord1871,2025-04-06,2025-04-09,Cust951,prod9381,Keyboard,Electronics,South,Washington,West Christopher,9,2784,15,21297.6,17466.68,3830.92,Cash,Pending,Allen Ltd,traceybanks@poole.com,38,No,0
+ord1872,2025-11-05,2025-11-12,Cust203,prod6473,Study Table,Furniture,West,Louisiana,Victoriaton,6,3195,15,16294.5,10456.95,5837.55,NB,Pending,Rodriguez Ltd,rose50@morris.com,48,No,0
+ord1873,2025-11-28,2025-11-30,Cust882,prod8659,Cooking oil,Grocery,West,Minnesota,Rebeccafurt,3,2404,20,5769.6,4867.01,902.59,UPI,Returned,"Cruz, Blevins and Mcdonald",annmorgan@brown.net,48,No,0
+ord1874,2024-12-26,2024-12-30,Cust422,prod5113,Sugar,Grocery,West,Oregon,Rebeccaburgh,1,4361,10,3924.9,3399.02,525.88,UPI,Pending,Lopez Group,saramorse@richardson-carter.org,46,No,0
+ord1875,2025-11-26,2025-11-29,Cust230,prod1563,Sugar,Grocery,North,Pennsylvania,Schultzburgh,7,4894,20,27406.4,16956.28,10450.12,NB,Returned,"Richard, Lin and Fisher",sethsalinas@stevens-burns.com,23,No,0
+ord1876,2025-04-19,2025-04-26,Cust863,prod8552,Bookshelf,Furniture,West,Rhode Island,Lindaberg,7,4470,20,25032.0,18763.39,6268.61,NB,Pending,Hubbard-Armstrong,jmendoza@mercado.biz,22,No,0
+ord1877,2025-06-15,2025-06-20,Cust436,prod7845,Biscuits,Grocery,North,Kansas,South Vanessastad,10,3339,5,31720.5,24861.26,6859.24,CC,Delivered,Davis Inc,chelsea61@mclaughlin-valencia.com,49,No,0
+ord1878,2025-01-27,2025-02-02,Cust949,prod1637,Bookshelf,Furniture,East,Michigan,Ramirezburgh,1,4271,0,4271.0,2767.14,1503.86,Cash,Delivered,White Ltd,adodson@fleming-escobar.com,31,No,0
+ord1879,2025-03-19,2025-03-22,Cust148,prod4731,Rice bag,Grocery,East,Florida,South Sierraview,1,315,0,315.0,192.27,122.73,UPI,Cancelled,"Horn, Edwards and Robinson",paul57@johnston.com,14,No,0
+ord1880,2025-05-10,2025-05-15,Cust959,prod5499,Sugar,Grocery,West,Maine,Robertoberg,5,692,20,2768.0,2237.93,530.07,UPI,Pending,Freeman and Sons,fvillegas@day.net,27,No,0
+ord1881,2025-03-13,2025-03-16,Cust322,prod4402,Notebook,Office supplies,North,Rhode Island,Annafort,10,2100,20,16800.0,11822.13,4977.87,NB,Returned,"Jenkins, Dean and Jones",josephstephens@daniel-davis.biz,3,Yes,41
+ord1882,2025-06-21,2025-06-27,Cust427,prod4105,Notebook,Office supplies,West,Colorado,Marvinberg,3,1069,5,3046.65,2398.35,648.3,UPI,Returned,Watson-Wilkerson,kellyjennifer@thompson.com,5,Yes,35
+ord1883,2025-03-25,2025-03-28,Cust783,prod8972,Keyboard,Electronics,North,Georgia,Petersenville,7,828,15,4926.6,3771.37,1155.23,Cash,Delivered,Jackson-Mccullough,michael75@porter-hayes.net,47,No,0
+ord1884,2025-01-01,2025-01-08,Cust327,prod9794,File folder,Office supplies,North,Kentucky,Washingtonside,5,3141,20,12564.0,9365.14,3198.86,UPI,Delivered,Wood PLC,angel11@morris-nelson.com,3,Yes,36
+ord1885,2025-06-07,2025-06-13,Cust952,prod6704,Pen,Office supplies,North,Mississippi,Lake Nicholas,5,2007,0,10035.0,7018.48,3016.52,NB,Cancelled,"Kelly, Rogers and Jennings",jameshoover@mendez-ray.com,15,No,0
+ord1886,2025-11-15,2025-11-17,Cust714,prod9400,Bookshelf,Furniture,South,Kansas,Johnsonmouth,6,2294,20,11011.2,8557.06,2454.14,Cash,Pending,Little-Johnson,stevenmitchell@ferguson.info,15,No,0
+ord1887,2025-12-03,2025-12-09,Cust167,prod5734,Laptop,Electronics,East,South Carolina,Georgefort,2,420,0,840.0,647.92,192.08,CC,Pending,"Fischer, Davis and Hood",parkssandra@kim-ayers.biz,2,Yes,44
+ord1888,2024-12-23,2024-12-24,Cust509,prod7192,Rice bag,Grocery,North,Texas,Maryshire,4,1689,0,6756.0,5571.41,1184.59,NB,Returned,"Watson, Edwards and Wright",michele73@barton.com,43,No,0
+ord1889,2024-12-13,2024-12-14,Cust904,prod5916,Keyboard,Electronics,East,Utah,Villanuevastad,3,1377,15,3511.35,2804.56,706.79,UPI,Cancelled,"Rollins, Rodriguez and Parrish",michelle45@walker.org,37,No,0
+ord1890,2025-01-07,2025-01-11,Cust498,prod7696,Cooking oil,Grocery,North,Virginia,Port Elizabethmouth,2,737,15,1252.9,850.51,402.39,UPI,Cancelled,"Stafford, Lopez and Sherman",williamhall@weaver-walsh.com,19,No,0
+ord1891,2024-12-30,2025-01-03,Cust282,prod1539,Sofa,Furniture,West,New York,West Bethanyside,7,2935,5,19517.75,14928.17,4589.58,CC,Returned,"Clark, Cox and Stark",aaronrubio@martin.com,4,Yes,42
+ord1892,2025-05-18,2025-05-24,Cust188,prod2386,Bed,Furniture,West,New Jersey,Barnesland,10,3253,0,32530.0,29022.9,3507.1,UPI,Pending,Clarke-White,fhernandez@glenn.biz,48,No,0
+ord1893,2025-01-05,2025-01-07,Cust499,prod5150,File folder,Office supplies,West,Alabama,Clarkefurt,8,409,10,2944.8,2468.11,476.69,UPI,Cancelled,"Cobb, Chapman and Stout",pennyjones@green.com,10,No,0
+ord1894,2025-06-09,2025-06-14,Cust651,prod1597,Bookshelf,Furniture,West,Oregon,Williambury,3,981,5,2795.85,2410.24,385.61,UPI,Cancelled,Johnson-Cooper,rickybass@estrada-hawkins.net,35,No,0
+ord1895,2025-02-23,2025-02-27,Cust428,prod5080,Mouse,Electronics,South,Michigan,New Christopherborough,7,2556,20,14313.6,11193.61,3119.99,CC,Pending,Sparks Group,fergusonmarie@gonzales.com,6,Yes,48
+ord1896,2025-05-03,2025-05-05,Cust591,prod1914,Headphones,Electronics,East,Kansas,New Jenniferport,6,4465,20,21432.0,13391.04,8040.96,CC,Cancelled,Moore-Osborne,walter69@good-smith.com,12,No,0
+ord1897,2024-12-30,2025-01-05,Cust800,prod6633,Stapler,Office supplies,West,North Dakota,Jenningsview,7,4476,0,31332.0,22488.29,8843.71,Cash,Returned,"Smith, Simpson and Jones",douglasshelton@smith-ramirez.com,18,No,0
+ord1898,2025-08-13,2025-08-20,Cust159,prod9849,Calculator,Office supplies,West,Rhode Island,Lake Cathy,3,3481,0,10443.0,8408.57,2034.43,Cash,Cancelled,Bryant-Maxwell,rmassey@wheeler-gallagher.com,12,No,0
+ord1899,2025-09-03,2025-09-06,Cust564,prod3312,Sugar,Grocery,South,Iowa,South Julieside,7,2568,10,16178.4,13824.45,2353.95,CC,Returned,Miller LLC,victoriablair@young-chaney.com,24,No,0
+ord1900,2025-09-16,2025-09-21,Cust514,prod6302,Wheat,Grocery,South,Hawaii,West Harryburgh,2,2051,15,3486.7,2752.16,734.54,CC,Delivered,Anderson-Martinez,carrienguyen@glover-stafford.com,30,No,0
+ord1901,2025-11-13,2025-11-16,Cust636,prod7692,Biscuits,Grocery,North,Nevada,New Kevinland,4,2241,15,7619.4,6068.22,1551.18,Cash,Pending,Russell and Sons,larrydavis@clark-kennedy.com,15,No,0
+ord1902,2025-06-27,2025-07-03,Cust811,prod4542,Headphones,Electronics,West,Delaware,Lake Michelle,10,2656,20,21248.0,14866.57,6381.43,NB,Returned,Shelton-Allen,jameskim@ramirez.com,19,No,0
+ord1903,2025-11-15,2025-11-22,Cust692,prod4728,Bed,Furniture,West,New York,North Penny,9,4332,10,35089.2,29989.76,5099.44,Cash,Returned,James-Mccoy,johndavis@green-lynch.com,44,No,0
+ord1904,2025-11-16,2025-11-20,Cust202,prod1250,Keyboard,Electronics,North,Maine,Elizabethport,8,3952,10,28454.4,21301.33,7153.07,CC,Pending,Klein-Smith,harringtontamara@lopez-mason.com,16,No,0
+ord1905,2025-06-06,2025-06-08,Cust150,prod6089,Monitor,Electronics,North,Maryland,New Bruce,6,3560,15,18156.0,13633.94,4522.06,NB,Delivered,Meyers Ltd,hayesnathaniel@porter.com,4,Yes,49
+ord1906,2025-10-15,2025-10-18,Cust299,prod7571,Bookshelf,Furniture,North,Utah,Lake Victoria,6,3366,20,16156.8,10160.96,5995.84,Cash,Pending,Newton-Moore,royruth@simpson-villa.com,34,No,0
+ord1907,2025-06-18,2025-06-19,Cust663,prod4383,Rice bag,Grocery,East,Virginia,Erinton,8,3084,15,20971.2,16295.25,4675.95,CC,Pending,"James, Washington and Davis",christopherfowler@johnson.net,37,No,0
+ord1908,2024-12-05,2024-12-09,Cust366,prod6601,Laptop,Electronics,North,New Hampshire,South Erinport,2,4732,15,8044.4,5702.64,2341.76,NB,Delivered,Davis-Baker,friedmanbonnie@smith.com,44,No,0
+ord1909,2025-03-03,2025-03-06,Cust306,prod3949,Bed,Furniture,South,New York,South Wayne,1,3670,20,2936.0,2017.7,918.3,NB,Returned,Rollins-Jones,millerbenjamin@boyd-perez.org,3,Yes,45
+ord1910,2025-06-30,2025-07-06,Cust298,prod8406,Sofa,Furniture,West,Massachusetts,East Stephen,2,2840,5,5396.0,4761.28,634.72,UPI,Delivered,"Swanson, Sims and Fitzgerald",nlee@lewis.net,39,No,0
+ord1911,2025-06-21,2025-06-24,Cust135,prod1559,Laptop,Electronics,North,North Dakota,Christianfort,8,2823,0,22584.0,15622.0,6962.0,Cash,Cancelled,Obrien LLC,parksbradley@miller.com,37,No,0
+ord1912,2025-03-04,2025-03-05,Cust430,prod2675,Keyboard,Electronics,North,New Mexico,South Kenneth,6,322,5,1835.4,1648.57,186.83,CC,Pending,Heath-Martinez,paul49@bennett.com,29,No,0
+ord1913,2025-11-29,2025-12-03,Cust853,prod1179,Notebook,Office supplies,West,North Carolina,West Craig,9,2666,0,23994.0,19363.55,4630.45,Cash,Pending,Orozco and Sons,dwright@brown.com,44,No,0
+ord1914,2025-04-06,2025-04-07,Cust660,prod6648,Monitor,Electronics,East,Texas,Christyside,5,4448,5,21128.0,16588.31,4539.69,Cash,Delivered,Morris-Sanders,dianavillanueva@robbins.com,6,Yes,37
+ord1915,2025-08-08,2025-08-11,Cust777,prod2788,Pen,Office supplies,East,Montana,Port Kelsey,4,4888,15,16619.2,12503.28,4115.92,NB,Delivered,Pitts and Sons,jessedixon@perry.com,10,No,0
+ord1916,2025-04-21,2025-04-25,Cust420,prod1778,Wheat,Grocery,West,Washington,Jefferyland,4,1837,10,6613.2,4960.76,1652.44,Cash,Delivered,"Cox, Reilly and Payne",rreed@hernandez-foster.info,43,No,0
+ord1917,2025-03-18,2025-03-23,Cust617,prod3233,Bed,Furniture,West,Maine,Johnstad,4,3049,10,10976.4,6892.77,4083.63,Cash,Pending,"Shields, Liu and Watkins",smithann@crawford.com,13,No,0
+ord1918,2025-08-31,2025-09-04,Cust778,prod7598,Laptop,Electronics,East,Minnesota,East Heather,3,1726,0,5178.0,4632.04,545.96,NB,Delivered,Nelson LLC,hhernandez@reed-davis.com,7,Yes,25
+ord1919,2025-03-31,2025-04-03,Cust237,prod9147,Stapler,Office supplies,West,Colorado,Schultzmouth,2,1226,20,1961.6,1661.31,300.29,NB,Delivered,Schmidt-Bailey,garciaashley@young-mayer.info,33,No,0
+ord1920,2025-07-03,2025-07-10,Cust925,prod9662,Study Table,Furniture,West,Iowa,Kristenville,9,4390,5,37534.5,32362.2,5172.3,NB,Returned,Stokes LLC,scottmoore@cooper.com,9,Yes,37
+ord1921,2025-01-07,2025-01-08,Cust805,prod9408,Sofa,Furniture,West,Maine,Port Kimfort,9,436,0,3924.0,3423.09,500.91,UPI,Returned,Dennis PLC,crawfordamy@middleton.org,22,No,0
+ord1922,2024-12-14,2024-12-17,Cust752,prod2367,Office chair,Furniture,East,North Dakota,Amandaport,6,3841,0,23046.0,14254.45,8791.55,CC,Delivered,"Hunter, Caldwell and Johnson",derek14@adams-larsen.com,36,No,0
+ord1923,2025-06-17,2025-06-20,Cust239,prod3762,Sugar,Grocery,North,Alabama,Yorkport,2,2159,5,4102.1,2650.1,1452.0,CC,Delivered,"Olson, Griffith and Neal",jennifer29@warner.info,26,No,0
+ord1924,2025-05-18,2025-05-23,Cust374,prod4855,Office chair,Furniture,West,Kansas,Myersland,3,3892,10,10508.4,8050.83,2457.57,NB,Pending,Rodriguez LLC,taylorrichard@white-watkins.org,11,No,0
+ord1925,2024-12-15,2024-12-20,Cust782,prod6116,Study Table,Furniture,North,Wyoming,South Margaretfort,7,1813,0,12691.0,8601.11,4089.89,Cash,Cancelled,Munoz-Jordan,pgolden@roth.com,6,Yes,32
+ord1926,2024-12-11,2024-12-18,Cust764,prod6704,Monitor,Electronics,North,California,East Kevinton,9,1524,10,12344.4,10058.75,2285.65,CC,Delivered,Armstrong and Sons,schneiderphillip@david.net,1,Yes,20
+ord1927,2025-08-17,2025-08-18,Cust377,prod5610,Keyboard,Electronics,North,Colorado,South Lindsay,8,4377,10,31514.4,22363.69,9150.71,NB,Cancelled,"Rogers, White and Dudley",gallen@lopez.org,48,No,0
+ord1928,2025-02-04,2025-02-08,Cust453,prod7284,Cooking oil,Grocery,West,Kansas,Mccarthybury,5,615,15,2613.75,1901.56,712.19,UPI,Returned,Stanley-Williams,andrewschelsea@petersen-owens.biz,20,No,0
+ord1929,2025-02-27,2025-03-05,Cust205,prod7687,Headphones,Electronics,South,Vermont,Johnhaven,9,3412,20,24566.4,17058.5,7507.9,NB,Pending,"Simmons, Combs and Torres",melissa75@petty.com,43,No,0
+ord1930,2025-05-25,2025-05-29,Cust654,prod3223,Notebook,Office supplies,East,Arkansas,South Jennifershire,8,1387,20,8876.8,6385.89,2490.91,UPI,Delivered,Lane LLC,slee@le.com,24,No,0
+ord1931,2025-05-26,2025-05-31,Cust207,prod4970,Study Table,Furniture,North,Virginia,Boonechester,8,4161,15,28294.8,24349.28,3945.52,UPI,Cancelled,Allen and Sons,thomascarol@montoya.com,14,No,0
+ord1932,2025-04-29,2025-05-06,Cust240,prod7429,File folder,Office supplies,West,Minnesota,West Rachaeltown,10,575,0,5750.0,5128.02,621.98,CC,Delivered,Walter Inc,simpsonmelissa@stewart.org,18,No,0
+ord1933,2025-05-17,2025-05-18,Cust493,prod2089,Headphones,Electronics,East,New Hampshire,Bernardbury,3,2656,15,6772.8,4809.51,1963.29,NB,Returned,Ferguson-Owen,alexislutz@hickman.com,50,No,0
+ord1934,2025-08-27,2025-09-01,Cust432,prod7738,Stapler,Office supplies,West,South Carolina,Jefferyfort,2,1999,10,3598.2,2935.81,662.39,UPI,Cancelled,Vincent-Stevenson,warnernina@black-vargas.com,48,No,0
+ord1935,2025-09-16,2025-09-22,Cust893,prod5506,Cooking oil,Grocery,South,North Dakota,Lake Bobbyberg,1,475,0,475.0,360.22,114.78,UPI,Returned,"Snyder, Carroll and Estrada",leonardmorgan@gonzalez-morgan.com,29,No,0
+ord1936,2025-02-28,2025-03-06,Cust647,prod3574,Notebook,Office supplies,North,Alabama,Ryanburgh,6,3429,15,17487.9,13360.24,4127.66,NB,Delivered,Wilson-Blankenship,carolporter@shannon-bennett.com,4,Yes,31
+ord1937,2025-01-13,2025-01-20,Cust369,prod8675,Stapler,Office supplies,West,Illinois,Stevenmouth,9,1917,15,14665.05,11624.12,3040.93,UPI,Pending,Turner-Noble,jeffreyalexander@jones.com,19,No,0
+ord1938,2025-10-03,2025-10-05,Cust760,prod3666,Biscuits,Grocery,North,Tennessee,South Markmouth,3,539,15,1374.45,1209.95,164.5,CC,Returned,Daniel PLC,lewisrichard@day.com,24,No,0
+ord1939,2025-10-04,2025-10-06,Cust185,prod9607,Bed,Furniture,East,Kansas,Shawmouth,4,3836,20,12275.2,10201.78,2073.42,UPI,Delivered,"Adams, Douglas and Rios",tjoyce@graham.net,49,No,0
+ord1940,2025-05-13,2025-05-14,Cust267,prod5446,Laptop,Electronics,South,South Dakota,South Adrian,8,353,10,2541.6,1599.75,941.85,UPI,Returned,Stephenson Ltd,markcoleman@davenport-garcia.com,29,No,0
+ord1941,2025-03-01,2025-03-06,Cust787,prod9684,Calculator,Office supplies,North,Pennsylvania,Vanessachester,8,2516,5,19121.6,16497.9,2623.7,CC,Pending,"Lawrence, Phelps and Rivera",ashley50@weber.info,4,Yes,40
+ord1942,2024-12-17,2024-12-19,Cust624,prod7690,Sofa,Furniture,North,Kentucky,East Laurie,8,3073,0,24584.0,19917.2,4666.8,Cash,Returned,Thomas Ltd,sandra01@christian.net,11,No,0
+ord1943,2025-08-23,2025-08-25,Cust378,prod3862,Rice bag,Grocery,West,Kansas,Julianview,5,3028,10,13626.0,11610.72,2015.28,CC,Returned,Garcia LLC,vmorrison@garcia-bates.biz,44,No,0
+ord1944,2025-07-04,2025-07-07,Cust995,prod6214,Bookshelf,Furniture,East,Michigan,Barrton,4,432,20,1382.4,1036.75,345.65,NB,Delivered,"Lam, Little and Thomas",andrew80@andersen-barry.com,12,No,0
+ord1945,2025-06-20,2025-06-21,Cust729,prod6925,Study Table,Furniture,West,Florida,East Erin,2,2916,15,4957.2,3880.85,1076.35,UPI,Cancelled,"Clark, Nunez and Lee",imosley@nelson.com,41,No,0
+ord1946,2025-04-01,2025-04-08,Cust411,prod9413,Wheat,Grocery,West,Hawaii,Lauraton,7,4318,5,28714.7,18907.2,9807.5,NB,Returned,Willis-Hernandez,stokeszachary@moore-martin.com,31,No,0
+ord1947,2025-01-03,2025-01-07,Cust495,prod2866,Calculator,Office supplies,West,Kansas,Port Richard,6,253,0,1518.0,1023.64,494.36,NB,Pending,Church Inc,william85@sutton.com,39,No,0
+ord1948,2025-05-10,2025-05-16,Cust719,prod9677,Bookshelf,Furniture,North,Kansas,Jacquelineport,1,3487,5,3312.65,2724.49,588.16,NB,Cancelled,Jones and Sons,krystal12@burke-gonzales.com,41,No,0
+ord1949,2024-12-29,2025-01-02,Cust289,prod9785,Sofa,Furniture,North,Delaware,West Luis,9,4443,20,31989.6,22613.34,9376.26,UPI,Cancelled,Pratt-Williams,george56@sullivan-cooper.com,1,Yes,48
+ord1950,2025-06-12,2025-06-17,Cust427,prod2305,Laptop,Electronics,North,Michigan,West Carolyn,9,4115,0,37035.0,30603.15,6431.85,UPI,Cancelled,"Cooley, Evans and Richardson",eharrington@pruitt.net,19,No,0
+ord1951,2025-04-15,2025-04-17,Cust817,prod9181,Sofa,Furniture,East,Texas,Leahhaven,9,4130,20,29736.0,25303.77,4432.23,UPI,Returned,Brown and Sons,fullerolivia@villegas.com,9,Yes,40
+ord1952,2025-08-28,2025-09-02,Cust909,prod6861,Sofa,Furniture,South,Louisiana,Johnchester,3,868,10,2343.6,1689.53,654.07,CC,Cancelled,Thomas PLC,xnorman@carter.net,1,Yes,27
+ord1953,2025-11-17,2025-11-22,Cust546,prod3965,Study Table,Furniture,East,Washington,North Kellyville,7,992,15,5902.4,5154.27,748.13,CC,Cancelled,Hubbard and Sons,ashea@johnson.org,15,No,0
+ord1954,2025-02-16,2025-02-17,Cust223,prod7451,Headphones,Electronics,North,Colorado,South Chadfort,8,1817,20,11628.8,8121.29,3507.51,CC,Delivered,Craig-Brown,johnsonchristopher@becker.net,42,No,0
+ord1955,2025-10-25,2025-10-27,Cust603,prod4265,Notebook,Office supplies,South,Ohio,North Cindyport,7,4133,5,27484.45,19917.19,7567.26,CC,Cancelled,Zavala-Hall,hurstricky@brown.org,7,Yes,31
+ord1956,2025-08-05,2025-08-12,Cust847,prod8191,Rice bag,Grocery,West,Maryland,Griffinmouth,2,3219,5,6116.1,5145.32,970.78,NB,Cancelled,"Martin, Bowen and Long",hansenamy@harris.org,27,No,0
+ord1957,2025-02-13,2025-02-19,Cust223,prod7682,Keyboard,Electronics,North,Maryland,Masonburgh,6,2094,15,10679.4,8455.83,2223.57,CC,Returned,Walton Ltd,benjamin37@bonilla.biz,40,No,0
+ord1958,2025-02-02,2025-02-08,Cust644,prod4553,Laptop,Electronics,East,Georgia,South Rachel,8,1432,0,11456.0,8311.21,3144.79,UPI,Cancelled,Elliott-Flores,rubenpark@jones.biz,45,No,0
+ord1959,2025-06-11,2025-06-14,Cust615,prod1875,Bed,Furniture,North,Utah,South Ashley,8,1546,0,12368.0,7839.56,4528.44,UPI,Pending,Hansen-Stewart,brian83@garcia-trevino.biz,19,No,0
+ord1960,2024-12-07,2024-12-10,Cust305,prod9347,File folder,Office supplies,West,Virginia,Escobarshire,7,1769,20,9906.4,6197.7,3708.7,Cash,Cancelled,"Roy, Lopez and Wilson",todd32@short.info,18,No,0
+ord1961,2025-10-19,2025-10-25,Cust476,prod7604,Wheat,Grocery,East,Arizona,Toddfort,2,1392,20,2227.2,1338.28,888.92,UPI,Pending,"Smith, Avila and Lewis",christophermoore@powell.biz,46,No,0
+ord1962,2025-06-18,2025-06-19,Cust455,prod6952,Laptop,Electronics,East,Oregon,Lake Jermaine,10,3474,5,33003.0,27317.93,5685.07,CC,Returned,Schneider LLC,jonesmichael@garza.org,17,No,0
+ord1963,2025-05-16,2025-05-17,Cust752,prod4765,Biscuits,Grocery,North,North Carolina,Evanview,1,3961,5,3762.95,2967.22,795.73,Cash,Delivered,"Lee, Castro and Holt",melanie58@porter.com,14,No,0
+ord1964,2025-07-23,2025-07-25,Cust224,prod7655,Calculator,Office supplies,East,South Carolina,Port Meganville,1,4033,20,3226.4,2828.87,397.53,NB,Returned,Pope-Smith,christopher82@wallace.com,44,No,0
+ord1965,2025-01-29,2025-01-30,Cust806,prod1974,Bookshelf,Furniture,North,Utah,South Zacharyfort,6,2936,10,15854.4,12087.75,3766.65,CC,Pending,Miller Inc,ulove@cunningham-smith.org,20,No,0
+ord1966,2025-01-31,2025-02-07,Cust446,prod7126,Notebook,Office supplies,West,Michigan,Donaldfort,6,131,10,707.4,541.08,166.32,UPI,Returned,"May, Carr and Ferguson",golson@cervantes.com,44,No,0
+ord1967,2024-12-17,2024-12-22,Cust727,prod6899,Study Table,Furniture,East,Montana,East Kellyberg,9,3080,10,24948.0,17074.32,7873.68,Cash,Cancelled,"Smith, Miller and Stanley",nevans@castaneda-tate.biz,43,No,0
+ord1968,2025-08-02,2025-08-06,Cust650,prod7279,Stapler,Office supplies,North,South Dakota,Lake Amandaville,8,2458,20,15731.2,11071.33,4659.87,NB,Delivered,Choi LLC,piercejeffrey@ward-chapman.biz,31,No,0
+ord1969,2025-12-03,2025-12-10,Cust621,prod5425,Laptop,Electronics,South,Utah,West Rebecca,4,673,15,2288.2,1403.7,884.5,Cash,Delivered,Terry-Higgins,kathybeasley@sawyer.info,43,No,0
+ord1970,2025-11-05,2025-11-09,Cust199,prod6304,Wheat,Grocery,North,Alaska,West Daniellemouth,6,2184,0,13104.0,8723.59,4380.41,UPI,Cancelled,Salinas-Mitchell,cdaniel@martinez.com,3,Yes,29
+ord1971,2025-05-08,2025-05-14,Cust222,prod3596,Notebook,Office supplies,East,Washington,Port Tylershire,10,3411,5,32404.5,20253.64,12150.86,Cash,Delivered,Martinez LLC,kevinortiz@mayo.com,36,No,0
+ord1972,2025-10-18,2025-10-19,Cust327,prod5730,Notebook,Office supplies,East,Ohio,South Pamelastad,9,913,15,6984.45,4271.49,2712.96,CC,Cancelled,Miller Ltd,reillyjonathan@reynolds-munoz.com,28,No,0
+ord1973,2025-10-28,2025-10-29,Cust619,prod4677,Bed,Furniture,South,West Virginia,Lesterfort,4,1715,15,5831.0,3581.46,2249.54,NB,Delivered,Sandoval Group,sfoster@sims-manning.com,12,No,0
+ord1974,2025-03-30,2025-04-06,Cust789,prod1468,Headphones,Electronics,West,Utah,North Jacksonview,4,4879,10,17564.4,11968.12,5596.28,Cash,Returned,Williams-Lopez,ryan34@richardson.com,8,Yes,34
+ord1975,2025-09-08,2025-09-10,Cust450,prod1709,Biscuits,Grocery,East,Alaska,Port Mallory,6,2814,10,15195.6,10344.93,4850.67,NB,Returned,"Drake, Powell and Kramer",mmays@little.net,48,No,0
+ord1976,2024-12-19,2024-12-21,Cust717,prod4820,File folder,Office supplies,West,Louisiana,Vazquezview,6,3157,20,15153.6,9233.25,5920.35,NB,Pending,Davis-Morris,xbenson@morris.net,44,No,0
+ord1977,2025-08-16,2025-08-17,Cust675,prod4811,Bookshelf,Furniture,West,Arizona,West Stacy,4,1998,0,7992.0,5973.91,2018.09,CC,Returned,Baker-Brown,aliciasmith@webb.biz,5,Yes,35
+ord1978,2025-05-25,2025-05-31,Cust244,prod2096,Cooking oil,Grocery,West,New Jersey,Phillipsmouth,10,3876,20,31008.0,25172.97,5835.03,CC,Returned,Zuniga-Alexander,josephrice@sawyer.info,40,No,0
+ord1979,2024-12-11,2024-12-15,Cust189,prod8355,Bed,Furniture,East,Missouri,South Jasonside,5,3487,20,13948.0,10083.88,3864.12,UPI,Returned,Webb-Rodriguez,bellamber@torres-romero.com,45,No,0
+ord1980,2025-03-20,2025-03-23,Cust132,prod4409,Keyboard,Electronics,West,Kansas,Haynesfurt,2,973,5,1848.7,1638.45,210.25,UPI,Pending,Palmer PLC,scook@vargas.com,32,No,0
+ord1981,2025-11-01,2025-11-02,Cust606,prod4199,Rice bag,Grocery,North,Oklahoma,Burtonfort,10,4371,20,34968.0,28001.65,6966.35,CC,Cancelled,"Shelton, Miller and Torres",christina66@moreno-walker.com,20,No,0
+ord1982,2025-03-17,2025-03-18,Cust205,prod7422,File folder,Office supplies,South,Idaho,East Vanessabury,1,2505,5,2379.75,1769.33,610.42,CC,Delivered,Snyder-Jones,hbenson@phillips.org,5,Yes,28
+ord1983,2025-08-30,2025-09-01,Cust625,prod6991,Bed,Furniture,East,North Carolina,East Rachel,8,4152,5,31555.2,22597.06,8958.14,NB,Pending,White Group,kennethhooper@rodriguez.com,40,No,0
+ord1984,2025-11-28,2025-12-01,Cust251,prod1601,Headphones,Electronics,North,Arkansas,Campbellport,6,4840,10,26136.0,15919.63,10216.37,Cash,Returned,Serrano-Cox,garciamichael@barnes-wells.com,11,No,0
+ord1985,2025-10-04,2025-10-07,Cust920,prod4580,Pen,Office supplies,North,Wisconsin,Port Timothyfurt,6,129,10,696.6,458.19,238.41,UPI,Delivered,Thomas-Smith,joshuamoss@bush-stanley.info,7,Yes,31
+ord1986,2025-03-10,2025-03-12,Cust677,prod7487,Sugar,Grocery,East,Rhode Island,Raymondfort,1,3692,10,3322.8,2249.61,1073.19,CC,Delivered,"Gutierrez, Yoder and Moon",ashleycampbell@liu.com,20,No,0
+ord1987,2025-10-26,2025-10-28,Cust581,prod5481,Monitor,Electronics,North,New York,Brianberg,4,2112,20,6758.4,4435.62,2322.78,Cash,Cancelled,Kennedy LLC,victoria45@pennington.info,32,No,0
+ord1988,2025-03-16,2025-03-18,Cust791,prod2775,Calculator,Office supplies,West,Illinois,Perkinsville,2,2344,10,4219.2,3282.58,936.62,CC,Delivered,"Alexander, Schneider and Harper",marcus97@sheppard.org,16,No,0
+ord1989,2025-04-05,2025-04-11,Cust549,prod5738,Sofa,Furniture,East,Louisiana,Shannonville,5,1295,20,5180.0,3904.91,1275.09,Cash,Cancelled,Garcia-Villanueva,troychan@swanson-adams.biz,6,Yes,40
+ord1990,2025-04-28,2025-05-02,Cust696,prod6479,Laptop,Electronics,South,Alaska,North Reginald,3,756,20,1814.4,1200.78,613.62,Cash,Cancelled,Christian PLC,marioperry@martin-rose.com,22,No,0
+ord1991,2025-07-25,2025-08-01,Cust687,prod3151,Biscuits,Grocery,South,South Carolina,Michaelville,5,4864,15,20672.0,13996.48,6675.52,NB,Delivered,Holt and Sons,michele52@jenkins-brewer.com,40,No,0
+ord1992,2025-04-03,2025-04-07,Cust827,prod2437,Rice bag,Grocery,South,South Dakota,West Michelleburgh,4,1138,10,4096.8,3611.8,485.0,NB,Cancelled,Hahn-Morris,reynoldsmegan@aguirre.biz,11,No,0
+ord1993,2025-02-06,2025-02-12,Cust133,prod5563,Pen,Office supplies,West,North Carolina,Brendaton,8,3433,10,24717.6,15063.36,9654.24,CC,Delivered,Klein-Mcmahon,williamsalyssa@olsen-ramirez.org,45,No,0
+ord1994,2025-11-12,2025-11-15,Cust620,prod8949,Laptop,Electronics,North,Alabama,West Ernest,4,1364,0,5456.0,4775.46,680.54,Cash,Returned,"Johnson, Jones and Johnson",bshaw@cardenas-colon.info,0,Yes,33
+ord1995,2025-09-02,2025-09-07,Cust660,prod3485,Monitor,Electronics,East,Wyoming,Cherryburgh,3,1493,15,3807.15,2595.33,1211.82,Cash,Cancelled,Phillips-Wheeler,wolfkathleen@reed-hardy.net,26,No,0
+ord1996,2025-09-12,2025-09-14,Cust418,prod2695,Laptop,Electronics,East,Arizona,New Daisytown,7,2593,15,15428.35,9701.26,5727.09,Cash,Returned,"Fischer, Lewis and Singh",bradleyamanda@garcia-pratt.net,37,No,0
+ord1997,2025-01-13,2025-01-14,Cust962,prod6984,Sugar,Grocery,South,Alabama,Marcusstad,7,864,15,5140.8,3755.03,1385.77,CC,Returned,"Rivera, Jackson and Davis",joshuaschmitt@fry.com,13,No,0
+ord1998,2025-08-20,2025-08-24,Cust685,prod8193,Bookshelf,Furniture,North,New Jersey,South Sandra,2,1737,0,3474.0,3076.18,397.82,Cash,Delivered,Morris Ltd,tamara45@spencer.com,20,No,0
+ord1999,2025-07-09,2025-07-14,Cust629,prod6091,Study Table,Furniture,North,Wyoming,New Amber,3,4648,15,11852.4,7350.81,4501.59,CC,Cancelled,Mann Inc,aduffy@perez-ward.com,37,No,0
