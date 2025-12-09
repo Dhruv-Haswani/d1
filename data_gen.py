@@ -58,7 +58,7 @@ for i in range(1000):
         auto_reorder = "No"
         reorder_quantity = 0
 
-    # append inside loop  👇
+    # append inside loop  
     records.append({
         "Order id": order_id,
         "order date": order_date,
@@ -93,3 +93,4 @@ try:
     print("Dataset generated successfully and saved as 'Superstore Management System.csv'")
 except PermissionError:
     print("Please close the file 'Superstore Management System.csv' if open in Excel")
+
