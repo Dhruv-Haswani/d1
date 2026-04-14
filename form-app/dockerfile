@@ -1,0 +1,10 @@
+FROM ubuntu:latest
+
+WORKDIR /app
+
+COPY . .
+
+RUN apt-get update && apt-get install -y docker.io
+
+CMD ["bash", "-c", "echo password | docker login -u username --password-stdin && docker build -t myapp:latest . && docker push mydockerhub/myapp:latest"]
+
